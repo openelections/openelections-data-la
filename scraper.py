@@ -4,6 +4,12 @@ from BeautifulSoup import BeautifulSoup
 
 headers = ['parish', 'office', 'district', 'party', 'candidate', 'votes']
 OFFICE_LIST = ['Lieutenant Governor', 'U. S. Senator', 'U. S. Representative', 'Attorney General', 'Governor', 'Presidential Electors', 'State Senator', 'State Representative', 'Secretary of State', 'Commissioner of']
+OFFICE_LOOKUP = {
+    'Lieutenant Governor' : 'Lieutenant Governor', 'U. S. Senator' : 'U.S. Senate', 'U. S. Representative' : 'U.S. House',
+    'Attorney General' : 'Attorney General', 'Governor' : 'Governor', 'Presidential Electors' : 'President',
+    'State Senator': 'State Senate', 'State Representative' : 'State House', 'Secretary of State' : 'Secretary of State',
+    'Commissioner of Agriculture and Forestry' : 'Commissioner of Agriculture and Forestry', 'Commissioner of Insurance' : 'Commissioner of Insurance'
+}
 
 def write_parish_results(url, file_name):
     r = requests.get(url)
@@ -56,6 +62,6 @@ def scrape_parish_results(parish_details, candidate_details, file_name):
                 vote_totals = [int(x.text) for x in row.findAll('td')[1:]]
                 for candidate, votes in zip(candidates_for_office, vote_totals):
                     party = [c[3] for c in candidate_details if candidate == c[0]][0]
-                    w.writerow([parish_name, office_name, district, party, candidate, votes])
+                    w.writerow([parish_name, OFFICE_LOOKUP[office_name], district, party, candidate, votes])
 
     return precinct_links
