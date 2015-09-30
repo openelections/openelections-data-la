@@ -1,0 +1,125 @@
+parish,office,district,party,candidate,votes
+Ascension,State Senate,2nd Senatorial District,D,Elton M. Aubert,1593
+Ascension,State Senate,2nd Senatorial District,D,Troy E. Brown,1738
+Assumption,State Senate,2nd Senatorial District,D,Elton M. Aubert,761
+Assumption,State Senate,2nd Senatorial District,D,Troy E. Brown,2542
+Iberville,State Senate,2nd Senatorial District,D,Elton M. Aubert,925
+Iberville,State Senate,2nd Senatorial District,D,Troy E. Brown,1343
+Lafourche,State Senate,2nd Senatorial District,D,Elton M. Aubert,980
+Lafourche,State Senate,2nd Senatorial District,D,Troy E. Brown,1167
+St. Charles,State Senate,2nd Senatorial District,D,Elton M. Aubert,80
+St. Charles,State Senate,2nd Senatorial District,D,Troy E. Brown,128
+St. James,State Senate,2nd Senatorial District,D,Elton M. Aubert,3644
+St. James,State Senate,2nd Senatorial District,D,Troy E. Brown,1415
+St. John The Baptist,State Senate,2nd Senatorial District,D,Elton M. Aubert,2222
+St. John The Baptist,State Senate,2nd Senatorial District,D,Troy E. Brown,2557
+West Baton Rouge,State Senate,2nd Senatorial District,D,Elton M. Aubert,1344
+West Baton Rouge,State Senate,2nd Senatorial District,D,Troy E. Brown,1973
+Lafayette,State Senate,24th Senatorial District,D,"Donald ""Don"" Cravins",5357
+Lafayette,State Senate,24th Senatorial District,D,Elbert Lee Guillory,4728
+St. Landry,State Senate,24th Senatorial District,D,"Donald ""Don"" Cravins",4659
+St. Landry,State Senate,24th Senatorial District,D,Elbert Lee Guillory,8072
+St. Martin,State Senate,24th Senatorial District,D,"Donald ""Don"" Cravins",488
+St. Martin,State Senate,24th Senatorial District,D,Elbert Lee Guillory,383
+Beauregard,State Senate,30th Senatorial District,R,James David Cain,2545
+Beauregard,State Senate,30th Senatorial District,R,John Smith,2925
+Calcasieu,State Senate,30th Senatorial District,R,James David Cain,1031
+Calcasieu,State Senate,30th Senatorial District,R,John Smith,1483
+Vernon,State Senate,30th Senatorial District,R,James David Cain,2196
+Vernon,State Senate,30th Senatorial District,R,John Smith,4049
+Caddo,State Senate,39th Senatorial District,D,Lydia P. Jackson,8295
+Caddo,State Senate,39th Senatorial District,D,Gregory Tarver,9168
+Caddo,State House,3rd Representative District,D,Lynn D. Cawthorne,2533
+Caddo,State House,3rd Representative District,D,Barbara Norton,3240
+Bossier,State House,10th Representative District,R,Jerri Ray de Pingre',265
+Bossier,State House,10th Representative District,D,"""Gene"" Reynolds",108
+Webster,State House,10th Representative District,R,Jerri Ray de Pingre',3243
+Webster,State House,10th Representative District,D,"""Gene"" Reynolds",4124
+Lincoln,State House,12th Representative District,R,Jason Bullock,1617
+Lincoln,State House,12th Representative District,R,"""Rob"" Shadoin",2535
+Union,State House,12th Representative District,R,Jason Bullock,1896
+Union,State House,12th Representative District,R,"""Rob"" Shadoin",1651
+Morehouse,State House,14th Representative District,R,"""Sam"" Little",1071
+Morehouse,State House,14th Representative District,R,"""Jay"" Morris",273
+Ouachita,State House,14th Representative District,R,"""Sam"" Little",2392
+Ouachita,State House,14th Representative District,R,"""Jay"" Morris",4732
+Ouachita,State House,17th Representative District,D,Billye Burns,1981
+Ouachita,State House,17th Representative District,D,Marcus Hunter,1984
+Grant,State House,22nd Representative District,N,Terry Brown,3046
+Grant,State House,22nd Representative District,R,Billy R. Chandler,2555
+Lasalle,State House,22nd Representative District,N,Terry Brown,1093
+Lasalle,State House,22nd Representative District,R,Billy R. Chandler,1039
+Natchitoches,State House,22nd Representative District,N,Terry Brown,426
+Natchitoches,State House,22nd Representative District,R,Billy R. Chandler,472
+Red River,State House,22nd Representative District,N,Terry Brown,1351
+Red River,State House,22nd Representative District,R,Billy R. Chandler,1334
+Winn,State House,22nd Representative District,N,Terry Brown,99
+Winn,State House,22nd Representative District,R,Billy R. Chandler,65
+De Soto,State House,23rd Representative District,D,Kenny Cox,1731
+De Soto,State House,23rd Representative District,R,"""Rick"" Nowlin",842
+Natchitoches,State House,23rd Representative District,D,Kenny Cox,2720
+Natchitoches,State House,23rd Representative District,R,"""Rick"" Nowlin",3638
+Red River,State House,23rd Representative District,D,Kenny Cox,1105
+Red River,State House,23rd Representative District,R,"""Rick"" Nowlin",367
+Lafayette,State House,39th Representative District,R,"""Don"" Menard",2761
+Lafayette,State House,39th Representative District,D,Stephen Ortego,3031
+St. Landry,State House,39th Representative District,R,"""Don"" Menard",890
+St. Landry,State House,39th Representative District,D,Stephen Ortego,1426
+Lafayette,State House,44th Representative District,D,Rickey Hardy,2864
+Lafayette,State House,44th Representative District,D,Vincent J. Pierre,3286
+Lafourche,State House,53rd Representative District,R,Billy J. Hebert,33
+Lafourche,State House,53rd Representative District,R,Lenar Whitney,55
+Terrebonne,State House,53rd Representative District,R,Billy J. Hebert,2519
+Terrebonne,State House,53rd Representative District,R,Lenar Whitney,3654
+St. Charles,State House,56th Representative District,R,Gregory A. Miller,4816
+St. Charles,State House,56th Representative District,D,"G. ""Ram"" Ramachandran",2986
+St. John The Baptist,State House,56th Representative District,R,Gregory A. Miller,385
+St. John The Baptist,State House,56th Representative District,D,"G. ""Ram"" Ramachandran",157
+St. Charles,State House,57th Representative District,D,Randal L. Gaines,1061
+St. Charles,State House,57th Representative District,N,"""Russ"" Wise",411
+St. John The Baptist,State House,57th Representative District,D,Randal L. Gaines,4616
+St. John The Baptist,State House,57th Representative District,N,"""Russ"" Wise",2137
+Ascension,State House,58th Representative District,D,"Dwayne ""Gully"" Bailey",1404
+Ascension,State House,58th Representative District,D,"""Ed"" Price",1783
+Iberville,State House,58th Representative District,D,"Dwayne ""Gully"" Bailey",413
+Iberville,State House,58th Representative District,D,"""Ed"" Price",676
+St. James,State House,58th Representative District,D,"Dwayne ""Gully"" Bailey",1630
+St. James,State House,58th Representative District,D,"""Ed"" Price",2357
+East Baton Rouge,State House,61st Representative District,D,C. Denise Marcelle,1836
+East Baton Rouge,State House,61st Representative District,D,Alfred C. Williams,2052
+East Baton Rouge,State House,62nd Representative District,D,"""Ken"" Dawson",750
+East Baton Rouge,State House,62nd Representative District,R,"""Kenny"" Havard",1187
+East Feliciana,State House,62nd Representative District,D,"""Ken"" Dawson",2150
+East Feliciana,State House,62nd Representative District,R,"""Kenny"" Havard",3517
+West Feliciana,State House,62nd Representative District,D,"""Ken"" Dawson",1270
+West Feliciana,State House,62nd Representative District,R,"""Kenny"" Havard",1922
+Ascension,State House,81st Representative District,D,Kevin Hull,146
+Ascension,State House,81st Representative District,R,Clay Schexnayder,713
+Livingston,State House,81st Representative District,D,Kevin Hull,1697
+Livingston,State House,81st Representative District,R,Clay Schexnayder,2936
+St. James,State House,81st Representative District,D,Kevin Hull,448
+St. James,State House,81st Representative District,R,Clay Schexnayder,1000
+St. John The Baptist,State House,81st Representative District,D,Kevin Hull,825
+St. John The Baptist,State House,81st Representative District,R,Clay Schexnayder,900
+Tangipahoa,State House,86th Representative District,R,"""Chris"" Broadwater",2800
+Tangipahoa,State House,86th Representative District,R,George Holton,2125
+Iberia,State House,96th Representative District,D,Terry Landry,1688
+Iberia,State House,96th Representative District,O,Eric Martin,1161
+Lafayette,State House,96th Representative District,D,Terry Landry,920
+Lafayette,State House,96th Representative District,O,Eric Martin,464
+St. Martin,State House,96th Representative District,D,Terry Landry,2033
+St. Martin,State House,96th Representative District,O,Eric Martin,2029
+East Baton Rouge,State House,101st Representative District,D,Tiffany Foxworth,1744
+East Baton Rouge,State House,101st Representative District,D,"Edward ""Ted"" James",2414
+Orleans,State House,103rd Representative District,R,"""Ray"" Garofalo",154
+Orleans,State House,103rd Representative District,D,Chad Lauga,161
+Plaquemines,State House,103rd Representative District,R,"""Ray"" Garofalo",298
+Plaquemines,State House,103rd Representative District,D,Chad Lauga,614
+St. Bernard,State House,103rd Representative District,R,"""Ray"" Garofalo",6701
+St. Bernard,State House,103rd Representative District,D,Chad Lauga,5487
+Jefferson,State House,105th Representative District,R,"Harold L. ""Rocky"" Asevedo",787
+Jefferson,State House,105th Representative District,R,"""Chris"" Leopold",347
+Orleans,State House,105th Representative District,R,"Harold L. ""Rocky"" Asevedo",460
+Orleans,State House,105th Representative District,R,"""Chris"" Leopold",237
+Plaquemines,State House,105th Representative District,R,"Harold L. ""Rocky"" Asevedo",2936
+Plaquemines,State House,105th Representative District,R,"""Chris"" Leopold",4202
