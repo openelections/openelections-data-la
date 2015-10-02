@@ -1,15 +1,15 @@
 import unicodecsv
 import requests
-import metadata
 from BeautifulSoup import BeautifulSoup
 
 headers = ['parish', 'office', 'district', 'party', 'candidate', 'votes']
-OFFICE_LIST = ['Lieutenant Governor', 'U. S. Senator', 'U. S. Representative', 'Attorney General', 'Governor', 'Presidential Electors', 'State Senator', 'State Representative', 'Secretary of State', 'Commissioner of']
+OFFICE_LIST = ['Lieutenant Governor', 'U. S. Senator', 'U. S. Representative', 'Attorney General', 'Governor', 'Presidential Electors', 'State Senator', 'State Representative', 'Secretary of State', 'Commissioner of', 'Presidential Nominee', 'Presidential Nominee', 'Presidential Electors']
 OFFICE_LOOKUP = {
     'Lieutenant Governor' : 'Lieutenant Governor', 'U. S. Senator' : 'U.S. Senate', 'U. S. Representative' : 'U.S. House',
     'Attorney General' : 'Attorney General', 'Governor' : 'Governor', 'Presidential Electors' : 'President',
     'State Senator': 'State Senate', 'State Representative' : 'State House', 'Secretary of State' : 'Secretary of State',
-    'Commissioner of Agriculture and Forestry' : 'Commissioner of Agriculture and Forestry', 'Commissioner of Insurance' : 'Commissioner of Insurance'
+    'Commissioner of Agriculture and Forestry' : 'Commissioner of Agriculture and Forestry', 'Commissioner of Insurance' : 'Commissioner of Insurance',
+    'Presidential Nominee' : 'President', 'Presidential Electors' : 'President'
 }
 
 def write_parish_results(url, file_name):
@@ -20,6 +20,14 @@ def write_parish_results(url, file_name):
     candidate_details = get_candidate_details(soup, offices)
     precinct_links = scrape_parish_results(parish_details, candidate_details, file_name + '.csv')
     # write_precinct_results(zip(offices,precinct_links), candidate_details, file_name + '__precinct.csv')
+
+def write_parish_presidential_results(url, file_name):
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text)
+    offices = [x.text.split(' -- ')[0] for x in soup.findAll('strong') if x.text.split(' -- ')[0].strip() in OFFICE_LIST]
+    parish_details = get_parish_details(url, soup, offices)
+    candidate_details = get_candidate_details(soup, offices)
+    scrape_parish_results(parish_details, candidate_details, file_name + '.csv')
 
 def get_candidate_details(soup, offices):
     candidate_details = []
