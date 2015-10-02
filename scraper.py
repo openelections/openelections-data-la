@@ -65,7 +65,7 @@ def scrape_parish_results(parish_details, candidate_details, file_name):
             soup = BeautifulSoup(r.text)
             precinct_links[office] = ["http://"+url.split('/')[2]+"/"+url.split('/')[3]+'/'+x['href'] for x in soup.findAll('a') if "Precinct" in x.text]
             rows = soup.findAll('tr')
-            candidates_for_office = [x.text for x in rows[0] if x.text in [c[0] for c in candidate_details]]
+            candidates_for_office = [x.text.replace('&amp;', '&') for x in rows[0] if x.text.replace('&amp;', '&') in [c[0] for c in candidate_details]]
             for row in rows[1:]:
                 parish_name = row.find('strong').text
                 vote_totals = [int(x.text) for x in row.findAll('td')[1:]]
