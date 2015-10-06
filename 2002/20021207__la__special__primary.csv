@@ -1,19 +1,19 @@
 parish,office,district,party,candidate,votes
-Lincoln,State House,12th Representative District,D,"James ""Jim"" Ball",1434
-Lincoln,State House,12th Representative District,R,Ty Bromell,2016
-Lincoln,State House,12th Representative District,R,Hollis Downs,2545
-Lincoln,State House,12th Representative District,R,Chuck Earle,1145
-Morehouse,State House,12th Representative District,D,"James ""Jim"" Ball",39
-Morehouse,State House,12th Representative District,R,Ty Bromell,68
-Morehouse,State House,12th Representative District,R,Hollis Downs,34
-Morehouse,State House,12th Representative District,R,Chuck Earle,134
-Union,State House,12th Representative District,D,"James ""Jim"" Ball",1174
-Union,State House,12th Representative District,R,Ty Bromell,673
-Union,State House,12th Representative District,R,Hollis Downs,1627
-Union,State House,12th Representative District,R,Chuck Earle,2921
-Avoyelles,State House,28th Representative District,D,Timothy Descant,374
-Avoyelles,State House,28th Representative District,D,Jimmy Earles,327
-Avoyelles,State House,28th Representative District,D,Freeman Ford,2526
-Avoyelles,State House,28th Representative District,D,Robert Johnson,2711
-Avoyelles,State House,28th Representative District,R,Kirby Roy III,2630
-Avoyelles,State House,28th Representative District,D,Monica Walker,3140
+Lincoln,State House,12,D,"James ""Jim"" Ball",1434
+Lincoln,State House,12,R,Ty Bromell,2016
+Lincoln,State House,12,R,Hollis Downs,2545
+Lincoln,State House,12,R,Chuck Earle,1145
+Morehouse,State House,12,D,"James ""Jim"" Ball",39
+Morehouse,State House,12,R,Ty Bromell,68
+Morehouse,State House,12,R,Hollis Downs,34
+Morehouse,State House,12,R,Chuck Earle,134
+Union,State House,12,D,"James ""Jim"" Ball",1174
+Union,State House,12,R,Ty Bromell,673
+Union,State House,12,R,Hollis Downs,1627
+Union,State House,12,R,Chuck Earle,2921
+Avoyelles,State House,28,D,Timothy Descant,374
+Avoyelles,State House,28,D,Jimmy Earles,327
+Avoyelles,State House,28,D,Freeman Ford,2526
+Avoyelles,State House,28,D,Robert Johnson,2711
+Avoyelles,State House,28,R,Kirby Roy III,2630
+Avoyelles,State House,28,D,Monica Walker,3140

@@ -1,9 +1,9 @@
 parish,office,district,party,candidate,votes
-Lincoln,State House,12th Representative District,R,Hollis Downs,2136
-Lincoln,State House,12th Representative District,R,Chuck Earle,1389
-Morehouse,State House,12th Representative District,R,Hollis Downs,18
-Morehouse,State House,12th Representative District,R,Chuck Earle,54
-Union,State House,12th Representative District,R,Hollis Downs,1684
-Union,State House,12th Representative District,R,Chuck Earle,2359
-Avoyelles,State House,28th Representative District,D,Robert Johnson,4482
-Avoyelles,State House,28th Representative District,D,Monica Walker,4745
+Lincoln,State House,12,R,Hollis Downs,2136
+Lincoln,State House,12,R,Chuck Earle,1389
+Morehouse,State House,12,R,Hollis Downs,18
+Morehouse,State House,12,R,Chuck Earle,54
+Union,State House,12,R,Hollis Downs,1684
+Union,State House,12,R,Chuck Earle,2359
+Avoyelles,State House,28,D,Robert Johnson,4482
+Avoyelles,State House,28,D,Monica Walker,4745

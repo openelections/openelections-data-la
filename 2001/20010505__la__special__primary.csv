@@ -1,7 +1,7 @@
 parish,office,district,party,candidate,votes
-Lafourche,State House,53rd Representative District,D,Damon J. Baldone,96
-Lafourche,State House,53rd Representative District,D,"""Johnny"" Glover",11
-Lafourche,State House,53rd Representative District,R,"""Connie"" Scheer",7
-Terrebonne,State House,53rd Representative District,D,Damon J. Baldone,2779
-Terrebonne,State House,53rd Representative District,D,"""Johnny"" Glover",2676
-Terrebonne,State House,53rd Representative District,R,"""Connie"" Scheer",582
+Lafourche,State House,53,D,Damon J. Baldone,96
+Lafourche,State House,53,D,"""Johnny"" Glover",11
+Lafourche,State House,53,R,"""Connie"" Scheer",7
+Terrebonne,State House,53,D,Damon J. Baldone,2779
+Terrebonne,State House,53,D,"""Johnny"" Glover",2676
+Terrebonne,State House,53,R,"""Connie"" Scheer",582

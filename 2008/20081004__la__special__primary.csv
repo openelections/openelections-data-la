@@ -1,19 +1,19 @@
 parish,office,district,party,candidate,votes
-Jefferson,State Senate,9th Senatorial District,R,Conrad Appel,5770
-Jefferson,State Senate,9th Senatorial District,R,"Allen ""Al"" Leone",3383
-Jefferson,State Senate,9th Senatorial District,R,"""Polly"" Thomas",7715
-Pointe Coupee,State House,18th Representative District,D,Troy Grezaffi,2870
-Pointe Coupee,State House,18th Representative District,D,Audrey A. McCain,243
-Pointe Coupee,State House,18th Representative District,D,Major Thibaut,2450
-Pointe Coupee,State House,18th Representative District,D,"""Billy"" Ward",788
-Pointe Coupee,State House,18th Representative District,D,Russell Young,1067
-West Baton Rouge,State House,18th Representative District,D,Troy Grezaffi,434
-West Baton Rouge,State House,18th Representative District,D,Audrey A. McCain,1048
-West Baton Rouge,State House,18th Representative District,D,Major Thibaut,388
-West Baton Rouge,State House,18th Representative District,D,"""Billy"" Ward",1250
-West Baton Rouge,State House,18th Representative District,D,Russell Young,205
-West Feliciana,State House,18th Representative District,D,Troy Grezaffi,49
-West Feliciana,State House,18th Representative District,D,Audrey A. McCain,19
-West Feliciana,State House,18th Representative District,D,Major Thibaut,17
-West Feliciana,State House,18th Representative District,D,"""Billy"" Ward",26
-West Feliciana,State House,18th Representative District,D,Russell Young,25
+Jefferson,State Senate,9,R,Conrad Appel,5770
+Jefferson,State Senate,9,R,"Allen ""Al"" Leone",3383
+Jefferson,State Senate,9,R,"""Polly"" Thomas",7715
+Pointe Coupee,State House,18,D,Troy Grezaffi,2870
+Pointe Coupee,State House,18,D,Audrey A. McCain,243
+Pointe Coupee,State House,18,D,Major Thibaut,2450
+Pointe Coupee,State House,18,D,"""Billy"" Ward",788
+Pointe Coupee,State House,18,D,Russell Young,1067
+West Baton Rouge,State House,18,D,Troy Grezaffi,434
+West Baton Rouge,State House,18,D,Audrey A. McCain,1048
+West Baton Rouge,State House,18,D,Major Thibaut,388
+West Baton Rouge,State House,18,D,"""Billy"" Ward",1250
+West Baton Rouge,State House,18,D,Russell Young,205
+West Feliciana,State House,18,D,Troy Grezaffi,49
+West Feliciana,State House,18,D,Audrey A. McCain,19
+West Feliciana,State House,18,D,Major Thibaut,17
+West Feliciana,State House,18,D,"""Billy"" Ward",26
+West Feliciana,State House,18,D,Russell Young,25

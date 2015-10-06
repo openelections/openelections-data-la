@@ -1,19 +1,19 @@
 parish,office,district,party,candidate,votes
-Jefferson,State House,86th Representative District,R,"""Hank"" Berchak",377
-Jefferson,State House,86th Representative District,R,"Robert B. ""Robby"" Evans III",1036
-Jefferson,State House,86th Representative District,R,"""Ed"" Markle",530
-Jefferson,State House,86th Representative District,R,Leo Palazzo,10
-Jefferson,State House,86th Representative District,R,"""Jim"" Tucker",389
-Orleans,State House,86th Representative District,R,"""Hank"" Berchak",28
-Orleans,State House,86th Representative District,R,"Robert B. ""Robby"" Evans III",162
-Orleans,State House,86th Representative District,R,"""Ed"" Markle",440
-Orleans,State House,86th Representative District,R,Leo Palazzo,14
-Orleans,State House,86th Representative District,R,"""Jim"" Tucker",1408
-Orleans,State House,100th Representative District,D,Joe Aidoo,197
-Orleans,State House,100th Representative District,D,Cynthia Gullette Banks,625
-Orleans,State House,100th Representative District,D,Madalyn J. Cochrane,29
-Orleans,State House,100th Representative District,D,"Sherman N. Copelin, Jr.",1013
-Orleans,State House,100th Representative District,D,Terrie Carrie Guerin,1899
-Orleans,State House,100th Representative District,O,Wayne A. Johnson,79
-Orleans,State House,100th Representative District,D,George E. Robinson III,311
-Orleans,State House,100th Representative District,D,Patrick Swilling,3031
+Jefferson,State House,86,R,"""Hank"" Berchak",377
+Jefferson,State House,86,R,"Robert B. ""Robby"" Evans III",1036
+Jefferson,State House,86,R,"""Ed"" Markle",530
+Jefferson,State House,86,R,Leo Palazzo,10
+Jefferson,State House,86,R,"""Jim"" Tucker",389
+Orleans,State House,86,R,"""Hank"" Berchak",28
+Orleans,State House,86,R,"Robert B. ""Robby"" Evans III",162
+Orleans,State House,86,R,"""Ed"" Markle",440
+Orleans,State House,86,R,Leo Palazzo,14
+Orleans,State House,86,R,"""Jim"" Tucker",1408
+Orleans,State House,100,D,Joe Aidoo,197
+Orleans,State House,100,D,Cynthia Gullette Banks,625
+Orleans,State House,100,D,Madalyn J. Cochrane,29
+Orleans,State House,100,D,"Sherman N. Copelin, Jr.",1013
+Orleans,State House,100,D,Terrie Carrie Guerin,1899
+Orleans,State House,100,O,Wayne A. Johnson,79
+Orleans,State House,100,D,George E. Robinson III,311
+Orleans,State House,100,D,Patrick Swilling,3031

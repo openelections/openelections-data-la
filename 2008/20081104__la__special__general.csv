@@ -1,13 +1,13 @@
 parish,office,district,party,candidate,votes
-Jefferson,State Senate,9th Senatorial District,R,Conrad Appel,21853
-Jefferson,State Senate,9th Senatorial District,R,"""Polly"" Thomas",20065
-Pointe Coupee,State House,18th Representative District,D,Troy Grezaffi,6061
-Pointe Coupee,State House,18th Representative District,D,Major Thibaut,5622
-West Baton Rouge,State House,18th Representative District,D,Troy Grezaffi,2378
-West Baton Rouge,State House,18th Representative District,D,Major Thibaut,3362
-West Feliciana,State House,18th Representative District,D,Troy Grezaffi,109
-West Feliciana,State House,18th Representative District,D,Major Thibaut,193
-Lafayette,State House,31st Representative District,R,Nancy Landry,11528
-Lafayette,State House,31st Representative District,R,Troy Theriot,5850
-Vermilion,State House,31st Representative District,R,Nancy Landry,1935
-Vermilion,State House,31st Representative District,R,Troy Theriot,2347
+Jefferson,State Senate,9,R,Conrad Appel,21853
+Jefferson,State Senate,9,R,"""Polly"" Thomas",20065
+Pointe Coupee,State House,18,D,Troy Grezaffi,6061
+Pointe Coupee,State House,18,D,Major Thibaut,5622
+West Baton Rouge,State House,18,D,Troy Grezaffi,2378
+West Baton Rouge,State House,18,D,Major Thibaut,3362
+West Feliciana,State House,18,D,Troy Grezaffi,109
+West Feliciana,State House,18,D,Major Thibaut,193
+Lafayette,State House,31,R,Nancy Landry,11528
+Lafayette,State House,31,R,Troy Theriot,5850
+Vermilion,State House,31,R,Nancy Landry,1935
+Vermilion,State House,31,R,Troy Theriot,2347
