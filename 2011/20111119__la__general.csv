@@ -45,16 +45,16 @@ Ouachita,State House,14,R,"""Sam"" Little",2392
 Ouachita,State House,14,R,"""Jay"" Morris",4732
 Ouachita,State House,17,D,Billye Burns,1981
 Ouachita,State House,17,D,Marcus Hunter,1984
-Grant,State House,22nd Representative District,N,Terry Brown,3046
-Grant,State House,22nd Representative District,R,Billy R. Chandler,2555
-Lasalle,State House,22nd Representative District,N,Terry Brown,1093
-Lasalle,State House,22nd Representative District,R,Billy R. Chandler,1039
-Natchitoches,State House,22nd Representative District,N,Terry Brown,426
-Natchitoches,State House,22nd Representative District,R,Billy R. Chandler,472
-Red River,State House,22nd Representative District,N,Terry Brown,1351
-Red River,State House,22nd Representative District,R,Billy R. Chandler,1334
-Winn,State House,22nd Representative District,N,Terry Brown,99
-Winn,State House,22nd Representative District,R,Billy R. Chandler,65
+Grant,State House,22,N,Terry Brown,3046
+Grant,State House,22,R,Billy R. Chandler,2555
+Lasalle,State House,22,N,Terry Brown,1093
+Lasalle,State House,22,R,Billy R. Chandler,1039
+Natchitoches,State House,22,N,Terry Brown,426
+Natchitoches,State House,22,R,Billy R. Chandler,472
+Red River,State House,22,N,Terry Brown,1351
+Red River,State House,22,R,Billy R. Chandler,1334
+Winn,State House,22,N,Terry Brown,99
+Winn,State House,22,R,Billy R. Chandler,65
 De Soto,State House,23,D,Kenny Cox,1731
 De Soto,State House,23,R,"""Rick"" Nowlin",842
 Natchitoches,State House,23,D,Kenny Cox,2720
@@ -87,12 +87,12 @@ St. James,State House,58,D,"Dwayne ""Gully"" Bailey",1630
 St. James,State House,58,D,"""Ed"" Price",2357
 East Baton Rouge,State House,61,D,C. Denise Marcelle,1836
 East Baton Rouge,State House,61,D,Alfred C. Williams,2052
-East Baton Rouge,State House,62nd Representative District,D,"""Ken"" Dawson",750
-East Baton Rouge,State House,62nd Representative District,R,"""Kenny"" Havard",1187
-East Feliciana,State House,62nd Representative District,D,"""Ken"" Dawson",2150
-East Feliciana,State House,62nd Representative District,R,"""Kenny"" Havard",3517
-West Feliciana,State House,62nd Representative District,D,"""Ken"" Dawson",1270
-West Feliciana,State House,62nd Representative District,R,"""Kenny"" Havard",1922
+East Baton Rouge,State House,62,D,"""Ken"" Dawson",750
+East Baton Rouge,State House,62,R,"""Kenny"" Havard",1187
+East Feliciana,State House,62,D,"""Ken"" Dawson",2150
+East Feliciana,State House,62,R,"""Kenny"" Havard",3517
+West Feliciana,State House,62,D,"""Ken"" Dawson",1270
+West Feliciana,State House,62,R,"""Kenny"" Havard",1922
 Ascension,State House,81,D,Kevin Hull,146
 Ascension,State House,81,R,Clay Schexnayder,713
 Livingston,State House,81,D,Kevin Hull,1697

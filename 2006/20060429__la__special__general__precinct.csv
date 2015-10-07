@@ -1,0 +1,153 @@
+parish,precinct,office,district,party,candidate,votes
+Grant,01 1,State House,22,D,Billy Chandler,103
+Grant,01 1,State House,22,R,Tony K. Owens,24
+Grant,01 2,State House,22,D,Billy Chandler,69
+Grant,01 2,State House,22,R,Tony K. Owens,23
+Grant,01 3,State House,22,D,Billy Chandler,133
+Grant,01 3,State House,22,R,Tony K. Owens,31
+Grant,02 1,State House,22,D,Billy Chandler,72
+Grant,02 1,State House,22,R,Tony K. Owens,22
+Grant,02 2,State House,22,D,Billy Chandler,82
+Grant,02 2,State House,22,R,Tony K. Owens,23
+Grant,02 3,State House,22,D,Billy Chandler,192
+Grant,02 3,State House,22,R,Tony K. Owens,25
+Grant,03 1,State House,22,D,Billy Chandler,103
+Grant,03 1,State House,22,R,Tony K. Owens,8
+Grant,03 2,State House,22,D,Billy Chandler,95
+Grant,03 2,State House,22,R,Tony K. Owens,19
+Grant,03 3,State House,22,D,Billy Chandler,21
+Grant,03 3,State House,22,R,Tony K. Owens,0
+Grant,04 1,State House,22,D,Billy Chandler,15
+Grant,04 1,State House,22,R,Tony K. Owens,8
+Grant,04 2,State House,22,D,Billy Chandler,141
+Grant,04 2,State House,22,R,Tony K. Owens,63
+Grant,05 1,State House,22,D,Billy Chandler,131
+Grant,05 1,State House,22,R,Tony K. Owens,59
+Grant,05 2,State House,22,D,Billy Chandler,128
+Grant,05 2,State House,22,R,Tony K. Owens,47
+Grant,06 1,State House,22,D,Billy Chandler,71
+Grant,06 1,State House,22,R,Tony K. Owens,41
+Grant,06 2,State House,22,D,Billy Chandler,137
+Grant,06 2,State House,22,R,Tony K. Owens,45
+Grant,06 3,State House,22,D,Billy Chandler,53
+Grant,06 3,State House,22,R,Tony K. Owens,12
+Grant,07 1,State House,22,D,Billy Chandler,138
+Grant,07 1,State House,22,R,Tony K. Owens,27
+Grant,07 2,State House,22,D,Billy Chandler,90
+Grant,07 2,State House,22,R,Tony K. Owens,19
+Grant,07 3,State House,22,D,Billy Chandler,132
+Grant,07 3,State House,22,R,Tony K. Owens,74
+Grant,07 4,State House,22,D,Billy Chandler,27
+Grant,07 4,State House,22,R,Tony K. Owens,20
+Grant,08 1,State House,22,D,Billy Chandler,192
+Grant,08 1,State House,22,R,Tony K. Owens,69
+Grant,08 2,State House,22,D,Billy Chandler,108
+Grant,08 2,State House,22,R,Tony K. Owens,85
+Grant,08 3,State House,22,D,Billy Chandler,34
+Grant,08 3,State House,22,R,Tony K. Owens,17
+Grant,Early Voting,State House,22,D,Billy Chandler,228
+Grant,Early Voting,State House,22,R,Tony K. Owens,45
+Lasalle,01 01,State House,22,D,Billy Chandler,22
+Lasalle,01 01,State House,22,R,Tony K. Owens,22
+Lasalle,01 02,State House,22,D,Billy Chandler,20
+Lasalle,01 02,State House,22,R,Tony K. Owens,21
+Lasalle,01 03,State House,22,D,Billy Chandler,16
+Lasalle,01 03,State House,22,R,Tony K. Owens,39
+Lasalle,01 04,State House,22,D,Billy Chandler,27
+Lasalle,01 04,State House,22,R,Tony K. Owens,43
+Lasalle,02 01,State House,22,D,Billy Chandler,110
+Lasalle,02 01,State House,22,R,Tony K. Owens,114
+Lasalle,02 03,State House,22,D,Billy Chandler,7
+Lasalle,02 03,State House,22,R,Tony K. Owens,5
+Lasalle,03 01,State House,22,D,Billy Chandler,53
+Lasalle,03 01,State House,22,R,Tony K. Owens,89
+Lasalle,03 02,State House,22,D,Billy Chandler,37
+Lasalle,03 02,State House,22,R,Tony K. Owens,47
+Lasalle,04 01,State House,22,D,Billy Chandler,15
+Lasalle,04 01,State House,22,R,Tony K. Owens,54
+Lasalle,04 02,State House,22,D,Billy Chandler,52
+Lasalle,04 02,State House,22,R,Tony K. Owens,95
+Lasalle,04 03,State House,22,D,Billy Chandler,25
+Lasalle,04 03,State House,22,R,Tony K. Owens,30
+Lasalle,04 04,State House,22,D,Billy Chandler,12
+Lasalle,04 04,State House,22,R,Tony K. Owens,31
+Lasalle,05 01,State House,22,D,Billy Chandler,155
+Lasalle,05 01,State House,22,R,Tony K. Owens,230
+Lasalle,06 01,State House,22,D,Billy Chandler,67
+Lasalle,06 01,State House,22,R,Tony K. Owens,111
+Lasalle,06 02,State House,22,D,Billy Chandler,38
+Lasalle,06 02,State House,22,R,Tony K. Owens,64
+Lasalle,07 01,State House,22,D,Billy Chandler,94
+Lasalle,07 01,State House,22,R,Tony K. Owens,143
+Lasalle,07 02,State House,22,D,Billy Chandler,24
+Lasalle,07 02,State House,22,R,Tony K. Owens,83
+Lasalle,08 02,State House,22,D,Billy Chandler,21
+Lasalle,08 02,State House,22,R,Tony K. Owens,43
+Lasalle,08 03,State House,22,D,Billy Chandler,23
+Lasalle,08 03,State House,22,R,Tony K. Owens,59
+Lasalle,08 05,State House,22,D,Billy Chandler,12
+Lasalle,08 05,State House,22,R,Tony K. Owens,36
+Lasalle,08 06,State House,22,D,Billy Chandler,22
+Lasalle,08 06,State House,22,R,Tony K. Owens,38
+Lasalle,08 07,State House,22,D,Billy Chandler,50
+Lasalle,08 07,State House,22,R,Tony K. Owens,121
+Lasalle,09 01,State House,22,D,Billy Chandler,45
+Lasalle,09 01,State House,22,R,Tony K. Owens,128
+Lasalle,09 02,State House,22,D,Billy Chandler,15
+Lasalle,09 02,State House,22,R,Tony K. Owens,76
+Lasalle,09 03,State House,22,D,Billy Chandler,20
+Lasalle,09 03,State House,22,R,Tony K. Owens,42
+Lasalle,09 04,State House,22,D,Billy Chandler,0
+Lasalle,09 04,State House,22,R,Tony K. Owens,17
+Lasalle,09 05,State House,22,D,Billy Chandler,13
+Lasalle,09 05,State House,22,R,Tony K. Owens,29
+Lasalle,10 01,State House,22,D,Billy Chandler,13
+Lasalle,10 01,State House,22,R,Tony K. Owens,16
+Lasalle,10 04,State House,22,D,Billy Chandler,33
+Lasalle,10 04,State House,22,R,Tony K. Owens,38
+Lasalle,Early Voting,State House,22,D,Billy Chandler,189
+Lasalle,Early Voting,State House,22,R,Tony K. Owens,340
+Rapides,00 N23,State House,22,D,Billy Chandler,68
+Rapides,00 N23,State House,22,R,Tony K. Owens,61
+Rapides,Early Voting,State House,22,D,Billy Chandler,1
+Rapides,Early Voting,State House,22,R,Tony K. Owens,0
+Winn,01 1,State House,22,D,Billy Chandler,162
+Winn,01 1,State House,22,R,Tony K. Owens,82
+Winn,02 1,State House,22,D,Billy Chandler,100
+Winn,02 1,State House,22,R,Tony K. Owens,62
+Winn,02 2,State House,22,D,Billy Chandler,13
+Winn,02 2,State House,22,R,Tony K. Owens,30
+Winn,02 3,State House,22,D,Billy Chandler,203
+Winn,02 3,State House,22,R,Tony K. Owens,181
+Winn,03 1,State House,22,D,Billy Chandler,10
+Winn,03 1,State House,22,R,Tony K. Owens,25
+Winn,03 1A,State House,22,D,Billy Chandler,61
+Winn,03 1A,State House,22,R,Tony K. Owens,80
+Winn,03 1B,State House,22,D,Billy Chandler,76
+Winn,03 1B,State House,22,R,Tony K. Owens,55
+Winn,03 1C,State House,22,D,Billy Chandler,4
+Winn,03 1C,State House,22,R,Tony K. Owens,14
+Winn,04 1,State House,22,D,Billy Chandler,48
+Winn,04 1,State House,22,R,Tony K. Owens,67
+Winn,06 1,State House,22,D,Billy Chandler,86
+Winn,06 1,State House,22,R,Tony K. Owens,112
+Winn,06 1A,State House,22,D,Billy Chandler,85
+Winn,06 1A,State House,22,R,Tony K. Owens,54
+Winn,06 3,State House,22,D,Billy Chandler,40
+Winn,06 3,State House,22,R,Tony K. Owens,51
+Winn,06 4,State House,22,D,Billy Chandler,4
+Winn,06 4,State House,22,R,Tony K. Owens,2
+Winn,07 1,State House,22,D,Billy Chandler,23
+Winn,07 1,State House,22,R,Tony K. Owens,19
+Winn,07 2,State House,22,D,Billy Chandler,39
+Winn,07 2,State House,22,R,Tony K. Owens,35
+Winn,07 2A,State House,22,D,Billy Chandler,16
+Winn,07 2A,State House,22,R,Tony K. Owens,18
+Winn,07 5,State House,22,D,Billy Chandler,73
+Winn,07 5,State House,22,R,Tony K. Owens,79
+Winn,07 7,State House,22,D,Billy Chandler,37
+Winn,07 7,State House,22,R,Tony K. Owens,28
+Winn,07 7A,State House,22,D,Billy Chandler,1
+Winn,07 7A,State House,22,R,Tony K. Owens,0
+Winn,Early Voting,State House,22,D,Billy Chandler,159
+Winn,Early Voting,State House,22,R,Tony K. Owens,169

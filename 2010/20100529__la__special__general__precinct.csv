@@ -1,0 +1,153 @@
+parish,precinct,office,district,party,candidate,votes
+Orleans,01 01,State House,93,D,Helena Moreno,16
+Orleans,01 01,State House,93,D,James Perry,11
+Orleans,01 02,State House,93,D,Helena Moreno,23
+Orleans,01 02,State House,93,D,James Perry,11
+Orleans,01 05,State House,93,D,Helena Moreno,59
+Orleans,01 05,State House,93,D,James Perry,32
+Orleans,02 01,State House,93,D,Helena Moreno,57
+Orleans,02 01,State House,93,D,James Perry,23
+Orleans,02 02,State House,93,D,Helena Moreno,21
+Orleans,02 02,State House,93,D,James Perry,6
+Orleans,02 03,State House,93,D,Helena Moreno,0
+Orleans,02 03,State House,93,D,James Perry,6
+Orleans,03 01,State House,93,D,Helena Moreno,69
+Orleans,03 01,State House,93,D,James Perry,16
+Orleans,03 12,State House,93,D,Helena Moreno,24
+Orleans,03 12,State House,93,D,James Perry,28
+Orleans,04 02,State House,93,D,Helena Moreno,31
+Orleans,04 02,State House,93,D,James Perry,23
+Orleans,04 04,State House,93,D,Helena Moreno,5
+Orleans,04 04,State House,93,D,James Perry,9
+Orleans,04 05,State House,93,D,Helena Moreno,0
+Orleans,04 05,State House,93,D,James Perry,7
+Orleans,05 01,State House,93,D,Helena Moreno,50
+Orleans,05 01,State House,93,D,James Perry,8
+Orleans,05 02,State House,93,D,Helena Moreno,44
+Orleans,05 02,State House,93,D,James Perry,5
+Orleans,05 03,State House,93,D,Helena Moreno,63
+Orleans,05 03,State House,93,D,James Perry,13
+Orleans,05 04,State House,93,D,Helena Moreno,3
+Orleans,05 04,State House,93,D,James Perry,12
+Orleans,05 05,State House,93,D,Helena Moreno,2
+Orleans,05 05,State House,93,D,James Perry,21
+Orleans,05 07,State House,93,D,Helena Moreno,4
+Orleans,05 07,State House,93,D,James Perry,16
+Orleans,05 08,State House,93,D,Helena Moreno,5
+Orleans,05 08,State House,93,D,James Perry,8
+Orleans,05 09,State House,93,D,Helena Moreno,7
+Orleans,05 09,State House,93,D,James Perry,25
+Orleans,05 10,State House,93,D,Helena Moreno,2
+Orleans,05 10,State House,93,D,James Perry,21
+Orleans,06 06,State House,93,D,Helena Moreno,34
+Orleans,06 06,State House,93,D,James Perry,64
+Orleans,06 07,State House,93,D,Helena Moreno,10
+Orleans,06 07,State House,93,D,James Perry,37
+Orleans,07 06,State House,93,D,Helena Moreno,14
+Orleans,07 06,State House,93,D,James Perry,50
+Orleans,07 11,State House,93,D,Helena Moreno,11
+Orleans,07 11,State House,93,D,James Perry,45
+Orleans,07 12,State House,93,D,Helena Moreno,51
+Orleans,07 12,State House,93,D,James Perry,63
+Orleans,07 13,State House,93,D,Helena Moreno,7
+Orleans,07 13,State House,93,D,James Perry,37
+Orleans,07 14,State House,93,D,Helena Moreno,6
+Orleans,07 14,State House,93,D,James Perry,34
+Orleans,07 15,State House,93,D,Helena Moreno,10
+Orleans,07 15,State House,93,D,James Perry,42
+Orleans,07 16,State House,93,D,Helena Moreno,18
+Orleans,07 16,State House,93,D,James Perry,41
+Orleans,10 07,State House,93,D,Helena Moreno,30
+Orleans,10 07,State House,93,D,James Perry,14
+Orleans,10 08,State House,93,D,Helena Moreno,56
+Orleans,10 08,State House,93,D,James Perry,14
+Orleans,10 09,State House,93,D,Helena Moreno,105
+Orleans,10 09,State House,93,D,James Perry,18
+Orleans,10 11,State House,93,D,Helena Moreno,14
+Orleans,10 11,State House,93,D,James Perry,41
+Orleans,11 05,State House,93,D,Helena Moreno,87
+Orleans,11 05,State House,93,D,James Perry,76
+Orleans,11 08,State House,93,D,Helena Moreno,92
+Orleans,11 08,State House,93,D,James Perry,18
+Orleans,11 09,State House,93,D,Helena Moreno,156
+Orleans,11 09,State House,93,D,James Perry,38
+Orleans,Early Voting,State House,93,D,Helena Moreno,88
+Orleans,Early Voting,State House,93,D,James Perry,78
+East Baton Rouge,01 086 A,State House,63,D,"Ulysses ""Bones"" Addison",28
+East Baton Rouge,01 086 A,State House,63,D,Dalton Honore,57
+East Baton Rouge,01 086 B,State House,63,D,"Ulysses ""Bones"" Addison",35
+East Baton Rouge,01 086 B,State House,63,D,Dalton Honore,82
+East Baton Rouge,01 091 A,State House,63,D,"Ulysses ""Bones"" Addison",21
+East Baton Rouge,01 091 A,State House,63,D,Dalton Honore,22
+East Baton Rouge,01 091 B,State House,63,D,"Ulysses ""Bones"" Addison",30
+East Baton Rouge,01 091 B,State House,63,D,Dalton Honore,24
+East Baton Rouge,01 092 A,State House,63,D,"Ulysses ""Bones"" Addison",16
+East Baton Rouge,01 092 A,State House,63,D,Dalton Honore,50
+East Baton Rouge,01 092 B,State House,63,D,"Ulysses ""Bones"" Addison",20
+East Baton Rouge,01 092 B,State House,63,D,Dalton Honore,45
+East Baton Rouge,01 094,State House,63,D,"Ulysses ""Bones"" Addison",30
+East Baton Rouge,01 094,State House,63,D,Dalton Honore,46
+East Baton Rouge,01 095 A,State House,63,D,"Ulysses ""Bones"" Addison",41
+East Baton Rouge,01 095 A,State House,63,D,Dalton Honore,87
+East Baton Rouge,01 095 B,State House,63,D,"Ulysses ""Bones"" Addison",38
+East Baton Rouge,01 095 B,State House,63,D,Dalton Honore,107
+East Baton Rouge,01 100 A,State House,63,D,"Ulysses ""Bones"" Addison",3
+East Baton Rouge,01 100 A,State House,63,D,Dalton Honore,5
+East Baton Rouge,01 100 B,State House,63,D,"Ulysses ""Bones"" Addison",5
+East Baton Rouge,01 100 B,State House,63,D,Dalton Honore,9
+East Baton Rouge,01 101 A,State House,63,D,"Ulysses ""Bones"" Addison",28
+East Baton Rouge,01 101 A,State House,63,D,Dalton Honore,65
+East Baton Rouge,01 101 B,State House,63,D,"Ulysses ""Bones"" Addison",23
+East Baton Rouge,01 101 B,State House,63,D,Dalton Honore,62
+East Baton Rouge,02 002 A,State House,63,D,"Ulysses ""Bones"" Addison",23
+East Baton Rouge,02 002 A,State House,63,D,Dalton Honore,34
+East Baton Rouge,02 002 B,State House,63,D,"Ulysses ""Bones"" Addison",17
+East Baton Rouge,02 002 B,State House,63,D,Dalton Honore,37
+East Baton Rouge,02 004,State House,63,D,"Ulysses ""Bones"" Addison",21
+East Baton Rouge,02 004,State House,63,D,Dalton Honore,48
+East Baton Rouge,02 005,State House,63,D,"Ulysses ""Bones"" Addison",7
+East Baton Rouge,02 005,State House,63,D,Dalton Honore,26
+East Baton Rouge,02 009 A,State House,63,D,"Ulysses ""Bones"" Addison",22
+East Baton Rouge,02 009 A,State House,63,D,Dalton Honore,46
+East Baton Rouge,02 009 B,State House,63,D,"Ulysses ""Bones"" Addison",24
+East Baton Rouge,02 009 B,State House,63,D,Dalton Honore,54
+East Baton Rouge,02 011,State House,63,D,"Ulysses ""Bones"" Addison",23
+East Baton Rouge,02 011,State House,63,D,Dalton Honore,21
+East Baton Rouge,02 012 A,State House,63,D,"Ulysses ""Bones"" Addison",28
+East Baton Rouge,02 012 A,State House,63,D,Dalton Honore,58
+East Baton Rouge,02 012 B,State House,63,D,"Ulysses ""Bones"" Addison",20
+East Baton Rouge,02 012 B,State House,63,D,Dalton Honore,43
+East Baton Rouge,02 013 A,State House,63,D,"Ulysses ""Bones"" Addison",20
+East Baton Rouge,02 013 A,State House,63,D,Dalton Honore,11
+East Baton Rouge,02 013 B,State House,63,D,"Ulysses ""Bones"" Addison",19
+East Baton Rouge,02 013 B,State House,63,D,Dalton Honore,22
+East Baton Rouge,02 016 A,State House,63,D,"Ulysses ""Bones"" Addison",20
+East Baton Rouge,02 016 A,State House,63,D,Dalton Honore,26
+East Baton Rouge,02 016 B,State House,63,D,"Ulysses ""Bones"" Addison",8
+East Baton Rouge,02 016 B,State House,63,D,Dalton Honore,23
+East Baton Rouge,02 017 A,State House,63,D,"Ulysses ""Bones"" Addison",12
+East Baton Rouge,02 017 A,State House,63,D,Dalton Honore,20
+East Baton Rouge,02 017 B,State House,63,D,"Ulysses ""Bones"" Addison",4
+East Baton Rouge,02 017 B,State House,63,D,Dalton Honore,16
+East Baton Rouge,02 019,State House,63,D,"Ulysses ""Bones"" Addison",10
+East Baton Rouge,02 019,State House,63,D,Dalton Honore,29
+East Baton Rouge,02 020,State House,63,D,"Ulysses ""Bones"" Addison",5
+East Baton Rouge,02 020,State House,63,D,Dalton Honore,14
+East Baton Rouge,02 022 A,State House,63,D,"Ulysses ""Bones"" Addison",7
+East Baton Rouge,02 022 A,State House,63,D,Dalton Honore,33
+East Baton Rouge,02 022 B,State House,63,D,"Ulysses ""Bones"" Addison",17
+East Baton Rouge,02 022 B,State House,63,D,Dalton Honore,24
+East Baton Rouge,02 024,State House,63,D,"Ulysses ""Bones"" Addison",27
+East Baton Rouge,02 024,State House,63,D,Dalton Honore,56
+East Baton Rouge,02 025 A,State House,63,D,"Ulysses ""Bones"" Addison",22
+East Baton Rouge,02 025 A,State House,63,D,Dalton Honore,51
+East Baton Rouge,02 025 B,State House,63,D,"Ulysses ""Bones"" Addison",20
+East Baton Rouge,02 025 B,State House,63,D,Dalton Honore,37
+East Baton Rouge,02 027 A,State House,63,D,"Ulysses ""Bones"" Addison",23
+East Baton Rouge,02 027 A,State House,63,D,Dalton Honore,61
+East Baton Rouge,02 027 B,State House,63,D,"Ulysses ""Bones"" Addison",38
+East Baton Rouge,02 027 B,State House,63,D,Dalton Honore,51
+East Baton Rouge,02 031,State House,63,D,"Ulysses ""Bones"" Addison",9
+East Baton Rouge,02 031,State House,63,D,Dalton Honore,25
+East Baton Rouge,Early Voting,State House,63,D,"Ulysses ""Bones"" Addison",52
+East Baton Rouge,Early Voting,State House,63,D,Dalton Honore,104

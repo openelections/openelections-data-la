@@ -203,10 +203,10 @@ Bossier,State House,1,D,Kirby Kelly,119
 Caddo,State House,1,D,Phillip Green,606
 Caddo,State House,1,D,"Roy ""Hoppy"" Hopkins",6861
 Caddo,State House,1,D,Kirby Kelly,2322
-Bossier,State House,2nd Representative District,R,Martin Dale Bryant,159
-Bossier,State House,2nd Representative District,D,Roy Burrell,318
-Caddo,State House,2nd Representative District,R,Martin Dale Bryant,1076
-Caddo,State House,2nd Representative District,D,Roy Burrell,5041
+Bossier,State House,2,R,Martin Dale Bryant,159
+Bossier,State House,2,D,Roy Burrell,318
+Caddo,State House,2,R,Martin Dale Bryant,1076
+Caddo,State House,2,D,Roy Burrell,5041
 Caddo,State House,3,D,"Ernest Baylor, Jr.",3788
 Caddo,State House,3,D,Barbara Norton,3537
 Caddo,State House,4,D,Cedric Bradford Glover,5902
@@ -259,26 +259,26 @@ Tensas,State House,20,D,"""Billy"" Edwards",34
 Tensas,State House,20,D,Baron D. Glass,28
 Tensas,State House,20,D,Lelon Kenney,32
 Tensas,State House,20,R,"""Bud"" Shaw",41
-Grant,State House,22nd Representative District,R,Tony K. Owens,903
-Grant,State House,22nd Representative District,R,James Sandifer,1383
-Grant,State House,22nd Representative District,D,Floyd Smith,765
-Grant,State House,22nd Representative District,R,"Henry Stringer, Jr.",720
-Grant,State House,22nd Representative District,D,"""Tommy"" Wright",2065
-Lasalle,State House,22nd Representative District,R,Tony K. Owens,1336
-Lasalle,State House,22nd Representative District,R,James Sandifer,336
-Lasalle,State House,22nd Representative District,D,Floyd Smith,423
-Lasalle,State House,22nd Representative District,R,"Henry Stringer, Jr.",1494
-Lasalle,State House,22nd Representative District,D,"""Tommy"" Wright",2016
-Rapides,State House,22nd Representative District,R,Tony K. Owens,39
-Rapides,State House,22nd Representative District,R,James Sandifer,70
-Rapides,State House,22nd Representative District,D,Floyd Smith,71
-Rapides,State House,22nd Representative District,R,"Henry Stringer, Jr.",81
-Rapides,State House,22nd Representative District,D,"""Tommy"" Wright",97
-Winn,State House,22nd Representative District,R,Tony K. Owens,892
-Winn,State House,22nd Representative District,R,James Sandifer,256
-Winn,State House,22nd Representative District,D,Floyd Smith,477
-Winn,State House,22nd Representative District,R,"Henry Stringer, Jr.",178
-Winn,State House,22nd Representative District,D,"""Tommy"" Wright",931
+Grant,State House,22,R,Tony K. Owens,903
+Grant,State House,22,R,James Sandifer,1383
+Grant,State House,22,D,Floyd Smith,765
+Grant,State House,22,R,"Henry Stringer, Jr.",720
+Grant,State House,22,D,"""Tommy"" Wright",2065
+Lasalle,State House,22,R,Tony K. Owens,1336
+Lasalle,State House,22,R,James Sandifer,336
+Lasalle,State House,22,D,Floyd Smith,423
+Lasalle,State House,22,R,"Henry Stringer, Jr.",1494
+Lasalle,State House,22,D,"""Tommy"" Wright",2016
+Rapides,State House,22,R,Tony K. Owens,39
+Rapides,State House,22,R,James Sandifer,70
+Rapides,State House,22,D,Floyd Smith,71
+Rapides,State House,22,R,"Henry Stringer, Jr.",81
+Rapides,State House,22,D,"""Tommy"" Wright",97
+Winn,State House,22,R,Tony K. Owens,892
+Winn,State House,22,R,James Sandifer,256
+Winn,State House,22,D,Floyd Smith,477
+Winn,State House,22,R,"Henry Stringer, Jr.",178
+Winn,State House,22,D,"""Tommy"" Wright",931
 Natchitoches,State House,23,R,"Pat Todd, Jr.",2164
 Natchitoches,State House,23,D,T. Taylor Townsend,10501
 Winn,State House,23,R,"Pat Todd, Jr.",113
@@ -364,14 +364,14 @@ St. Mary,State House,51,D,"""Joey"" Aucoin",575
 St. Mary,State House,51,D,Carla Blanchard Dartez,3802
 Terrebonne,State House,51,D,"""Joey"" Aucoin",1264
 Terrebonne,State House,51,D,Carla Blanchard Dartez,3077
-Lafourche,State House,52nd Representative District,R,Gordon Dove,216
-Lafourche,State House,52nd Representative District,R,"Robert ""Bobby"" Picou",84
-Lafourche,State House,52nd Representative District,D,Rickie Pitre,373
-Lafourche,State House,52nd Representative District,R,"""Tom"" Watkins",168
-Terrebonne,State House,52nd Representative District,R,Gordon Dove,4197
-Terrebonne,State House,52nd Representative District,R,"Robert ""Bobby"" Picou",1454
-Terrebonne,State House,52nd Representative District,D,Rickie Pitre,2657
-Terrebonne,State House,52nd Representative District,R,"""Tom"" Watkins",3930
+Lafourche,State House,52,R,Gordon Dove,216
+Lafourche,State House,52,R,"Robert ""Bobby"" Picou",84
+Lafourche,State House,52,D,Rickie Pitre,373
+Lafourche,State House,52,R,"""Tom"" Watkins",168
+Terrebonne,State House,52,R,Gordon Dove,4197
+Terrebonne,State House,52,R,"Robert ""Bobby"" Picou",1454
+Terrebonne,State House,52,D,Rickie Pitre,2657
+Terrebonne,State House,52,R,"""Tom"" Watkins",3930
 Lafourche,State House,53,D,Damon J. Baldone,110
 Lafourche,State House,53,D,"Oneil P. Malbrough, Jr.",41
 Terrebonne,State House,53,D,Damon J. Baldone,6617
@@ -417,14 +417,14 @@ East Baton Rouge,State House,69,R,Don Simmons,1421
 East Baton Rouge,State House,70,R,Carl Crane,10319
 East Baton Rouge,State House,70,R,Donald Gene Luther,1388
 East Baton Rouge,State House,70,R,Bryce Murray,2294
-East Feliciana,State House,72nd Representative District,D,"""Robby"" Carter",1979
-East Feliciana,State House,72nd Representative District,R,R. J. Saia,536
-St. Helena,State House,72nd Representative District,D,"""Robby"" Carter",2481
-St. Helena,State House,72nd Representative District,R,R. J. Saia,677
-Tangipahoa,State House,72nd Representative District,D,"""Robby"" Carter",6058
-Tangipahoa,State House,72nd Representative District,R,R. J. Saia,1124
-West Feliciana,State House,72nd Representative District,D,"""Robby"" Carter",1120
-West Feliciana,State House,72nd Representative District,R,R. J. Saia,251
+East Feliciana,State House,72,D,"""Robby"" Carter",1979
+East Feliciana,State House,72,R,R. J. Saia,536
+St. Helena,State House,72,D,"""Robby"" Carter",2481
+St. Helena,State House,72,R,R. J. Saia,677
+Tangipahoa,State House,72,D,"""Robby"" Carter",6058
+Tangipahoa,State House,72,R,R. J. Saia,1124
+West Feliciana,State House,72,D,"""Robby"" Carter",1120
+West Feliciana,State House,72,R,R. J. Saia,251
 Tangipahoa,State House,73,R,"Charles J. ""Chuck"" Fulda IV",3256
 Tangipahoa,State House,73,R,"Henry W. ""Tank"" Powell",9769
 St. Tammany,State House,75,D,"""Pat"" Hemphill",155
@@ -503,8 +503,8 @@ Orleans,State House,100,D,Dana Henry,2802
 Orleans,State House,100,D,"Patrick ""Pat"" Swilling",4587
 Orleans,State House,101,D,"Willie Jones, Jr.",1906
 Orleans,State House,101,D,Cedric Richmond,6943
-Orleans,State House,102nd Representative District,D,"Jeffery ""Jeff"" Arnold",5243
-Orleans,State House,102nd Representative District,D,"""Ron"" Guidry",3031
+Orleans,State House,102,D,"Jeffery ""Jeff"" Arnold",5243
+Orleans,State House,102,D,"""Ron"" Guidry",3031
 Orleans,State House,103,R,Robert Breaud,220
 Orleans,State House,103,R,"""Joe"" Long",211
 Orleans,State House,103,D,"Kenneth L. Odinet, Sr.",1617

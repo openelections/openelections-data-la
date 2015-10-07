@@ -1,37 +1,37 @@
 parish,office,district,party,candidate,votes
-Grant,State House,22nd Representative District,D,Billy Chandler,961
-Grant,State House,22nd Representative District,D,Klark Hataway,1030
-Grant,State House,22nd Representative District,R,Lew Lasyone,202
-Grant,State House,22nd Representative District,R,Tony K. Owens,190
-Grant,State House,22nd Representative District,R,"""Donny"" Richardson",98
-Grant,State House,22nd Representative District,R,"Henry Stringer, Jr.",316
-Grant,State House,22nd Representative District,D,Ernie Vallery,214
-Grant,State House,22nd Representative District,D,Raymond Willett,390
-Grant,State House,22nd Representative District,D,Clare Wilson,194
-Lasalle,State House,22nd Representative District,D,Billy Chandler,194
-Lasalle,State House,22nd Representative District,D,Klark Hataway,80
-Lasalle,State House,22nd Representative District,R,Lew Lasyone,38
-Lasalle,State House,22nd Representative District,R,Tony K. Owens,1049
-Lasalle,State House,22nd Representative District,R,"""Donny"" Richardson",791
-Lasalle,State House,22nd Representative District,R,"Henry Stringer, Jr.",489
-Lasalle,State House,22nd Representative District,D,Ernie Vallery,49
-Lasalle,State House,22nd Representative District,D,Raymond Willett,120
-Lasalle,State House,22nd Representative District,D,Clare Wilson,749
-Rapides,State House,22nd Representative District,D,Billy Chandler,28
-Rapides,State House,22nd Representative District,D,Klark Hataway,9
-Rapides,State House,22nd Representative District,R,Lew Lasyone,22
-Rapides,State House,22nd Representative District,R,Tony K. Owens,15
-Rapides,State House,22nd Representative District,R,"""Donny"" Richardson",6
-Rapides,State House,22nd Representative District,R,"Henry Stringer, Jr.",21
-Rapides,State House,22nd Representative District,D,Ernie Vallery,1
-Rapides,State House,22nd Representative District,D,Raymond Willett,59
-Rapides,State House,22nd Representative District,D,Clare Wilson,9
-Winn,State House,22nd Representative District,D,Billy Chandler,391
-Winn,State House,22nd Representative District,D,Klark Hataway,356
-Winn,State House,22nd Representative District,R,Lew Lasyone,163
-Winn,State House,22nd Representative District,R,Tony K. Owens,604
-Winn,State House,22nd Representative District,R,"""Donny"" Richardson",167
-Winn,State House,22nd Representative District,R,"Henry Stringer, Jr.",287
-Winn,State House,22nd Representative District,D,Ernie Vallery,143
-Winn,State House,22nd Representative District,D,Raymond Willett,96
-Winn,State House,22nd Representative District,D,Clare Wilson,526
+Grant,State House,22,D,Billy Chandler,961
+Grant,State House,22,D,Klark Hataway,1030
+Grant,State House,22,R,Lew Lasyone,202
+Grant,State House,22,R,Tony K. Owens,190
+Grant,State House,22,R,"""Donny"" Richardson",98
+Grant,State House,22,R,"Henry Stringer, Jr.",316
+Grant,State House,22,D,Ernie Vallery,214
+Grant,State House,22,D,Raymond Willett,390
+Grant,State House,22,D,Clare Wilson,194
+Lasalle,State House,22,D,Billy Chandler,194
+Lasalle,State House,22,D,Klark Hataway,80
+Lasalle,State House,22,R,Lew Lasyone,38
+Lasalle,State House,22,R,Tony K. Owens,1049
+Lasalle,State House,22,R,"""Donny"" Richardson",791
+Lasalle,State House,22,R,"Henry Stringer, Jr.",489
+Lasalle,State House,22,D,Ernie Vallery,49
+Lasalle,State House,22,D,Raymond Willett,120
+Lasalle,State House,22,D,Clare Wilson,749
+Rapides,State House,22,D,Billy Chandler,28
+Rapides,State House,22,D,Klark Hataway,9
+Rapides,State House,22,R,Lew Lasyone,22
+Rapides,State House,22,R,Tony K. Owens,15
+Rapides,State House,22,R,"""Donny"" Richardson",6
+Rapides,State House,22,R,"Henry Stringer, Jr.",21
+Rapides,State House,22,D,Ernie Vallery,1
+Rapides,State House,22,D,Raymond Willett,59
+Rapides,State House,22,D,Clare Wilson,9
+Winn,State House,22,D,Billy Chandler,391
+Winn,State House,22,D,Klark Hataway,356
+Winn,State House,22,R,Lew Lasyone,163
+Winn,State House,22,R,Tony K. Owens,604
+Winn,State House,22,R,"""Donny"" Richardson",167
+Winn,State House,22,R,"Henry Stringer, Jr.",287
+Winn,State House,22,D,Ernie Vallery,143
+Winn,State House,22,D,Raymond Willett,96
+Winn,State House,22,D,Clare Wilson,526

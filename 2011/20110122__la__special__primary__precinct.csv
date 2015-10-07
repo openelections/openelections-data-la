@@ -1,0 +1,748 @@
+parish,precinct,office,district,party,candidate,votes
+Orleans,09 32,State House,101,D,Roland Barthe,1
+Orleans,09 32,State House,101,D,Wesley T. Bishop,16
+Orleans,09 32,State House,101,D,Willie Jones,2
+Orleans,09 33,State House,101,D,Roland Barthe,9
+Orleans,09 33,State House,101,D,Wesley T. Bishop,49
+Orleans,09 33,State House,101,D,Willie Jones,9
+Orleans,09 34A,State House,101,D,Roland Barthe,9
+Orleans,09 34A,State House,101,D,Wesley T. Bishop,36
+Orleans,09 34A,State House,101,D,Willie Jones,8
+Orleans,09 35,State House,101,D,Roland Barthe,3
+Orleans,09 35,State House,101,D,Wesley T. Bishop,49
+Orleans,09 35,State House,101,D,Willie Jones,2
+Orleans,09 35A,State House,101,D,Roland Barthe,2
+Orleans,09 35A,State House,101,D,Wesley T. Bishop,45
+Orleans,09 35A,State House,101,D,Willie Jones,5
+Orleans,09 36,State House,101,D,Roland Barthe,8
+Orleans,09 36,State House,101,D,Wesley T. Bishop,49
+Orleans,09 36,State House,101,D,Willie Jones,14
+Orleans,09 36B,State House,101,D,Roland Barthe,11
+Orleans,09 36B,State House,101,D,Wesley T. Bishop,62
+Orleans,09 36B,State House,101,D,Willie Jones,7
+Orleans,09 37,State House,101,D,Roland Barthe,8
+Orleans,09 37,State House,101,D,Wesley T. Bishop,47
+Orleans,09 37,State House,101,D,Willie Jones,7
+Orleans,09 38A,State House,101,D,Roland Barthe,8
+Orleans,09 38A,State House,101,D,Wesley T. Bishop,56
+Orleans,09 38A,State House,101,D,Willie Jones,21
+Orleans,09 42,State House,101,D,Roland Barthe,45
+Orleans,09 42,State House,101,D,Wesley T. Bishop,73
+Orleans,09 42,State House,101,D,Willie Jones,12
+Orleans,09 42C,State House,101,D,Roland Barthe,7
+Orleans,09 42C,State House,101,D,Wesley T. Bishop,40
+Orleans,09 42C,State House,101,D,Willie Jones,8
+Orleans,09 43A,State House,101,D,Roland Barthe,6
+Orleans,09 43A,State House,101,D,Wesley T. Bishop,54
+Orleans,09 43A,State House,101,D,Willie Jones,7
+Orleans,09 43B,State House,101,D,Roland Barthe,12
+Orleans,09 43B,State House,101,D,Wesley T. Bishop,61
+Orleans,09 43B,State House,101,D,Willie Jones,8
+Orleans,09 43C,State House,101,D,Roland Barthe,15
+Orleans,09 43C,State House,101,D,Wesley T. Bishop,140
+Orleans,09 43C,State House,101,D,Willie Jones,10
+Orleans,09 43E,State House,101,D,Roland Barthe,1
+Orleans,09 43E,State House,101,D,Wesley T. Bishop,23
+Orleans,09 43E,State House,101,D,Willie Jones,12
+Orleans,09 43F,State House,101,D,Roland Barthe,14
+Orleans,09 43F,State House,101,D,Wesley T. Bishop,66
+Orleans,09 43F,State House,101,D,Willie Jones,9
+Orleans,09 43G,State House,101,D,Roland Barthe,7
+Orleans,09 43G,State House,101,D,Wesley T. Bishop,72
+Orleans,09 43G,State House,101,D,Willie Jones,9
+Orleans,09 43H,State House,101,D,Roland Barthe,0
+Orleans,09 43H,State House,101,D,Wesley T. Bishop,1
+Orleans,09 43H,State House,101,D,Willie Jones,0
+Orleans,09 43I,State House,101,D,Roland Barthe,10
+Orleans,09 43I,State House,101,D,Wesley T. Bishop,55
+Orleans,09 43I,State House,101,D,Willie Jones,4
+Orleans,09 43J,State House,101,D,Roland Barthe,13
+Orleans,09 43J,State House,101,D,Wesley T. Bishop,25
+Orleans,09 43J,State House,101,D,Willie Jones,2
+Orleans,09 43K,State House,101,D,Roland Barthe,5
+Orleans,09 43K,State House,101,D,Wesley T. Bishop,57
+Orleans,09 43K,State House,101,D,Willie Jones,7
+Orleans,09 43N,State House,101,D,Roland Barthe,7
+Orleans,09 43N,State House,101,D,Wesley T. Bishop,69
+Orleans,09 43N,State House,101,D,Willie Jones,17
+Orleans,Early Voting,State House,101,D,Roland Barthe,25
+Orleans,Early Voting,State House,101,D,Wesley T. Bishop,149
+Orleans,Early Voting,State House,101,D,Willie Jones,24
+Iberia,01 01,State Senate,22,R,Simone B. Champagne,4
+Iberia,01 01,State Senate,22,N,David Groner,47
+Iberia,01 01,State Senate,22,N,Ruben LeBlanc,1
+Iberia,01 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",47
+Iberia,01 01,State Senate,22,R,Armond Schwing,1
+Iberia,01 01,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,01 02,State Senate,22,R,Simone B. Champagne,9
+Iberia,01 02,State Senate,22,N,David Groner,40
+Iberia,01 02,State Senate,22,N,Ruben LeBlanc,3
+Iberia,01 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",27
+Iberia,01 02,State Senate,22,R,Armond Schwing,2
+Iberia,01 02,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,01 03,State Senate,22,R,Simone B. Champagne,25
+Iberia,01 03,State Senate,22,N,David Groner,56
+Iberia,01 03,State Senate,22,N,Ruben LeBlanc,2
+Iberia,01 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",56
+Iberia,01 03,State Senate,22,R,Armond Schwing,41
+Iberia,01 03,State Senate,22,R,"Kenneth ""Ken"" Squires",3
+Iberia,02 01,State Senate,22,R,Simone B. Champagne,23
+Iberia,02 01,State Senate,22,N,David Groner,40
+Iberia,02 01,State Senate,22,N,Ruben LeBlanc,2
+Iberia,02 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",25
+Iberia,02 01,State Senate,22,R,Armond Schwing,1
+Iberia,02 01,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,02 02,State Senate,22,R,Simone B. Champagne,1
+Iberia,02 02,State Senate,22,N,David Groner,24
+Iberia,02 02,State Senate,22,N,Ruben LeBlanc,0
+Iberia,02 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",6
+Iberia,02 02,State Senate,22,R,Armond Schwing,1
+Iberia,02 02,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,02 03,State Senate,22,R,Simone B. Champagne,22
+Iberia,02 03,State Senate,22,N,David Groner,55
+Iberia,02 03,State Senate,22,N,Ruben LeBlanc,1
+Iberia,02 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",64
+Iberia,02 03,State Senate,22,R,Armond Schwing,9
+Iberia,02 03,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,03 01,State Senate,22,R,Simone B. Champagne,30
+Iberia,03 01,State Senate,22,N,David Groner,19
+Iberia,03 01,State Senate,22,N,Ruben LeBlanc,2
+Iberia,03 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",71
+Iberia,03 01,State Senate,22,R,Armond Schwing,30
+Iberia,03 01,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,03 02,State Senate,22,R,Simone B. Champagne,78
+Iberia,03 02,State Senate,22,N,David Groner,28
+Iberia,03 02,State Senate,22,N,Ruben LeBlanc,1
+Iberia,03 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",75
+Iberia,03 02,State Senate,22,R,Armond Schwing,125
+Iberia,03 02,State Senate,22,R,"Kenneth ""Ken"" Squires",5
+Iberia,03 03,State Senate,22,R,Simone B. Champagne,38
+Iberia,03 03,State Senate,22,N,David Groner,6
+Iberia,03 03,State Senate,22,N,Ruben LeBlanc,7
+Iberia,03 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",56
+Iberia,03 03,State Senate,22,R,Armond Schwing,14
+Iberia,03 03,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,03 04,State Senate,22,R,Simone B. Champagne,16
+Iberia,03 04,State Senate,22,N,David Groner,10
+Iberia,03 04,State Senate,22,N,Ruben LeBlanc,0
+Iberia,03 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",25
+Iberia,03 04,State Senate,22,R,Armond Schwing,2
+Iberia,03 04,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,04 01,State Senate,22,R,Simone B. Champagne,3
+Iberia,04 01,State Senate,22,N,David Groner,35
+Iberia,04 01,State Senate,22,N,Ruben LeBlanc,1
+Iberia,04 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",27
+Iberia,04 01,State Senate,22,R,Armond Schwing,4
+Iberia,04 01,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,04 02,State Senate,22,R,Simone B. Champagne,5
+Iberia,04 02,State Senate,22,N,David Groner,55
+Iberia,04 02,State Senate,22,N,Ruben LeBlanc,1
+Iberia,04 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",66
+Iberia,04 02,State Senate,22,R,Armond Schwing,12
+Iberia,04 02,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,04 03,State Senate,22,R,Simone B. Champagne,10
+Iberia,04 03,State Senate,22,N,David Groner,69
+Iberia,04 03,State Senate,22,N,Ruben LeBlanc,0
+Iberia,04 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",72
+Iberia,04 03,State Senate,22,R,Armond Schwing,3
+Iberia,04 03,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,04 04,State Senate,22,R,Simone B. Champagne,11
+Iberia,04 04,State Senate,22,N,David Groner,22
+Iberia,04 04,State Senate,22,N,Ruben LeBlanc,1
+Iberia,04 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",32
+Iberia,04 04,State Senate,22,R,Armond Schwing,5
+Iberia,04 04,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,05 01,State Senate,22,R,Simone B. Champagne,24
+Iberia,05 01,State Senate,22,N,David Groner,29
+Iberia,05 01,State Senate,22,N,Ruben LeBlanc,1
+Iberia,05 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",37
+Iberia,05 01,State Senate,22,R,Armond Schwing,11
+Iberia,05 01,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,05 02,State Senate,22,R,Simone B. Champagne,17
+Iberia,05 02,State Senate,22,N,David Groner,19
+Iberia,05 02,State Senate,22,N,Ruben LeBlanc,1
+Iberia,05 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",33
+Iberia,05 02,State Senate,22,R,Armond Schwing,12
+Iberia,05 02,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,05 03,State Senate,22,R,Simone B. Champagne,15
+Iberia,05 03,State Senate,22,N,David Groner,15
+Iberia,05 03,State Senate,22,N,Ruben LeBlanc,2
+Iberia,05 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",49
+Iberia,05 03,State Senate,22,R,Armond Schwing,3
+Iberia,05 03,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,05 04,State Senate,22,R,Simone B. Champagne,95
+Iberia,05 04,State Senate,22,N,David Groner,33
+Iberia,05 04,State Senate,22,N,Ruben LeBlanc,1
+Iberia,05 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",74
+Iberia,05 04,State Senate,22,R,Armond Schwing,34
+Iberia,05 04,State Senate,22,R,"Kenneth ""Ken"" Squires",7
+Iberia,05 05,State Senate,22,R,Simone B. Champagne,45
+Iberia,05 05,State Senate,22,N,David Groner,9
+Iberia,05 05,State Senate,22,N,Ruben LeBlanc,1
+Iberia,05 05,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",38
+Iberia,05 05,State Senate,22,R,Armond Schwing,11
+Iberia,05 05,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,06 01,State Senate,22,R,Simone B. Champagne,32
+Iberia,06 01,State Senate,22,N,David Groner,42
+Iberia,06 01,State Senate,22,N,Ruben LeBlanc,1
+Iberia,06 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",57
+Iberia,06 01,State Senate,22,R,Armond Schwing,25
+Iberia,06 01,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,06 02,State Senate,22,R,Simone B. Champagne,33
+Iberia,06 02,State Senate,22,N,David Groner,37
+Iberia,06 02,State Senate,22,N,Ruben LeBlanc,2
+Iberia,06 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",83
+Iberia,06 02,State Senate,22,R,Armond Schwing,23
+Iberia,06 02,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,06 03,State Senate,22,R,Simone B. Champagne,7
+Iberia,06 03,State Senate,22,N,David Groner,7
+Iberia,06 03,State Senate,22,N,Ruben LeBlanc,1
+Iberia,06 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",16
+Iberia,06 03,State Senate,22,R,Armond Schwing,12
+Iberia,06 03,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,06 04,State Senate,22,R,Simone B. Champagne,38
+Iberia,06 04,State Senate,22,N,David Groner,16
+Iberia,06 04,State Senate,22,N,Ruben LeBlanc,0
+Iberia,06 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",30
+Iberia,06 04,State Senate,22,R,Armond Schwing,9
+Iberia,06 04,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,07 01,State Senate,22,R,Simone B. Champagne,109
+Iberia,07 01,State Senate,22,N,David Groner,58
+Iberia,07 01,State Senate,22,N,Ruben LeBlanc,3
+Iberia,07 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",73
+Iberia,07 01,State Senate,22,R,Armond Schwing,109
+Iberia,07 01,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,07 02,State Senate,22,R,Simone B. Champagne,54
+Iberia,07 02,State Senate,22,N,David Groner,21
+Iberia,07 02,State Senate,22,N,Ruben LeBlanc,1
+Iberia,07 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",35
+Iberia,07 02,State Senate,22,R,Armond Schwing,37
+Iberia,07 02,State Senate,22,R,"Kenneth ""Ken"" Squires",3
+Iberia,07 03,State Senate,22,R,Simone B. Champagne,74
+Iberia,07 03,State Senate,22,N,David Groner,36
+Iberia,07 03,State Senate,22,N,Ruben LeBlanc,2
+Iberia,07 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",86
+Iberia,07 03,State Senate,22,R,Armond Schwing,83
+Iberia,07 03,State Senate,22,R,"Kenneth ""Ken"" Squires",4
+Iberia,07 04,State Senate,22,R,Simone B. Champagne,90
+Iberia,07 04,State Senate,22,N,David Groner,20
+Iberia,07 04,State Senate,22,N,Ruben LeBlanc,2
+Iberia,07 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",67
+Iberia,07 04,State Senate,22,R,Armond Schwing,72
+Iberia,07 04,State Senate,22,R,"Kenneth ""Ken"" Squires",7
+Iberia,07 05,State Senate,22,R,Simone B. Champagne,21
+Iberia,07 05,State Senate,22,N,David Groner,1
+Iberia,07 05,State Senate,22,N,Ruben LeBlanc,1
+Iberia,07 05,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",22
+Iberia,07 05,State Senate,22,R,Armond Schwing,24
+Iberia,07 05,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,08 01,State Senate,22,R,Simone B. Champagne,140
+Iberia,08 01,State Senate,22,N,David Groner,48
+Iberia,08 01,State Senate,22,N,Ruben LeBlanc,1
+Iberia,08 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",111
+Iberia,08 01,State Senate,22,R,Armond Schwing,108
+Iberia,08 01,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,08 02,State Senate,22,R,Simone B. Champagne,114
+Iberia,08 02,State Senate,22,N,David Groner,42
+Iberia,08 02,State Senate,22,N,Ruben LeBlanc,1
+Iberia,08 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",159
+Iberia,08 02,State Senate,22,R,Armond Schwing,94
+Iberia,08 02,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,08 04,State Senate,22,R,Simone B. Champagne,105
+Iberia,08 04,State Senate,22,N,David Groner,41
+Iberia,08 04,State Senate,22,N,Ruben LeBlanc,1
+Iberia,08 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",112
+Iberia,08 04,State Senate,22,R,Armond Schwing,52
+Iberia,08 04,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,08 05,State Senate,22,R,Simone B. Champagne,79
+Iberia,08 05,State Senate,22,N,David Groner,18
+Iberia,08 05,State Senate,22,N,Ruben LeBlanc,3
+Iberia,08 05,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",69
+Iberia,08 05,State Senate,22,R,Armond Schwing,35
+Iberia,08 05,State Senate,22,R,"Kenneth ""Ken"" Squires",3
+Iberia,09 01,State Senate,22,R,Simone B. Champagne,43
+Iberia,09 01,State Senate,22,N,David Groner,46
+Iberia,09 01,State Senate,22,N,Ruben LeBlanc,3
+Iberia,09 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",49
+Iberia,09 01,State Senate,22,R,Armond Schwing,21
+Iberia,09 01,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,09 02,State Senate,22,R,Simone B. Champagne,47
+Iberia,09 02,State Senate,22,N,David Groner,18
+Iberia,09 02,State Senate,22,N,Ruben LeBlanc,2
+Iberia,09 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",113
+Iberia,09 02,State Senate,22,R,Armond Schwing,14
+Iberia,09 02,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,09 03,State Senate,22,R,Simone B. Champagne,33
+Iberia,09 03,State Senate,22,N,David Groner,26
+Iberia,09 03,State Senate,22,N,Ruben LeBlanc,0
+Iberia,09 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",51
+Iberia,09 03,State Senate,22,R,Armond Schwing,12
+Iberia,09 03,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,09 04,State Senate,22,R,Simone B. Champagne,80
+Iberia,09 04,State Senate,22,N,David Groner,15
+Iberia,09 04,State Senate,22,N,Ruben LeBlanc,1
+Iberia,09 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",137
+Iberia,09 04,State Senate,22,R,Armond Schwing,55
+Iberia,09 04,State Senate,22,R,"Kenneth ""Ken"" Squires",9
+Iberia,09 05,State Senate,22,R,Simone B. Champagne,23
+Iberia,09 05,State Senate,22,N,David Groner,13
+Iberia,09 05,State Senate,22,N,Ruben LeBlanc,3
+Iberia,09 05,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",68
+Iberia,09 05,State Senate,22,R,Armond Schwing,15
+Iberia,09 05,State Senate,22,R,"Kenneth ""Ken"" Squires",3
+Iberia,10 02,State Senate,22,R,Simone B. Champagne,62
+Iberia,10 02,State Senate,22,N,David Groner,18
+Iberia,10 02,State Senate,22,N,Ruben LeBlanc,2
+Iberia,10 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",54
+Iberia,10 02,State Senate,22,R,Armond Schwing,19
+Iberia,10 02,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,10 03,State Senate,22,R,Simone B. Champagne,124
+Iberia,10 03,State Senate,22,N,David Groner,20
+Iberia,10 03,State Senate,22,N,Ruben LeBlanc,3
+Iberia,10 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",53
+Iberia,10 03,State Senate,22,R,Armond Schwing,25
+Iberia,10 03,State Senate,22,R,"Kenneth ""Ken"" Squires",4
+Iberia,10 04,State Senate,22,R,Simone B. Champagne,113
+Iberia,10 04,State Senate,22,N,David Groner,23
+Iberia,10 04,State Senate,22,N,Ruben LeBlanc,3
+Iberia,10 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",65
+Iberia,10 04,State Senate,22,R,Armond Schwing,2
+Iberia,10 04,State Senate,22,R,"Kenneth ""Ken"" Squires",7
+Iberia,10 05,State Senate,22,R,Simone B. Champagne,23
+Iberia,10 05,State Senate,22,N,David Groner,15
+Iberia,10 05,State Senate,22,N,Ruben LeBlanc,0
+Iberia,10 05,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",28
+Iberia,10 05,State Senate,22,R,Armond Schwing,5
+Iberia,10 05,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,10 06,State Senate,22,R,Simone B. Champagne,45
+Iberia,10 06,State Senate,22,N,David Groner,5
+Iberia,10 06,State Senate,22,N,Ruben LeBlanc,0
+Iberia,10 06,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",13
+Iberia,10 06,State Senate,22,R,Armond Schwing,1
+Iberia,10 06,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,10 07,State Senate,22,R,Simone B. Champagne,23
+Iberia,10 07,State Senate,22,N,David Groner,9
+Iberia,10 07,State Senate,22,N,Ruben LeBlanc,0
+Iberia,10 07,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",9
+Iberia,10 07,State Senate,22,R,Armond Schwing,11
+Iberia,10 07,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,11 01,State Senate,22,R,Simone B. Champagne,190
+Iberia,11 01,State Senate,22,N,David Groner,40
+Iberia,11 01,State Senate,22,N,Ruben LeBlanc,1
+Iberia,11 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",18
+Iberia,11 01,State Senate,22,R,Armond Schwing,5
+Iberia,11 01,State Senate,22,R,"Kenneth ""Ken"" Squires",7
+Iberia,11 02,State Senate,22,R,Simone B. Champagne,162
+Iberia,11 02,State Senate,22,N,David Groner,41
+Iberia,11 02,State Senate,22,N,Ruben LeBlanc,3
+Iberia,11 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",35
+Iberia,11 02,State Senate,22,R,Armond Schwing,4
+Iberia,11 02,State Senate,22,R,"Kenneth ""Ken"" Squires",8
+Iberia,11 03,State Senate,22,R,Simone B. Champagne,108
+Iberia,11 03,State Senate,22,N,David Groner,32
+Iberia,11 03,State Senate,22,N,Ruben LeBlanc,2
+Iberia,11 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",43
+Iberia,11 03,State Senate,22,R,Armond Schwing,11
+Iberia,11 03,State Senate,22,R,"Kenneth ""Ken"" Squires",11
+Iberia,11 04,State Senate,22,R,Simone B. Champagne,24
+Iberia,11 04,State Senate,22,N,David Groner,45
+Iberia,11 04,State Senate,22,N,Ruben LeBlanc,1
+Iberia,11 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",41
+Iberia,11 04,State Senate,22,R,Armond Schwing,9
+Iberia,11 04,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,11 05,State Senate,22,R,Simone B. Champagne,14
+Iberia,11 05,State Senate,22,N,David Groner,4
+Iberia,11 05,State Senate,22,N,Ruben LeBlanc,1
+Iberia,11 05,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",4
+Iberia,11 05,State Senate,22,R,Armond Schwing,1
+Iberia,11 05,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,12 01,State Senate,22,R,Simone B. Champagne,19
+Iberia,12 01,State Senate,22,N,David Groner,78
+Iberia,12 01,State Senate,22,N,Ruben LeBlanc,2
+Iberia,12 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",8
+Iberia,12 01,State Senate,22,R,Armond Schwing,1
+Iberia,12 01,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+Iberia,12 02,State Senate,22,R,Simone B. Champagne,35
+Iberia,12 02,State Senate,22,N,David Groner,76
+Iberia,12 02,State Senate,22,N,Ruben LeBlanc,0
+Iberia,12 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",9
+Iberia,12 02,State Senate,22,R,Armond Schwing,3
+Iberia,12 02,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,12 03,State Senate,22,R,Simone B. Champagne,39
+Iberia,12 03,State Senate,22,N,David Groner,147
+Iberia,12 03,State Senate,22,N,Ruben LeBlanc,4
+Iberia,12 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",21
+Iberia,12 03,State Senate,22,R,Armond Schwing,3
+Iberia,12 03,State Senate,22,R,"Kenneth ""Ken"" Squires",4
+Iberia,12 04,State Senate,22,R,Simone B. Champagne,137
+Iberia,12 04,State Senate,22,N,David Groner,62
+Iberia,12 04,State Senate,22,N,Ruben LeBlanc,5
+Iberia,12 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",71
+Iberia,12 04,State Senate,22,R,Armond Schwing,16
+Iberia,12 04,State Senate,22,R,"Kenneth ""Ken"" Squires",13
+Iberia,13 01,State Senate,22,R,Simone B. Champagne,74
+Iberia,13 01,State Senate,22,N,David Groner,8
+Iberia,13 01,State Senate,22,N,Ruben LeBlanc,0
+Iberia,13 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",42
+Iberia,13 01,State Senate,22,R,Armond Schwing,28
+Iberia,13 01,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,13 02,State Senate,22,R,Simone B. Champagne,118
+Iberia,13 02,State Senate,22,N,David Groner,30
+Iberia,13 02,State Senate,22,N,Ruben LeBlanc,11
+Iberia,13 02,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",39
+Iberia,13 02,State Senate,22,R,Armond Schwing,30
+Iberia,13 02,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,13 03,State Senate,22,R,Simone B. Champagne,77
+Iberia,13 03,State Senate,22,N,David Groner,13
+Iberia,13 03,State Senate,22,N,Ruben LeBlanc,1
+Iberia,13 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",48
+Iberia,13 03,State Senate,22,R,Armond Schwing,10
+Iberia,13 03,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,13 04,State Senate,22,R,Simone B. Champagne,60
+Iberia,13 04,State Senate,22,N,David Groner,6
+Iberia,13 04,State Senate,22,N,Ruben LeBlanc,2
+Iberia,13 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",31
+Iberia,13 04,State Senate,22,R,Armond Schwing,0
+Iberia,13 04,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,14 01,State Senate,22,R,Simone B. Champagne,70
+Iberia,14 01,State Senate,22,N,David Groner,31
+Iberia,14 01,State Senate,22,N,Ruben LeBlanc,5
+Iberia,14 01,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",125
+Iberia,14 01,State Senate,22,R,Armond Schwing,20
+Iberia,14 01,State Senate,22,R,"Kenneth ""Ken"" Squires",3
+Iberia,14 03,State Senate,22,R,Simone B. Champagne,45
+Iberia,14 03,State Senate,22,N,David Groner,11
+Iberia,14 03,State Senate,22,N,Ruben LeBlanc,4
+Iberia,14 03,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",69
+Iberia,14 03,State Senate,22,R,Armond Schwing,12
+Iberia,14 03,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+Iberia,14 04,State Senate,22,R,Simone B. Champagne,38
+Iberia,14 04,State Senate,22,N,David Groner,22
+Iberia,14 04,State Senate,22,N,Ruben LeBlanc,2
+Iberia,14 04,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",45
+Iberia,14 04,State Senate,22,R,Armond Schwing,26
+Iberia,14 04,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+Iberia,Early Voting,State Senate,22,R,Simone B. Champagne,430
+Iberia,Early Voting,State Senate,22,N,David Groner,156
+Iberia,Early Voting,State Senate,22,N,Ruben LeBlanc,18
+Iberia,Early Voting,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",405
+Iberia,Early Voting,State Senate,22,R,Armond Schwing,189
+Iberia,Early Voting,State Senate,22,R,"Kenneth ""Ken"" Squires",16
+St. Martin,01 1,State Senate,22,R,Simone B. Champagne,24
+St. Martin,01 1,State Senate,22,N,David Groner,10
+St. Martin,01 1,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,01 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",129
+St. Martin,01 1,State Senate,22,R,Armond Schwing,15
+St. Martin,01 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,01 3,State Senate,22,R,Simone B. Champagne,5
+St. Martin,01 3,State Senate,22,N,David Groner,13
+St. Martin,01 3,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,01 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",53
+St. Martin,01 3,State Senate,22,R,Armond Schwing,1
+St. Martin,01 3,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,01 4,State Senate,22,R,Simone B. Champagne,11
+St. Martin,01 4,State Senate,22,N,David Groner,3
+St. Martin,01 4,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,01 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",130
+St. Martin,01 4,State Senate,22,R,Armond Schwing,3
+St. Martin,01 4,State Senate,22,R,"Kenneth ""Ken"" Squires",3
+St. Martin,01 7,State Senate,22,R,Simone B. Champagne,8
+St. Martin,01 7,State Senate,22,N,David Groner,6
+St. Martin,01 7,State Senate,22,N,Ruben LeBlanc,3
+St. Martin,01 7,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",114
+St. Martin,01 7,State Senate,22,R,Armond Schwing,3
+St. Martin,01 7,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,02 1,State Senate,22,R,Simone B. Champagne,1
+St. Martin,02 1,State Senate,22,N,David Groner,64
+St. Martin,02 1,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,02 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",91
+St. Martin,02 1,State Senate,22,R,Armond Schwing,1
+St. Martin,02 1,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,02 2,State Senate,22,R,Simone B. Champagne,32
+St. Martin,02 2,State Senate,22,N,David Groner,46
+St. Martin,02 2,State Senate,22,N,Ruben LeBlanc,6
+St. Martin,02 2,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",164
+St. Martin,02 2,State Senate,22,R,Armond Schwing,8
+St. Martin,02 2,State Senate,22,R,"Kenneth ""Ken"" Squires",4
+St. Martin,02 3,State Senate,22,R,Simone B. Champagne,1
+St. Martin,02 3,State Senate,22,N,David Groner,30
+St. Martin,02 3,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,02 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",47
+St. Martin,02 3,State Senate,22,R,Armond Schwing,0
+St. Martin,02 3,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,02 4,State Senate,22,R,Simone B. Champagne,3
+St. Martin,02 4,State Senate,22,N,David Groner,1
+St. Martin,02 4,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,02 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",15
+St. Martin,02 4,State Senate,22,R,Armond Schwing,1
+St. Martin,02 4,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 1,State Senate,22,R,Simone B. Champagne,5
+St. Martin,03 1,State Senate,22,N,David Groner,11
+St. Martin,03 1,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,03 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",56
+St. Martin,03 1,State Senate,22,R,Armond Schwing,1
+St. Martin,03 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 1A,State Senate,22,R,Simone B. Champagne,0
+St. Martin,03 1A,State Senate,22,N,David Groner,17
+St. Martin,03 1A,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,03 1A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",34
+St. Martin,03 1A,State Senate,22,R,Armond Schwing,1
+St. Martin,03 1A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 1B,State Senate,22,R,Simone B. Champagne,4
+St. Martin,03 1B,State Senate,22,N,David Groner,2
+St. Martin,03 1B,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,03 1B,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",6
+St. Martin,03 1B,State Senate,22,R,Armond Schwing,0
+St. Martin,03 1B,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 2,State Senate,22,R,Simone B. Champagne,4
+St. Martin,03 2,State Senate,22,N,David Groner,31
+St. Martin,03 2,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,03 2,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",56
+St. Martin,03 2,State Senate,22,R,Armond Schwing,0
+St. Martin,03 2,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 3,State Senate,22,R,Simone B. Champagne,5
+St. Martin,03 3,State Senate,22,N,David Groner,19
+St. Martin,03 3,State Senate,22,N,Ruben LeBlanc,4
+St. Martin,03 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",128
+St. Martin,03 3,State Senate,22,R,Armond Schwing,1
+St. Martin,03 3,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,03 4,State Senate,22,R,Simone B. Champagne,5
+St. Martin,03 4,State Senate,22,N,David Groner,9
+St. Martin,03 4,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,03 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",146
+St. Martin,03 4,State Senate,22,R,Armond Schwing,0
+St. Martin,03 4,State Senate,22,R,"Kenneth ""Ken"" Squires",2
+St. Martin,03 4A,State Senate,22,R,Simone B. Champagne,1
+St. Martin,03 4A,State Senate,22,N,David Groner,6
+St. Martin,03 4A,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,03 4A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",44
+St. Martin,03 4A,State Senate,22,R,Armond Schwing,1
+St. Martin,03 4A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 5,State Senate,22,R,Simone B. Champagne,2
+St. Martin,03 5,State Senate,22,N,David Groner,0
+St. Martin,03 5,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,03 5,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",7
+St. Martin,03 5,State Senate,22,R,Armond Schwing,0
+St. Martin,03 5,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 6,State Senate,22,R,Simone B. Champagne,4
+St. Martin,03 6,State Senate,22,N,David Groner,13
+St. Martin,03 6,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,03 6,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",155
+St. Martin,03 6,State Senate,22,R,Armond Schwing,0
+St. Martin,03 6,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,03 9,State Senate,22,R,Simone B. Champagne,0
+St. Martin,03 9,State Senate,22,N,David Groner,5
+St. Martin,03 9,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,03 9,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",11
+St. Martin,03 9,State Senate,22,R,Armond Schwing,0
+St. Martin,03 9,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 1,State Senate,22,R,Simone B. Champagne,0
+St. Martin,04 1,State Senate,22,N,David Groner,4
+St. Martin,04 1,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,04 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",109
+St. Martin,04 1,State Senate,22,R,Armond Schwing,0
+St. Martin,04 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 1A,State Senate,22,R,Simone B. Champagne,2
+St. Martin,04 1A,State Senate,22,N,David Groner,9
+St. Martin,04 1A,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,04 1A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",79
+St. Martin,04 1A,State Senate,22,R,Armond Schwing,0
+St. Martin,04 1A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 2,State Senate,22,R,Simone B. Champagne,14
+St. Martin,04 2,State Senate,22,N,David Groner,6
+St. Martin,04 2,State Senate,22,N,Ruben LeBlanc,3
+St. Martin,04 2,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",118
+St. Martin,04 2,State Senate,22,R,Armond Schwing,4
+St. Martin,04 2,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 3,State Senate,22,R,Simone B. Champagne,27
+St. Martin,04 3,State Senate,22,N,David Groner,14
+St. Martin,04 3,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,04 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",287
+St. Martin,04 3,State Senate,22,R,Armond Schwing,2
+St. Martin,04 3,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 4,State Senate,22,R,Simone B. Champagne,11
+St. Martin,04 4,State Senate,22,N,David Groner,8
+St. Martin,04 4,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,04 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",320
+St. Martin,04 4,State Senate,22,R,Armond Schwing,0
+St. Martin,04 4,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 4A,State Senate,22,R,Simone B. Champagne,1
+St. Martin,04 4A,State Senate,22,N,David Groner,5
+St. Martin,04 4A,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,04 4A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",72
+St. Martin,04 4A,State Senate,22,R,Armond Schwing,0
+St. Martin,04 4A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 5,State Senate,22,R,Simone B. Champagne,11
+St. Martin,04 5,State Senate,22,N,David Groner,11
+St. Martin,04 5,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,04 5,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",113
+St. Martin,04 5,State Senate,22,R,Armond Schwing,4
+St. Martin,04 5,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,04 6,State Senate,22,R,Simone B. Champagne,7
+St. Martin,04 6,State Senate,22,N,David Groner,3
+St. Martin,04 6,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,04 6,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",39
+St. Martin,04 6,State Senate,22,R,Armond Schwing,1
+St. Martin,04 6,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,05 1,State Senate,22,R,Simone B. Champagne,4
+St. Martin,05 1,State Senate,22,N,David Groner,6
+St. Martin,05 1,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,05 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",96
+St. Martin,05 1,State Senate,22,R,Armond Schwing,1
+St. Martin,05 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,05 2,State Senate,22,R,Simone B. Champagne,4
+St. Martin,05 2,State Senate,22,N,David Groner,0
+St. Martin,05 2,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,05 2,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",447
+St. Martin,05 2,State Senate,22,R,Armond Schwing,1
+St. Martin,05 2,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,05 3,State Senate,22,R,Simone B. Champagne,15
+St. Martin,05 3,State Senate,22,N,David Groner,12
+St. Martin,05 3,State Senate,22,N,Ruben LeBlanc,4
+St. Martin,05 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",536
+St. Martin,05 3,State Senate,22,R,Armond Schwing,2
+St. Martin,05 3,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,05 4,State Senate,22,R,Simone B. Champagne,19
+St. Martin,05 4,State Senate,22,N,David Groner,10
+St. Martin,05 4,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,05 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",439
+St. Martin,05 4,State Senate,22,R,Armond Schwing,5
+St. Martin,05 4,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,06 1,State Senate,22,R,Simone B. Champagne,11
+St. Martin,06 1,State Senate,22,N,David Groner,7
+St. Martin,06 1,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,06 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",266
+St. Martin,06 1,State Senate,22,R,Armond Schwing,4
+St. Martin,06 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,06 2,State Senate,22,R,Simone B. Champagne,8
+St. Martin,06 2,State Senate,22,N,David Groner,2
+St. Martin,06 2,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,06 2,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",179
+St. Martin,06 2,State Senate,22,R,Armond Schwing,0
+St. Martin,06 2,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,06 2A,State Senate,22,R,Simone B. Champagne,1
+St. Martin,06 2A,State Senate,22,N,David Groner,0
+St. Martin,06 2A,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,06 2A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",25
+St. Martin,06 2A,State Senate,22,R,Armond Schwing,0
+St. Martin,06 2A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,06 3,State Senate,22,R,Simone B. Champagne,5
+St. Martin,06 3,State Senate,22,N,David Groner,1
+St. Martin,06 3,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,06 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",110
+St. Martin,06 3,State Senate,22,R,Armond Schwing,2
+St. Martin,06 3,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,06 3A,State Senate,22,R,Simone B. Champagne,2
+St. Martin,06 3A,State Senate,22,N,David Groner,1
+St. Martin,06 3A,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,06 3A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",98
+St. Martin,06 3A,State Senate,22,R,Armond Schwing,0
+St. Martin,06 3A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,06 3B,State Senate,22,R,Simone B. Champagne,4
+St. Martin,06 3B,State Senate,22,N,David Groner,0
+St. Martin,06 3B,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,06 3B,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",42
+St. Martin,06 3B,State Senate,22,R,Armond Schwing,0
+St. Martin,06 3B,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,06 4,State Senate,22,R,Simone B. Champagne,18
+St. Martin,06 4,State Senate,22,N,David Groner,13
+St. Martin,06 4,State Senate,22,N,Ruben LeBlanc,6
+St. Martin,06 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",576
+St. Martin,06 4,State Senate,22,R,Armond Schwing,3
+St. Martin,06 4,State Senate,22,R,"Kenneth ""Ken"" Squires",4
+St. Martin,07 1,State Senate,22,R,Simone B. Champagne,8
+St. Martin,07 1,State Senate,22,N,David Groner,6
+St. Martin,07 1,State Senate,22,N,Ruben LeBlanc,4
+St. Martin,07 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",280
+St. Martin,07 1,State Senate,22,R,Armond Schwing,0
+St. Martin,07 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,07 1A,State Senate,22,R,Simone B. Champagne,1
+St. Martin,07 1A,State Senate,22,N,David Groner,0
+St. Martin,07 1A,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,07 1A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",16
+St. Martin,07 1A,State Senate,22,R,Armond Schwing,0
+St. Martin,07 1A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,07 2A,State Senate,22,R,Simone B. Champagne,1
+St. Martin,07 2A,State Senate,22,N,David Groner,3
+St. Martin,07 2A,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,07 2A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",87
+St. Martin,07 2A,State Senate,22,R,Armond Schwing,1
+St. Martin,07 2A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,07 3,State Senate,22,R,Simone B. Champagne,2
+St. Martin,07 3,State Senate,22,N,David Groner,25
+St. Martin,07 3,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,07 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",370
+St. Martin,07 3,State Senate,22,R,Armond Schwing,1
+St. Martin,07 3,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,07 4,State Senate,22,R,Simone B. Champagne,3
+St. Martin,07 4,State Senate,22,N,David Groner,10
+St. Martin,07 4,State Senate,22,N,Ruben LeBlanc,3
+St. Martin,07 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",169
+St. Martin,07 4,State Senate,22,R,Armond Schwing,3
+St. Martin,07 4,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,07 4A,State Senate,22,R,Simone B. Champagne,3
+St. Martin,07 4A,State Senate,22,N,David Groner,0
+St. Martin,07 4A,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,07 4A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",15
+St. Martin,07 4A,State Senate,22,R,Armond Schwing,0
+St. Martin,07 4A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,08 1,State Senate,22,R,Simone B. Champagne,10
+St. Martin,08 1,State Senate,22,N,David Groner,10
+St. Martin,08 1,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,08 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",258
+St. Martin,08 1,State Senate,22,R,Armond Schwing,3
+St. Martin,08 1,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,08 3,State Senate,22,R,Simone B. Champagne,6
+St. Martin,08 3,State Senate,22,N,David Groner,2
+St. Martin,08 3,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,08 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",402
+St. Martin,08 3,State Senate,22,R,Armond Schwing,2
+St. Martin,08 3,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,08 4,State Senate,22,R,Simone B. Champagne,8
+St. Martin,08 4,State Senate,22,N,David Groner,9
+St. Martin,08 4,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,08 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",393
+St. Martin,08 4,State Senate,22,R,Armond Schwing,2
+St. Martin,08 4,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,08 4A,State Senate,22,R,Simone B. Champagne,13
+St. Martin,08 4A,State Senate,22,N,David Groner,5
+St. Martin,08 4A,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,08 4A,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",173
+St. Martin,08 4A,State Senate,22,R,Armond Schwing,0
+St. Martin,08 4A,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,09 1,State Senate,22,R,Simone B. Champagne,6
+St. Martin,09 1,State Senate,22,N,David Groner,10
+St. Martin,09 1,State Senate,22,N,Ruben LeBlanc,4
+St. Martin,09 1,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",134
+St. Martin,09 1,State Senate,22,R,Armond Schwing,0
+St. Martin,09 1,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,09 2,State Senate,22,R,Simone B. Champagne,9
+St. Martin,09 2,State Senate,22,N,David Groner,9
+St. Martin,09 2,State Senate,22,N,Ruben LeBlanc,1
+St. Martin,09 2,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",209
+St. Martin,09 2,State Senate,22,R,Armond Schwing,0
+St. Martin,09 2,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,09 3,State Senate,22,R,Simone B. Champagne,14
+St. Martin,09 3,State Senate,22,N,David Groner,9
+St. Martin,09 3,State Senate,22,N,Ruben LeBlanc,8
+St. Martin,09 3,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",261
+St. Martin,09 3,State Senate,22,R,Armond Schwing,4
+St. Martin,09 3,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,09 4,State Senate,22,R,Simone B. Champagne,4
+St. Martin,09 4,State Senate,22,N,David Groner,3
+St. Martin,09 4,State Senate,22,N,Ruben LeBlanc,2
+St. Martin,09 4,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",160
+St. Martin,09 4,State Senate,22,R,Armond Schwing,0
+St. Martin,09 4,State Senate,22,R,"Kenneth ""Ken"" Squires",1
+St. Martin,09 5,State Senate,22,R,Simone B. Champagne,8
+St. Martin,09 5,State Senate,22,N,David Groner,2
+St. Martin,09 5,State Senate,22,N,Ruben LeBlanc,0
+St. Martin,09 5,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",209
+St. Martin,09 5,State Senate,22,R,Armond Schwing,0
+St. Martin,09 5,State Senate,22,R,"Kenneth ""Ken"" Squires",0
+St. Martin,Early Voting,State Senate,22,R,Simone B. Champagne,42
+St. Martin,Early Voting,State Senate,22,N,David Groner,25
+St. Martin,Early Voting,State Senate,22,N,Ruben LeBlanc,6
+St. Martin,Early Voting,State Senate,22,R,"Fred ""T-Fred"" Mills, Jr.",845
+St. Martin,Early Voting,State Senate,22,R,Armond Schwing,11
+St. Martin,Early Voting,State Senate,22,R,"Kenneth ""Ken"" Squires",0

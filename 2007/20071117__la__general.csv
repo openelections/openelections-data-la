@@ -231,12 +231,12 @@ Beauregard,State House,30,D,James Armes,758
 Beauregard,State House,30,R,"""Jack"" Causey",1046
 Vernon,State House,30,D,James Armes,2366
 Vernon,State House,30,R,"""Jack"" Causey",1786
-Allen,State House,32nd Representative District,R,James David Cain,3271
-Allen,State House,32nd Representative District,D,Dorothy Sue Hill,4010
-Beauregard,State House,32nd Representative District,R,James David Cain,2009
-Beauregard,State House,32nd Representative District,D,Dorothy Sue Hill,1602
-Vernon,State House,32nd Representative District,R,James David Cain,479
-Vernon,State House,32nd Representative District,D,Dorothy Sue Hill,458
+Allen,State House,32,R,James David Cain,3271
+Allen,State House,32,D,Dorothy Sue Hill,4010
+Beauregard,State House,32,R,James David Cain,2009
+Beauregard,State House,32,D,Dorothy Sue Hill,1602
+Vernon,State House,32,R,James David Cain,479
+Vernon,State House,32,D,Dorothy Sue Hill,458
 Calcasieu,State House,34,D,"""A. B."" Franklin",3368
 Calcasieu,State House,34,D,Tony Guillory,2489
 Calcasieu,State House,37,R,"John E. ""Johnny"" Guinn",628
@@ -295,14 +295,14 @@ East Baton Rouge,State House,70,R,"""Pat"" Culbertson",4809
 East Baton Rouge,State House,70,R,Franklin J. Foil,5399
 Livingston,State House,71,R,J. Rogers Pope,2684
 Livingston,State House,71,R,John Ware,2462
-East Feliciana,State House,72nd Representative District,D,John Bel Edwards,1478
-East Feliciana,State House,72nd Representative District,D,George R. Tucker,698
-St. Helena,State House,72nd Representative District,D,John Bel Edwards,1264
-St. Helena,State House,72nd Representative District,D,George R. Tucker,898
-Tangipahoa,State House,72nd Representative District,D,John Bel Edwards,3600
-Tangipahoa,State House,72nd Representative District,D,George R. Tucker,1752
-West Feliciana,State House,72nd Representative District,D,John Bel Edwards,483
-West Feliciana,State House,72nd Representative District,D,George R. Tucker,193
+East Feliciana,State House,72,D,John Bel Edwards,1478
+East Feliciana,State House,72,D,George R. Tucker,698
+St. Helena,State House,72,D,John Bel Edwards,1264
+St. Helena,State House,72,D,George R. Tucker,898
+Tangipahoa,State House,72,D,John Bel Edwards,3600
+Tangipahoa,State House,72,D,George R. Tucker,1752
+West Feliciana,State House,72,D,John Bel Edwards,483
+West Feliciana,State House,72,D,George R. Tucker,193
 St. Tammany,State House,76,R,"""Ray"" Canada",2669
 St. Tammany,State House,76,R,Kevin Pearson,2719
 St. Tammany,State House,77,R,Colleen Hawley,3869
@@ -315,8 +315,8 @@ Jefferson,State House,83,D,Robert E. Billiot,3414
 Jefferson,State House,83,R,Danyelle Taylor,3284
 Orleans,State House,91,D,Judy Bajoie-Phillips,1791
 Orleans,State House,91,D,"""Walt"" Leger III",3269
-Jefferson,State House,92nd Representative District,R,Michael McMyne,1912
-Jefferson,State House,92nd Representative District,R,"""Tom"" Willmott",3563
+Jefferson,State House,92,R,Michael McMyne,1912
+Jefferson,State House,92,R,"""Tom"" Willmott",3563
 Orleans,State House,94,D,Deborah Langhoff,2508
 Orleans,State House,94,R,"Nicholas J. ""Nick"" Lorusso",4177
 Orleans,State House,95,D,Una Anderson,2314

@@ -1484,21 +1484,21 @@ Madison,State House,21,D,"""Andy"" Anders",1015
 Madison,State House,21,D,"Justin ""Preacher"" Conner",836
 Tensas,State House,21,D,"""Andy"" Anders",1542
 Tensas,State House,21,D,"Justin ""Preacher"" Conner",653
-Grant,State House,22nd Representative District,N,Terry Brown,2562
-Grant,State House,22nd Representative District,R,Billy R. Chandler,2788
-Grant,State House,22nd Representative District,R,"""Tim"" Murphy",1018
-Lasalle,State House,22nd Representative District,N,Terry Brown,829
-Lasalle,State House,22nd Representative District,R,Billy R. Chandler,1466
-Lasalle,State House,22nd Representative District,R,"""Tim"" Murphy",964
-Natchitoches,State House,22nd Representative District,N,Terry Brown,399
-Natchitoches,State House,22nd Representative District,R,Billy R. Chandler,575
-Natchitoches,State House,22nd Representative District,R,"""Tim"" Murphy",877
-Red River,State House,22nd Representative District,N,Terry Brown,863
-Red River,State House,22nd Representative District,R,Billy R. Chandler,937
-Red River,State House,22nd Representative District,R,"""Tim"" Murphy",768
-Winn,State House,22nd Representative District,N,Terry Brown,71
-Winn,State House,22nd Representative District,R,Billy R. Chandler,24
-Winn,State House,22nd Representative District,R,"""Tim"" Murphy",39
+Grant,State House,22,N,Terry Brown,2562
+Grant,State House,22,R,Billy R. Chandler,2788
+Grant,State House,22,R,"""Tim"" Murphy",1018
+Lasalle,State House,22,N,Terry Brown,829
+Lasalle,State House,22,R,Billy R. Chandler,1466
+Lasalle,State House,22,R,"""Tim"" Murphy",964
+Natchitoches,State House,22,N,Terry Brown,399
+Natchitoches,State House,22,R,Billy R. Chandler,575
+Natchitoches,State House,22,R,"""Tim"" Murphy",877
+Red River,State House,22,N,Terry Brown,863
+Red River,State House,22,R,Billy R. Chandler,937
+Red River,State House,22,R,"""Tim"" Murphy",768
+Winn,State House,22,N,Terry Brown,71
+Winn,State House,22,R,Billy R. Chandler,24
+Winn,State House,22,R,"""Tim"" Murphy",39
 De Soto,State House,23,D,Kenny Cox,1905
 De Soto,State House,23,R,"""Rick"" Nowlin",1038
 De Soto,State House,23,D,Ralph Wilson,174
@@ -1524,12 +1524,12 @@ Beauregard,State House,30,R,Gregory Lord,811
 Vernon,State House,30,D,James K. Armes III,2492
 Vernon,State House,30,R,"""Jack"" Causey",672
 Vernon,State House,30,R,Gregory Lord,1184
-Allen,State House,32nd Representative District,D,Dorothy Sue Hill,5881
-Allen,State House,32nd Representative District,N,John Arthur Williams,1133
-Beauregard,State House,32nd Representative District,D,Dorothy Sue Hill,2707
-Beauregard,State House,32nd Representative District,N,John Arthur Williams,1130
-Calcasieu,State House,32nd Representative District,D,Dorothy Sue Hill,669
-Calcasieu,State House,32nd Representative District,N,John Arthur Williams,300
+Allen,State House,32,D,Dorothy Sue Hill,5881
+Allen,State House,32,N,John Arthur Williams,1133
+Beauregard,State House,32,D,Dorothy Sue Hill,2707
+Beauregard,State House,32,N,John Arthur Williams,1130
+Calcasieu,State House,32,D,Dorothy Sue Hill,669
+Calcasieu,State House,32,N,John Arthur Williams,300
 Calcasieu,State House,34,D,"""A. B."" Franklin",5683
 Calcasieu,State House,34,D,"Paul ""PJ"" Geary",1594
 Evangeline,State House,38,R,Julie Disotell Harrington,1965
@@ -1546,10 +1546,10 @@ St. Landry,State House,39,R,"""Don"" Menard",1148
 St. Landry,State House,39,D,Stephen Ortego,1159
 St. Landry,State House,40,D,Ledricka Johnson Thierry,8289
 St. Landry,State House,40,D,"Joseph ""Joe"" Pitre",2256
-Acadia,State House,42nd Representative District,R,Anthony Emmons,3739
-Acadia,State House,42nd Representative District,D,Jack Montoucet,6190
-Lafayette,State House,42nd Representative District,R,Anthony Emmons,134
-Lafayette,State House,42nd Representative District,D,Jack Montoucet,397
+Acadia,State House,42,R,Anthony Emmons,3739
+Acadia,State House,42,D,Jack Montoucet,6190
+Lafayette,State House,42,R,Anthony Emmons,134
+Lafayette,State House,42,D,Jack Montoucet,397
 Lafayette,State House,44,D,Rickey Hardy,2974
 Lafayette,State House,44,D,Roshell Jones,1196
 Lafayette,State House,44,D,Vincent J. Pierre,2823
@@ -1616,21 +1616,21 @@ Iberville,State House,60,D,Karen St. Germain,9168
 East Baton Rouge,State House,61,D,Donna Collins-Lewis,1818
 East Baton Rouge,State House,61,D,C. Denise Marcelle,2780
 East Baton Rouge,State House,61,D,Alfred C. Williams,2171
-East Baton Rouge,State House,62nd Representative District,R,"""Bob"" Arnold",890
-East Baton Rouge,State House,62nd Representative District,D,"""Ken"" Dawson",908
-East Baton Rouge,State House,62nd Representative District,R,"""Rob"" Farmer",450
-East Baton Rouge,State House,62nd Representative District,R,"""Kenny"" Havard",759
-East Baton Rouge,State House,62nd Representative District,D,"""Ronnie"" Jett",856
-East Feliciana,State House,62nd Representative District,R,"""Bob"" Arnold",1232
-East Feliciana,State House,62nd Representative District,D,"""Ken"" Dawson",1190
-East Feliciana,State House,62nd Representative District,R,"""Rob"" Farmer",366
-East Feliciana,State House,62nd Representative District,R,"""Kenny"" Havard",1788
-East Feliciana,State House,62nd Representative District,D,"""Ronnie"" Jett",1545
-West Feliciana,State House,62nd Representative District,R,"""Bob"" Arnold",315
-West Feliciana,State House,62nd Representative District,D,"""Ken"" Dawson",1183
-West Feliciana,State House,62nd Representative District,R,"""Rob"" Farmer",161
-West Feliciana,State House,62nd Representative District,R,"""Kenny"" Havard",1686
-West Feliciana,State House,62nd Representative District,D,"""Ronnie"" Jett",696
+East Baton Rouge,State House,62,R,"""Bob"" Arnold",890
+East Baton Rouge,State House,62,D,"""Ken"" Dawson",908
+East Baton Rouge,State House,62,R,"""Rob"" Farmer",450
+East Baton Rouge,State House,62,R,"""Kenny"" Havard",759
+East Baton Rouge,State House,62,D,"""Ronnie"" Jett",856
+East Feliciana,State House,62,R,"""Bob"" Arnold",1232
+East Feliciana,State House,62,D,"""Ken"" Dawson",1190
+East Feliciana,State House,62,R,"""Rob"" Farmer",366
+East Feliciana,State House,62,R,"""Kenny"" Havard",1788
+East Feliciana,State House,62,D,"""Ronnie"" Jett",1545
+West Feliciana,State House,62,R,"""Bob"" Arnold",315
+West Feliciana,State House,62,D,"""Ken"" Dawson",1183
+West Feliciana,State House,62,R,"""Rob"" Farmer",161
+West Feliciana,State House,62,R,"""Kenny"" Havard",1686
+West Feliciana,State House,62,D,"""Ronnie"" Jett",696
 East Baton Rouge,State House,63,D,Dalton Honore,4832
 East Baton Rouge,State House,63,N,Hillery Godfred Johnson,328
 East Baton Rouge,State House,63,D,"Ronald L. Rodgers, Jr.",1133
@@ -1643,12 +1643,12 @@ East Baton Rouge,State House,67,D,Lorri Burgess,1854
 East Baton Rouge,State House,67,D,Patricia H. Smith,2916
 East Baton Rouge,State House,70,N,"""Greg"" Baldwin",2033
 East Baton Rouge,State House,70,R,Franklin Foil,6947
-East Feliciana,State House,72nd Representative District,N,"Johnny ""I Can"" Duncan",134
-East Feliciana,State House,72nd Representative District,D,John Bel Edwards,551
-St. Helena,State House,72nd Representative District,N,"Johnny ""I Can"" Duncan",720
-St. Helena,State House,72nd Representative District,D,John Bel Edwards,3839
-Tangipahoa,State House,72nd Representative District,N,"Johnny ""I Can"" Duncan",1178
-Tangipahoa,State House,72nd Representative District,D,John Bel Edwards,5578
+East Feliciana,State House,72,N,"Johnny ""I Can"" Duncan",134
+East Feliciana,State House,72,D,John Bel Edwards,551
+St. Helena,State House,72,N,"Johnny ""I Can"" Duncan",720
+St. Helena,State House,72,D,John Bel Edwards,3839
+Tangipahoa,State House,72,N,"Johnny ""I Can"" Duncan",1178
+Tangipahoa,State House,72,D,John Bel Edwards,5578
 Tangipahoa,State House,73,R,David P. Englade,1740
 Tangipahoa,State House,73,R,"""Steve"" Pugh",7464
 Ascension,State House,81,D,Kevin Hull,200
@@ -1722,8 +1722,8 @@ East Baton Rouge,State House,101,D,"Jonathan Holloway, Sr.",505
 East Baton Rouge,State House,101,D,"Edward ""Ted"" James",2033
 East Baton Rouge,State House,101,D,"Frederic ""Fred"" Reed",468
 East Baton Rouge,State House,101,R,Harold Williams,1196
-Orleans,State House,102nd Representative District,D,"Jeffery ""Jeff"" Arnold",4970
-Orleans,State House,102nd Representative District,D,Carlos Williams,1150
+Orleans,State House,102,D,"Jeffery ""Jeff"" Arnold",4970
+Orleans,State House,102,D,Carlos Williams,1150
 Orleans,State House,103,R,Michael Bayham,115
 Orleans,State House,103,R,"""Ray"" Garofalo",146
 Orleans,State House,103,D,Chad Lauga,190
