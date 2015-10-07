@@ -1,0 +1,503 @@
+parish,precinct,office,district,party,candidate,votes
+Bienville,2- 1,State House,11,O,Huey Dean,14
+Bienville,2- 1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",85
+Bienville,2- 1,State House,11,D,Ellen D. Smiley,13
+Bienville,2- 1,State House,11,D,Beverly K. Spearman,64
+Bienville,2- 2,State House,11,O,Huey Dean,10
+Bienville,2- 2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",27
+Bienville,2- 2,State House,11,D,Ellen D. Smiley,11
+Bienville,2- 2,State House,11,D,Beverly K. Spearman,10
+Bienville,3- 1,State House,11,O,Huey Dean,8
+Bienville,3- 1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",50
+Bienville,3- 1,State House,11,D,Ellen D. Smiley,3
+Bienville,3- 1,State House,11,D,Beverly K. Spearman,27
+Bienville,3- 2,State House,11,O,Huey Dean,10
+Bienville,3- 2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",88
+Bienville,3- 2,State House,11,D,Ellen D. Smiley,18
+Bienville,3- 2,State House,11,D,Beverly K. Spearman,48
+Bienville,Early Voting,State House,11,O,Huey Dean,5
+Bienville,Early Voting,State House,11,D,"Richard ""Rick"" Gallot, Jr.",106
+Bienville,Early Voting,State House,11,D,Ellen D. Smiley,7
+Bienville,Early Voting,State House,11,D,Beverly K. Spearman,8
+Claiborne,00 1,State House,11,O,Huey Dean,24
+Claiborne,00 1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",48
+Claiborne,00 1,State House,11,D,Ellen D. Smiley,54
+Claiborne,00 1,State House,11,D,Beverly K. Spearman,5
+Claiborne,00 10,State House,11,O,Huey Dean,7
+Claiborne,00 10,State House,11,D,"Richard ""Rick"" Gallot, Jr.",23
+Claiborne,00 10,State House,11,D,Ellen D. Smiley,22
+Claiborne,00 10,State House,11,D,Beverly K. Spearman,0
+Claiborne,00 11,State House,11,O,Huey Dean,11
+Claiborne,00 11,State House,11,D,"Richard ""Rick"" Gallot, Jr.",24
+Claiborne,00 11,State House,11,D,Ellen D. Smiley,11
+Claiborne,00 11,State House,11,D,Beverly K. Spearman,3
+Claiborne,00 12,State House,11,O,Huey Dean,2
+Claiborne,00 12,State House,11,D,"Richard ""Rick"" Gallot, Jr.",19
+Claiborne,00 12,State House,11,D,Ellen D. Smiley,1
+Claiborne,00 12,State House,11,D,Beverly K. Spearman,10
+Claiborne,00 21,State House,11,O,Huey Dean,2
+Claiborne,00 21,State House,11,D,"Richard ""Rick"" Gallot, Jr.",1
+Claiborne,00 21,State House,11,D,Ellen D. Smiley,0
+Claiborne,00 21,State House,11,D,Beverly K. Spearman,0
+Claiborne,00 22,State House,11,O,Huey Dean,15
+Claiborne,00 22,State House,11,D,"Richard ""Rick"" Gallot, Jr.",27
+Claiborne,00 22,State House,11,D,Ellen D. Smiley,25
+Claiborne,00 22,State House,11,D,Beverly K. Spearman,8
+Claiborne,00 3,State House,11,O,Huey Dean,32
+Claiborne,00 3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",32
+Claiborne,00 3,State House,11,D,Ellen D. Smiley,18
+Claiborne,00 3,State House,11,D,Beverly K. Spearman,7
+Claiborne,00 31,State House,11,O,Huey Dean,38
+Claiborne,00 31,State House,11,D,"Richard ""Rick"" Gallot, Jr.",38
+Claiborne,00 31,State House,11,D,Ellen D. Smiley,43
+Claiborne,00 31,State House,11,D,Beverly K. Spearman,14
+Claiborne,00 34,State House,11,O,Huey Dean,2
+Claiborne,00 34,State House,11,D,"Richard ""Rick"" Gallot, Jr.",43
+Claiborne,00 34,State House,11,D,Ellen D. Smiley,57
+Claiborne,00 34,State House,11,D,Beverly K. Spearman,30
+Claiborne,00 35,State House,11,O,Huey Dean,7
+Claiborne,00 35,State House,11,D,"Richard ""Rick"" Gallot, Jr.",10
+Claiborne,00 35,State House,11,D,Ellen D. Smiley,12
+Claiborne,00 35,State House,11,D,Beverly K. Spearman,3
+Claiborne,00 36,State House,11,O,Huey Dean,19
+Claiborne,00 36,State House,11,D,"Richard ""Rick"" Gallot, Jr.",35
+Claiborne,00 36,State House,11,D,Ellen D. Smiley,54
+Claiborne,00 36,State House,11,D,Beverly K. Spearman,22
+Claiborne,00 37,State House,11,O,Huey Dean,0
+Claiborne,00 37,State House,11,D,"Richard ""Rick"" Gallot, Jr.",5
+Claiborne,00 37,State House,11,D,Ellen D. Smiley,1
+Claiborne,00 37,State House,11,D,Beverly K. Spearman,0
+Claiborne,00 41,State House,11,O,Huey Dean,13
+Claiborne,00 41,State House,11,D,"Richard ""Rick"" Gallot, Jr.",12
+Claiborne,00 41,State House,11,D,Ellen D. Smiley,4
+Claiborne,00 41,State House,11,D,Beverly K. Spearman,0
+Claiborne,00 42,State House,11,O,Huey Dean,16
+Claiborne,00 42,State House,11,D,"Richard ""Rick"" Gallot, Jr.",7
+Claiborne,00 42,State House,11,D,Ellen D. Smiley,10
+Claiborne,00 42,State House,11,D,Beverly K. Spearman,2
+Claiborne,00 5,State House,11,O,Huey Dean,33
+Claiborne,00 5,State House,11,D,"Richard ""Rick"" Gallot, Jr.",46
+Claiborne,00 5,State House,11,D,Ellen D. Smiley,55
+Claiborne,00 5,State House,11,D,Beverly K. Spearman,6
+Claiborne,00 51,State House,11,O,Huey Dean,41
+Claiborne,00 51,State House,11,D,"Richard ""Rick"" Gallot, Jr.",33
+Claiborne,00 51,State House,11,D,Ellen D. Smiley,20
+Claiborne,00 51,State House,11,D,Beverly K. Spearman,8
+Claiborne,00 7,State House,11,O,Huey Dean,85
+Claiborne,00 7,State House,11,D,"Richard ""Rick"" Gallot, Jr.",57
+Claiborne,00 7,State House,11,D,Ellen D. Smiley,44
+Claiborne,00 7,State House,11,D,Beverly K. Spearman,7
+Claiborne,00 8,State House,11,O,Huey Dean,26
+Claiborne,00 8,State House,11,D,"Richard ""Rick"" Gallot, Jr.",52
+Claiborne,00 8,State House,11,D,Ellen D. Smiley,46
+Claiborne,00 8,State House,11,D,Beverly K. Spearman,4
+Claiborne,00 81,State House,11,O,Huey Dean,26
+Claiborne,00 81,State House,11,D,"Richard ""Rick"" Gallot, Jr.",16
+Claiborne,00 81,State House,11,D,Ellen D. Smiley,12
+Claiborne,00 81,State House,11,D,Beverly K. Spearman,1
+Claiborne,00 82,State House,11,O,Huey Dean,20
+Claiborne,00 82,State House,11,D,"Richard ""Rick"" Gallot, Jr.",20
+Claiborne,00 82,State House,11,D,Ellen D. Smiley,22
+Claiborne,00 82,State House,11,D,Beverly K. Spearman,8
+Claiborne,00 84,State House,11,O,Huey Dean,60
+Claiborne,00 84,State House,11,D,"Richard ""Rick"" Gallot, Jr.",17
+Claiborne,00 84,State House,11,D,Ellen D. Smiley,27
+Claiborne,00 84,State House,11,D,Beverly K. Spearman,3
+Claiborne,00 85,State House,11,O,Huey Dean,30
+Claiborne,00 85,State House,11,D,"Richard ""Rick"" Gallot, Jr.",24
+Claiborne,00 85,State House,11,D,Ellen D. Smiley,26
+Claiborne,00 85,State House,11,D,Beverly K. Spearman,5
+Claiborne,00 86,State House,11,O,Huey Dean,15
+Claiborne,00 86,State House,11,D,"Richard ""Rick"" Gallot, Jr.",30
+Claiborne,00 86,State House,11,D,Ellen D. Smiley,29
+Claiborne,00 86,State House,11,D,Beverly K. Spearman,6
+Claiborne,00 87,State House,11,O,Huey Dean,7
+Claiborne,00 87,State House,11,D,"Richard ""Rick"" Gallot, Jr.",80
+Claiborne,00 87,State House,11,D,Ellen D. Smiley,62
+Claiborne,00 87,State House,11,D,Beverly K. Spearman,7
+Claiborne,00 88,State House,11,O,Huey Dean,68
+Claiborne,00 88,State House,11,D,"Richard ""Rick"" Gallot, Jr.",32
+Claiborne,00 88,State House,11,D,Ellen D. Smiley,32
+Claiborne,00 88,State House,11,D,Beverly K. Spearman,4
+Claiborne,00 91,State House,11,O,Huey Dean,5
+Claiborne,00 91,State House,11,D,"Richard ""Rick"" Gallot, Jr.",4
+Claiborne,00 91,State House,11,D,Ellen D. Smiley,2
+Claiborne,00 91,State House,11,D,Beverly K. Spearman,5
+Claiborne,00 92,State House,11,O,Huey Dean,61
+Claiborne,00 92,State House,11,D,"Richard ""Rick"" Gallot, Jr.",35
+Claiborne,00 92,State House,11,D,Ellen D. Smiley,30
+Claiborne,00 92,State House,11,D,Beverly K. Spearman,6
+Claiborne,00 93,State House,11,O,Huey Dean,5
+Claiborne,00 93,State House,11,D,"Richard ""Rick"" Gallot, Jr.",17
+Claiborne,00 93,State House,11,D,Ellen D. Smiley,19
+Claiborne,00 93,State House,11,D,Beverly K. Spearman,1
+Claiborne,00 94,State House,11,O,Huey Dean,1
+Claiborne,00 94,State House,11,D,"Richard ""Rick"" Gallot, Jr.",2
+Claiborne,00 94,State House,11,D,Ellen D. Smiley,3
+Claiborne,00 94,State House,11,D,Beverly K. Spearman,0
+Claiborne,00 95,State House,11,O,Huey Dean,4
+Claiborne,00 95,State House,11,D,"Richard ""Rick"" Gallot, Jr.",10
+Claiborne,00 95,State House,11,D,Ellen D. Smiley,7
+Claiborne,00 95,State House,11,D,Beverly K. Spearman,2
+Claiborne,00 96,State House,11,O,Huey Dean,10
+Claiborne,00 96,State House,11,D,"Richard ""Rick"" Gallot, Jr.",11
+Claiborne,00 96,State House,11,D,Ellen D. Smiley,3
+Claiborne,00 96,State House,11,D,Beverly K. Spearman,1
+Claiborne,Early Voting,State House,11,O,Huey Dean,22
+Claiborne,Early Voting,State House,11,D,"Richard ""Rick"" Gallot, Jr.",28
+Claiborne,Early Voting,State House,11,D,Ellen D. Smiley,17
+Claiborne,Early Voting,State House,11,D,Beverly K. Spearman,3
+Lincoln,1- A3,State House,11,O,Huey Dean,5
+Lincoln,1- A3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",13
+Lincoln,1- A3,State House,11,D,Ellen D. Smiley,1
+Lincoln,1- A3,State House,11,D,Beverly K. Spearman,1
+Lincoln,1- C5,State House,11,O,Huey Dean,5
+Lincoln,1- C5,State House,11,D,"Richard ""Rick"" Gallot, Jr.",30
+Lincoln,1- C5,State House,11,D,Ellen D. Smiley,2
+Lincoln,1- C5,State House,11,D,Beverly K. Spearman,2
+Lincoln,1- D1,State House,11,O,Huey Dean,3
+Lincoln,1- D1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",202
+Lincoln,1- D1,State House,11,D,Ellen D. Smiley,1
+Lincoln,1- D1,State House,11,D,Beverly K. Spearman,12
+Lincoln,1- D2,State House,11,O,Huey Dean,1
+Lincoln,1- D2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",59
+Lincoln,1- D2,State House,11,D,Ellen D. Smiley,1
+Lincoln,1- D2,State House,11,D,Beverly K. Spearman,6
+Lincoln,1- D4,State House,11,O,Huey Dean,0
+Lincoln,1- D4,State House,11,D,"Richard ""Rick"" Gallot, Jr.",1
+Lincoln,1- D4,State House,11,D,Ellen D. Smiley,0
+Lincoln,1- D4,State House,11,D,Beverly K. Spearman,1
+Lincoln,1- E1,State House,11,O,Huey Dean,2
+Lincoln,1- E1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",221
+Lincoln,1- E1,State House,11,D,Ellen D. Smiley,12
+Lincoln,1- E1,State House,11,D,Beverly K. Spearman,44
+Lincoln,1- E2,State House,11,O,Huey Dean,2
+Lincoln,1- E2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",91
+Lincoln,1- E2,State House,11,D,Ellen D. Smiley,4
+Lincoln,1- E2,State House,11,D,Beverly K. Spearman,16
+Lincoln,1- E3,State House,11,O,Huey Dean,0
+Lincoln,1- E3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",181
+Lincoln,1- E3,State House,11,D,Ellen D. Smiley,3
+Lincoln,1- E3,State House,11,D,Beverly K. Spearman,24
+Lincoln,1- E4,State House,11,O,Huey Dean,2
+Lincoln,1- E4,State House,11,D,"Richard ""Rick"" Gallot, Jr.",19
+Lincoln,1- E4,State House,11,D,Ellen D. Smiley,0
+Lincoln,1- E4,State House,11,D,Beverly K. Spearman,4
+Lincoln,1- F1,State House,11,O,Huey Dean,2
+Lincoln,1- F1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",198
+Lincoln,1- F1,State House,11,D,Ellen D. Smiley,6
+Lincoln,1- F1,State House,11,D,Beverly K. Spearman,33
+Lincoln,1- F2,State House,11,O,Huey Dean,22
+Lincoln,1- F2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",115
+Lincoln,1- F2,State House,11,D,Ellen D. Smiley,6
+Lincoln,1- F2,State House,11,D,Beverly K. Spearman,12
+Lincoln,1- F4,State House,11,O,Huey Dean,4
+Lincoln,1- F4,State House,11,D,"Richard ""Rick"" Gallot, Jr.",7
+Lincoln,1- F4,State House,11,D,Ellen D. Smiley,1
+Lincoln,1- F4,State House,11,D,Beverly K. Spearman,2
+Lincoln,2- A1,State House,11,O,Huey Dean,0
+Lincoln,2- A1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",296
+Lincoln,2- A1,State House,11,D,Ellen D. Smiley,13
+Lincoln,2- A1,State House,11,D,Beverly K. Spearman,27
+Lincoln,2- A2,State House,11,O,Huey Dean,4
+Lincoln,2- A2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",128
+Lincoln,2- A2,State House,11,D,Ellen D. Smiley,8
+Lincoln,2- A2,State House,11,D,Beverly K. Spearman,13
+Lincoln,2- A3,State House,11,O,Huey Dean,1
+Lincoln,2- A3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",29
+Lincoln,2- A3,State House,11,D,Ellen D. Smiley,2
+Lincoln,2- A3,State House,11,D,Beverly K. Spearman,1
+Lincoln,2- B1,State House,11,O,Huey Dean,0
+Lincoln,2- B1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",413
+Lincoln,2- B1,State House,11,D,Ellen D. Smiley,28
+Lincoln,2- B1,State House,11,D,Beverly K. Spearman,47
+Lincoln,2- B2,State House,11,O,Huey Dean,1
+Lincoln,2- B2,State House,11,D,"Richard ""Rick"" Gallot, Jr.",24
+Lincoln,2- B2,State House,11,D,Ellen D. Smiley,0
+Lincoln,2- B2,State House,11,D,Beverly K. Spearman,2
+Lincoln,2- B3,State House,11,O,Huey Dean,0
+Lincoln,2- B3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",4
+Lincoln,2- B3,State House,11,D,Ellen D. Smiley,0
+Lincoln,2- B3,State House,11,D,Beverly K. Spearman,1
+Lincoln,3- 1,State House,11,O,Huey Dean,16
+Lincoln,3- 1,State House,11,D,"Richard ""Rick"" Gallot, Jr.",105
+Lincoln,3- 1,State House,11,D,Ellen D. Smiley,4
+Lincoln,3- 1,State House,11,D,Beverly K. Spearman,9
+Lincoln,3- 3,State House,11,O,Huey Dean,33
+Lincoln,3- 3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",53
+Lincoln,3- 3,State House,11,D,Ellen D. Smiley,1
+Lincoln,3- 3,State House,11,D,Beverly K. Spearman,8
+Lincoln,3- 4,State House,11,O,Huey Dean,19
+Lincoln,3- 4,State House,11,D,"Richard ""Rick"" Gallot, Jr.",58
+Lincoln,3- 4,State House,11,D,Ellen D. Smiley,6
+Lincoln,3- 4,State House,11,D,Beverly K. Spearman,24
+Lincoln,Early Voting,State House,11,O,Huey Dean,2
+Lincoln,Early Voting,State House,11,D,"Richard ""Rick"" Gallot, Jr.",101
+Lincoln,Early Voting,State House,11,D,Ellen D. Smiley,5
+Lincoln,Early Voting,State House,11,D,Beverly K. Spearman,23
+Union,9- 3,State House,11,O,Huey Dean,12
+Union,9- 3,State House,11,D,"Richard ""Rick"" Gallot, Jr.",44
+Union,9- 3,State House,11,D,Ellen D. Smiley,64
+Union,9- 3,State House,11,D,Beverly K. Spearman,83
+Union,9- 5,State House,11,O,Huey Dean,2
+Union,9- 5,State House,11,D,"Richard ""Rick"" Gallot, Jr.",28
+Union,9- 5,State House,11,D,Ellen D. Smiley,4
+Union,9- 5,State House,11,D,Beverly K. Spearman,12
+Union,9- 7,State House,11,O,Huey Dean,0
+Union,9- 7,State House,11,D,"Richard ""Rick"" Gallot, Jr.",3
+Union,9- 7,State House,11,D,Ellen D. Smiley,3
+Union,9- 7,State House,11,D,Beverly K. Spearman,0
+Union,Early Voting,State House,11,O,Huey Dean,0
+Union,Early Voting,State House,11,D,"Richard ""Rick"" Gallot, Jr.",0
+Union,Early Voting,State House,11,D,Ellen D. Smiley,1
+Union,Early Voting,State House,11,D,Beverly K. Spearman,2
+East Baton Rouge,2- 18A,State House,62,R,Matt Blalock,219
+East Baton Rouge,2- 18A,State House,62,R,Brenda Braud,112
+East Baton Rouge,2- 18A,State House,62,D,Myron Hall,74
+East Baton Rouge,2- 18A,State House,62,R,"Thomas H. ""Tom"" McVea",211
+East Baton Rouge,2- 18A,State House,62,D,"""Chuck"" Reed",37
+East Baton Rouge,2- 18B,State House,62,R,Matt Blalock,197
+East Baton Rouge,2- 18B,State House,62,R,Brenda Braud,104
+East Baton Rouge,2- 18B,State House,62,D,Myron Hall,77
+East Baton Rouge,2- 18B,State House,62,R,"Thomas H. ""Tom"" McVea",206
+East Baton Rouge,2- 18B,State House,62,D,"""Chuck"" Reed",31
+East Baton Rouge,2- 21A,State House,62,R,Matt Blalock,167
+East Baton Rouge,2- 21A,State House,62,R,Brenda Braud,59
+East Baton Rouge,2- 21A,State House,62,D,Myron Hall,102
+East Baton Rouge,2- 21A,State House,62,R,"Thomas H. ""Tom"" McVea",212
+East Baton Rouge,2- 21A,State House,62,D,"""Chuck"" Reed",48
+East Baton Rouge,2- 21B,State House,62,R,Matt Blalock,169
+East Baton Rouge,2- 21B,State House,62,R,Brenda Braud,49
+East Baton Rouge,2- 21B,State House,62,D,Myron Hall,128
+East Baton Rouge,2- 21B,State House,62,R,"Thomas H. ""Tom"" McVea",201
+East Baton Rouge,2- 21B,State House,62,D,"""Chuck"" Reed",57
+East Baton Rouge,Early Voting,State House,62,R,Matt Blalock,40
+East Baton Rouge,Early Voting,State House,62,R,Brenda Braud,6
+East Baton Rouge,Early Voting,State House,62,D,Myron Hall,23
+East Baton Rouge,Early Voting,State House,62,R,"Thomas H. ""Tom"" McVea",54
+East Baton Rouge,Early Voting,State House,62,D,"""Chuck"" Reed",13
+East Feliciana,1- 1,State House,62,R,Matt Blalock,45
+East Feliciana,1- 1,State House,62,R,Brenda Braud,12
+East Feliciana,1- 1,State House,62,D,Myron Hall,106
+East Feliciana,1- 1,State House,62,R,"Thomas H. ""Tom"" McVea",56
+East Feliciana,1- 1,State House,62,D,"""Chuck"" Reed",7
+East Feliciana,1- 2,State House,62,R,Matt Blalock,11
+East Feliciana,1- 2,State House,62,R,Brenda Braud,7
+East Feliciana,1- 2,State House,62,D,Myron Hall,52
+East Feliciana,1- 2,State House,62,R,"Thomas H. ""Tom"" McVea",32
+East Feliciana,1- 2,State House,62,D,"""Chuck"" Reed",1
+East Feliciana,1- 3,State House,62,R,Matt Blalock,28
+East Feliciana,1- 3,State House,62,R,Brenda Braud,14
+East Feliciana,1- 3,State House,62,D,Myron Hall,19
+East Feliciana,1- 3,State House,62,R,"Thomas H. ""Tom"" McVea",48
+East Feliciana,1- 3,State House,62,D,"""Chuck"" Reed",7
+East Feliciana,2- 1C,State House,62,R,Matt Blalock,20
+East Feliciana,2- 1C,State House,62,R,Brenda Braud,14
+East Feliciana,2- 1C,State House,62,D,Myron Hall,95
+East Feliciana,2- 1C,State House,62,R,"Thomas H. ""Tom"" McVea",32
+East Feliciana,2- 1C,State House,62,D,"""Chuck"" Reed",4
+East Feliciana,2- 1D,State House,62,R,Matt Blalock,11
+East Feliciana,2- 1D,State House,62,R,Brenda Braud,9
+East Feliciana,2- 1D,State House,62,D,Myron Hall,32
+East Feliciana,2- 1D,State House,62,R,"Thomas H. ""Tom"" McVea",32
+East Feliciana,2- 1D,State House,62,D,"""Chuck"" Reed",3
+East Feliciana,2- 1E,State House,62,R,Matt Blalock,0
+East Feliciana,2- 1E,State House,62,R,Brenda Braud,0
+East Feliciana,2- 1E,State House,62,D,Myron Hall,2
+East Feliciana,2- 1E,State House,62,R,"Thomas H. ""Tom"" McVea",1
+East Feliciana,2- 1E,State House,62,D,"""Chuck"" Reed",1
+East Feliciana,2- 1F,State House,62,R,Matt Blalock,0
+East Feliciana,2- 1F,State House,62,R,Brenda Braud,0
+East Feliciana,2- 1F,State House,62,D,Myron Hall,0
+East Feliciana,2- 1F,State House,62,R,"Thomas H. ""Tom"" McVea",0
+East Feliciana,2- 1F,State House,62,D,"""Chuck"" Reed",0
+East Feliciana,3- 1A,State House,62,R,Matt Blalock,82
+East Feliciana,3- 1A,State House,62,R,Brenda Braud,30
+East Feliciana,3- 1A,State House,62,D,Myron Hall,31
+East Feliciana,3- 1A,State House,62,R,"Thomas H. ""Tom"" McVea",34
+East Feliciana,3- 1A,State House,62,D,"""Chuck"" Reed",4
+East Feliciana,3- 1B,State House,62,R,Matt Blalock,84
+East Feliciana,3- 1B,State House,62,R,Brenda Braud,40
+East Feliciana,3- 1B,State House,62,D,Myron Hall,38
+East Feliciana,3- 1B,State House,62,R,"Thomas H. ""Tom"" McVea",50
+East Feliciana,3- 1B,State House,62,D,"""Chuck"" Reed",15
+East Feliciana,3- 1C,State House,62,R,Matt Blalock,28
+East Feliciana,3- 1C,State House,62,R,Brenda Braud,17
+East Feliciana,3- 1C,State House,62,D,Myron Hall,13
+East Feliciana,3- 1C,State House,62,R,"Thomas H. ""Tom"" McVea",26
+East Feliciana,3- 1C,State House,62,D,"""Chuck"" Reed",5
+East Feliciana,5- 1A,State House,62,R,Matt Blalock,42
+East Feliciana,5- 1A,State House,62,R,Brenda Braud,44
+East Feliciana,5- 1A,State House,62,D,Myron Hall,99
+East Feliciana,5- 1A,State House,62,R,"Thomas H. ""Tom"" McVea",80
+East Feliciana,5- 1A,State House,62,D,"""Chuck"" Reed",39
+East Feliciana,5- 1B,State House,62,R,Matt Blalock,40
+East Feliciana,5- 1B,State House,62,R,Brenda Braud,27
+East Feliciana,5- 1B,State House,62,D,Myron Hall,108
+East Feliciana,5- 1B,State House,62,R,"Thomas H. ""Tom"" McVea",65
+East Feliciana,5- 1B,State House,62,D,"""Chuck"" Reed",39
+East Feliciana,5- 2,State House,62,R,Matt Blalock,46
+East Feliciana,5- 2,State House,62,R,Brenda Braud,31
+East Feliciana,5- 2,State House,62,D,Myron Hall,100
+East Feliciana,5- 2,State House,62,R,"Thomas H. ""Tom"" McVea",98
+East Feliciana,5- 2,State House,62,D,"""Chuck"" Reed",20
+East Feliciana,5- 3,State House,62,R,Matt Blalock,10
+East Feliciana,5- 3,State House,62,R,Brenda Braud,1
+East Feliciana,5- 3,State House,62,D,Myron Hall,12
+East Feliciana,5- 3,State House,62,R,"Thomas H. ""Tom"" McVea",31
+East Feliciana,5- 3,State House,62,D,"""Chuck"" Reed",3
+East Feliciana,6- 1,State House,62,R,Matt Blalock,17
+East Feliciana,6- 1,State House,62,R,Brenda Braud,41
+East Feliciana,6- 1,State House,62,D,Myron Hall,91
+East Feliciana,6- 1,State House,62,R,"Thomas H. ""Tom"" McVea",52
+East Feliciana,6- 1,State House,62,D,"""Chuck"" Reed",12
+East Feliciana,Early Voting,State House,62,R,Matt Blalock,6
+East Feliciana,Early Voting,State House,62,R,Brenda Braud,8
+East Feliciana,Early Voting,State House,62,D,Myron Hall,18
+East Feliciana,Early Voting,State House,62,R,"Thomas H. ""Tom"" McVea",48
+East Feliciana,Early Voting,State House,62,D,"""Chuck"" Reed",6
+Livingston,00 10,State House,62,R,Matt Blalock,12
+Livingston,00 10,State House,62,R,Brenda Braud,59
+Livingston,00 10,State House,62,D,Myron Hall,24
+Livingston,00 10,State House,62,R,"Thomas H. ""Tom"" McVea",7
+Livingston,00 10,State House,62,D,"""Chuck"" Reed",62
+Livingston,00 11,State House,62,R,Matt Blalock,9
+Livingston,00 11,State House,62,R,Brenda Braud,35
+Livingston,00 11,State House,62,D,Myron Hall,49
+Livingston,00 11,State House,62,R,"Thomas H. ""Tom"" McVea",11
+Livingston,00 11,State House,62,D,"""Chuck"" Reed",130
+Livingston,00 9,State House,62,R,Matt Blalock,2
+Livingston,00 9,State House,62,R,Brenda Braud,39
+Livingston,00 9,State House,62,D,Myron Hall,44
+Livingston,00 9,State House,62,R,"Thomas H. ""Tom"" McVea",11
+Livingston,00 9,State House,62,D,"""Chuck"" Reed",90
+Livingston,Early Voting,State House,62,R,Matt Blalock,0
+Livingston,Early Voting,State House,62,R,Brenda Braud,3
+Livingston,Early Voting,State House,62,D,Myron Hall,2
+Livingston,Early Voting,State House,62,R,"Thomas H. ""Tom"" McVea",0
+Livingston,Early Voting,State House,62,D,"""Chuck"" Reed",23
+St. Helena,3- 2,State House,62,R,Matt Blalock,3
+St. Helena,3- 2,State House,62,R,Brenda Braud,10
+St. Helena,3- 2,State House,62,D,Myron Hall,5
+St. Helena,3- 2,State House,62,R,"Thomas H. ""Tom"" McVea",11
+St. Helena,3- 2,State House,62,D,"""Chuck"" Reed",9
+St. Helena,4- 1,State House,62,R,Matt Blalock,12
+St. Helena,4- 1,State House,62,R,Brenda Braud,30
+St. Helena,4- 1,State House,62,D,Myron Hall,76
+St. Helena,4- 1,State House,62,R,"Thomas H. ""Tom"" McVea",55
+St. Helena,4- 1,State House,62,D,"""Chuck"" Reed",65
+St. Helena,5- 1,State House,62,R,Matt Blalock,4
+St. Helena,5- 1,State House,62,R,Brenda Braud,17
+St. Helena,5- 1,State House,62,D,Myron Hall,43
+St. Helena,5- 1,State House,62,R,"Thomas H. ""Tom"" McVea",40
+St. Helena,5- 1,State House,62,D,"""Chuck"" Reed",86
+St. Helena,5- 2,State House,62,R,Matt Blalock,2
+St. Helena,5- 2,State House,62,R,Brenda Braud,8
+St. Helena,5- 2,State House,62,D,Myron Hall,16
+St. Helena,5- 2,State House,62,R,"Thomas H. ""Tom"" McVea",11
+St. Helena,5- 2,State House,62,D,"""Chuck"" Reed",28
+St. Helena,6- 2,State House,62,R,Matt Blalock,11
+St. Helena,6- 2,State House,62,R,Brenda Braud,5
+St. Helena,6- 2,State House,62,D,Myron Hall,0
+St. Helena,6- 2,State House,62,R,"Thomas H. ""Tom"" McVea",19
+St. Helena,6- 2,State House,62,D,"""Chuck"" Reed",35
+St. Helena,Early Voting,State House,62,R,Matt Blalock,1
+St. Helena,Early Voting,State House,62,R,Brenda Braud,2
+St. Helena,Early Voting,State House,62,D,Myron Hall,1
+St. Helena,Early Voting,State House,62,R,"Thomas H. ""Tom"" McVea",5
+St. Helena,Early Voting,State House,62,D,"""Chuck"" Reed",1
+Tangipahoa,00 111,State House,62,R,Matt Blalock,2
+Tangipahoa,00 111,State House,62,R,Brenda Braud,10
+Tangipahoa,00 111,State House,62,D,Myron Hall,4
+Tangipahoa,00 111,State House,62,R,"Thomas H. ""Tom"" McVea",4
+Tangipahoa,00 111,State House,62,D,"""Chuck"" Reed",23
+Tangipahoa,00 111A,State House,62,R,Matt Blalock,2
+Tangipahoa,00 111A,State House,62,R,Brenda Braud,6
+Tangipahoa,00 111A,State House,62,D,Myron Hall,1
+Tangipahoa,00 111A,State House,62,R,"Thomas H. ""Tom"" McVea",0
+Tangipahoa,00 111A,State House,62,D,"""Chuck"" Reed",2
+Tangipahoa,00 117,State House,62,R,Matt Blalock,3
+Tangipahoa,00 117,State House,62,R,Brenda Braud,101
+Tangipahoa,00 117,State House,62,D,Myron Hall,9
+Tangipahoa,00 117,State House,62,R,"Thomas H. ""Tom"" McVea",8
+Tangipahoa,00 117,State House,62,D,"""Chuck"" Reed",58
+Tangipahoa,00 121,State House,62,R,Matt Blalock,2
+Tangipahoa,00 121,State House,62,R,Brenda Braud,26
+Tangipahoa,00 121,State House,62,D,Myron Hall,1
+Tangipahoa,00 121,State House,62,R,"Thomas H. ""Tom"" McVea",2
+Tangipahoa,00 121,State House,62,D,"""Chuck"" Reed",18
+Tangipahoa,00 121A,State House,62,R,Matt Blalock,3
+Tangipahoa,00 121A,State House,62,R,Brenda Braud,72
+Tangipahoa,00 121A,State House,62,D,Myron Hall,23
+Tangipahoa,00 121A,State House,62,R,"Thomas H. ""Tom"" McVea",17
+Tangipahoa,00 121A,State House,62,D,"""Chuck"" Reed",98
+Tangipahoa,00 125,State House,62,R,Matt Blalock,7
+Tangipahoa,00 125,State House,62,R,Brenda Braud,64
+Tangipahoa,00 125,State House,62,D,Myron Hall,13
+Tangipahoa,00 125,State House,62,R,"Thomas H. ""Tom"" McVea",3
+Tangipahoa,00 125,State House,62,D,"""Chuck"" Reed",97
+Tangipahoa,00 127,State House,62,R,Matt Blalock,5
+Tangipahoa,00 127,State House,62,R,Brenda Braud,31
+Tangipahoa,00 127,State House,62,D,Myron Hall,0
+Tangipahoa,00 127,State House,62,R,"Thomas H. ""Tom"" McVea",12
+Tangipahoa,00 127,State House,62,D,"""Chuck"" Reed",38
+Tangipahoa,00 33,State House,62,R,Matt Blalock,4
+Tangipahoa,00 33,State House,62,R,Brenda Braud,84
+Tangipahoa,00 33,State House,62,D,Myron Hall,5
+Tangipahoa,00 33,State House,62,R,"Thomas H. ""Tom"" McVea",0
+Tangipahoa,00 33,State House,62,D,"""Chuck"" Reed",19
+Tangipahoa,00 40,State House,62,R,Matt Blalock,7
+Tangipahoa,00 40,State House,62,R,Brenda Braud,29
+Tangipahoa,00 40,State House,62,D,Myron Hall,3
+Tangipahoa,00 40,State House,62,R,"Thomas H. ""Tom"" McVea",7
+Tangipahoa,00 40,State House,62,D,"""Chuck"" Reed",9
+Tangipahoa,00 40A,State House,62,R,Matt Blalock,35
+Tangipahoa,00 40A,State House,62,R,Brenda Braud,72
+Tangipahoa,00 40A,State House,62,D,Myron Hall,2
+Tangipahoa,00 40A,State House,62,R,"Thomas H. ""Tom"" McVea",13
+Tangipahoa,00 40A,State House,62,D,"""Chuck"" Reed",63
+Tangipahoa,Early Voting,State House,62,R,Matt Blalock,0
+Tangipahoa,Early Voting,State House,62,R,Brenda Braud,22
+Tangipahoa,Early Voting,State House,62,D,Myron Hall,0
+Tangipahoa,Early Voting,State House,62,R,"Thomas H. ""Tom"" McVea",6
+Tangipahoa,Early Voting,State House,62,D,"""Chuck"" Reed",18
+West Feliciana,1- 1,State House,62,R,Matt Blalock,29
+West Feliciana,1- 1,State House,62,R,Brenda Braud,39
+West Feliciana,1- 1,State House,62,D,Myron Hall,16
+West Feliciana,1- 1,State House,62,R,"Thomas H. ""Tom"" McVea",273
+West Feliciana,1- 1,State House,62,D,"""Chuck"" Reed",52
+West Feliciana,2- 1,State House,62,R,Matt Blalock,26
+West Feliciana,2- 1,State House,62,R,Brenda Braud,37
+West Feliciana,2- 1,State House,62,D,Myron Hall,11
+West Feliciana,2- 1,State House,62,R,"Thomas H. ""Tom"" McVea",201
+West Feliciana,2- 1,State House,62,D,"""Chuck"" Reed",14
+West Feliciana,3- 1,State House,62,R,Matt Blalock,3
+West Feliciana,3- 1,State House,62,R,Brenda Braud,1
+West Feliciana,3- 1,State House,62,D,Myron Hall,3
+West Feliciana,3- 1,State House,62,R,"Thomas H. ""Tom"" McVea",51
+West Feliciana,3- 1,State House,62,D,"""Chuck"" Reed",2
+West Feliciana,6- 1,State House,62,R,Matt Blalock,7
+West Feliciana,6- 1,State House,62,R,Brenda Braud,7
+West Feliciana,6- 1,State House,62,D,Myron Hall,4
+West Feliciana,6- 1,State House,62,R,"Thomas H. ""Tom"" McVea",51
+West Feliciana,6- 1,State House,62,D,"""Chuck"" Reed",3
+West Feliciana,6- 2,State House,62,R,Matt Blalock,17
+West Feliciana,6- 2,State House,62,R,Brenda Braud,9
+West Feliciana,6- 2,State House,62,D,Myron Hall,20
+West Feliciana,6- 2,State House,62,R,"Thomas H. ""Tom"" McVea",114
+West Feliciana,6- 2,State House,62,D,"""Chuck"" Reed",22
+West Feliciana,7- 1,State House,62,R,Matt Blalock,7
+West Feliciana,7- 1,State House,62,R,Brenda Braud,9
+West Feliciana,7- 1,State House,62,D,Myron Hall,11
+West Feliciana,7- 1,State House,62,R,"Thomas H. ""Tom"" McVea",46
+West Feliciana,7- 1,State House,62,D,"""Chuck"" Reed",21
+West Feliciana,7- 2,State House,62,R,Matt Blalock,7
+West Feliciana,7- 2,State House,62,R,Brenda Braud,4
+West Feliciana,7- 2,State House,62,D,Myron Hall,2
+West Feliciana,7- 2,State House,62,R,"Thomas H. ""Tom"" McVea",64
+West Feliciana,7- 2,State House,62,D,"""Chuck"" Reed",28
+West Feliciana,Early Voting,State House,62,R,Matt Blalock,5
+West Feliciana,Early Voting,State House,62,R,Brenda Braud,8
+West Feliciana,Early Voting,State House,62,D,Myron Hall,1
+West Feliciana,Early Voting,State House,62,R,"Thomas H. ""Tom"" McVea",75
+West Feliciana,Early Voting,State House,62,D,"""Chuck"" Reed",18

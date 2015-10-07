@@ -1,0 +1,312 @@
+parish,precinct,office,district,party,candidate,votes
+Orleans,10 08,State House,91,D,Jalila Jefferson,15
+Orleans,10 08,State House,91,D,Shane Landry,47
+Orleans,10 08,State House,91,D,Rosalind Magee Peychaud,32
+Orleans,10 08,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,10 09,State House,91,D,Jalila Jefferson,11
+Orleans,10 09,State House,91,D,Shane Landry,47
+Orleans,10 09,State House,91,D,Rosalind Magee Peychaud,59
+Orleans,10 09,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 03,State House,91,D,Jalila Jefferson,44
+Orleans,11 03,State House,91,D,Shane Landry,6
+Orleans,11 03,State House,91,D,Rosalind Magee Peychaud,12
+Orleans,11 03,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 04,State House,91,D,Jalila Jefferson,34
+Orleans,11 04,State House,91,D,Shane Landry,13
+Orleans,11 04,State House,91,D,Rosalind Magee Peychaud,22
+Orleans,11 04,State House,91,O,"Melva ""Mel"" Vallery",2
+Orleans,11 05,State House,91,D,Jalila Jefferson,52
+Orleans,11 05,State House,91,D,Shane Landry,27
+Orleans,11 05,State House,91,D,Rosalind Magee Peychaud,61
+Orleans,11 05,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 08,State House,91,D,Jalila Jefferson,13
+Orleans,11 08,State House,91,D,Shane Landry,48
+Orleans,11 08,State House,91,D,Rosalind Magee Peychaud,66
+Orleans,11 08,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 09,State House,91,D,Jalila Jefferson,23
+Orleans,11 09,State House,91,D,Shane Landry,96
+Orleans,11 09,State House,91,D,Rosalind Magee Peychaud,99
+Orleans,11 09,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 10,State House,91,D,Jalila Jefferson,62
+Orleans,11 10,State House,91,D,Shane Landry,27
+Orleans,11 10,State House,91,D,Rosalind Magee Peychaud,61
+Orleans,11 10,State House,91,O,"Melva ""Mel"" Vallery",1
+Orleans,11 11,State House,91,D,Jalila Jefferson,99
+Orleans,11 11,State House,91,D,Shane Landry,0
+Orleans,11 11,State House,91,D,Rosalind Magee Peychaud,26
+Orleans,11 11,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 12,State House,91,D,Jalila Jefferson,79
+Orleans,11 12,State House,91,D,Shane Landry,1
+Orleans,11 12,State House,91,D,Rosalind Magee Peychaud,17
+Orleans,11 12,State House,91,O,"Melva ""Mel"" Vallery",4
+Orleans,11 13,State House,91,D,Jalila Jefferson,82
+Orleans,11 13,State House,91,D,Shane Landry,1
+Orleans,11 13,State House,91,D,Rosalind Magee Peychaud,17
+Orleans,11 13,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 14,State House,91,D,Jalila Jefferson,97
+Orleans,11 14,State House,91,D,Shane Landry,2
+Orleans,11 14,State House,91,D,Rosalind Magee Peychaud,16
+Orleans,11 14,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 15,State House,91,D,Jalila Jefferson,46
+Orleans,11 15,State House,91,D,Shane Landry,0
+Orleans,11 15,State House,91,D,Rosalind Magee Peychaud,9
+Orleans,11 15,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 16,State House,91,D,Jalila Jefferson,73
+Orleans,11 16,State House,91,D,Shane Landry,1
+Orleans,11 16,State House,91,D,Rosalind Magee Peychaud,8
+Orleans,11 16,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 17,State House,91,D,Jalila Jefferson,43
+Orleans,11 17,State House,91,D,Shane Landry,0
+Orleans,11 17,State House,91,D,Rosalind Magee Peychaud,4
+Orleans,11 17,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 18,State House,91,D,Jalila Jefferson,67
+Orleans,11 18,State House,91,D,Shane Landry,1
+Orleans,11 18,State House,91,D,Rosalind Magee Peychaud,15
+Orleans,11 18,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,11 19,State House,91,D,Jalila Jefferson,35
+Orleans,11 19,State House,91,D,Shane Landry,0
+Orleans,11 19,State House,91,D,Rosalind Magee Peychaud,9
+Orleans,11 19,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 01,State House,91,D,Jalila Jefferson,28
+Orleans,12 01,State House,91,D,Shane Landry,13
+Orleans,12 01,State House,91,D,Rosalind Magee Peychaud,31
+Orleans,12 01,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 02,State House,91,D,Jalila Jefferson,54
+Orleans,12 02,State House,91,D,Shane Landry,6
+Orleans,12 02,State House,91,D,Rosalind Magee Peychaud,35
+Orleans,12 02,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 03,State House,91,D,Jalila Jefferson,72
+Orleans,12 03,State House,91,D,Shane Landry,7
+Orleans,12 03,State House,91,D,Rosalind Magee Peychaud,30
+Orleans,12 03,State House,91,O,"Melva ""Mel"" Vallery",1
+Orleans,12 04,State House,91,D,Jalila Jefferson,27
+Orleans,12 04,State House,91,D,Shane Landry,19
+Orleans,12 04,State House,91,D,Rosalind Magee Peychaud,32
+Orleans,12 04,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 05,State House,91,D,Jalila Jefferson,10
+Orleans,12 05,State House,91,D,Shane Landry,42
+Orleans,12 05,State House,91,D,Rosalind Magee Peychaud,37
+Orleans,12 05,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 06,State House,91,D,Jalila Jefferson,17
+Orleans,12 06,State House,91,D,Shane Landry,21
+Orleans,12 06,State House,91,D,Rosalind Magee Peychaud,43
+Orleans,12 06,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 07,State House,91,D,Jalila Jefferson,12
+Orleans,12 07,State House,91,D,Shane Landry,17
+Orleans,12 07,State House,91,D,Rosalind Magee Peychaud,25
+Orleans,12 07,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 08,State House,91,D,Jalila Jefferson,6
+Orleans,12 08,State House,91,D,Shane Landry,16
+Orleans,12 08,State House,91,D,Rosalind Magee Peychaud,30
+Orleans,12 08,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 09,State House,91,D,Jalila Jefferson,46
+Orleans,12 09,State House,91,D,Shane Landry,14
+Orleans,12 09,State House,91,D,Rosalind Magee Peychaud,32
+Orleans,12 09,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 10,State House,91,D,Jalila Jefferson,21
+Orleans,12 10,State House,91,D,Shane Landry,30
+Orleans,12 10,State House,91,D,Rosalind Magee Peychaud,62
+Orleans,12 10,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,12 11,State House,91,D,Jalila Jefferson,73
+Orleans,12 11,State House,91,D,Shane Landry,10
+Orleans,12 11,State House,91,D,Rosalind Magee Peychaud,49
+Orleans,12 11,State House,91,O,"Melva ""Mel"" Vallery",1
+Orleans,12 12,State House,91,D,Jalila Jefferson,64
+Orleans,12 12,State House,91,D,Shane Landry,4
+Orleans,12 12,State House,91,D,Rosalind Magee Peychaud,57
+Orleans,12 12,State House,91,O,"Melva ""Mel"" Vallery",2
+Orleans,12 13,State House,91,D,Jalila Jefferson,70
+Orleans,12 13,State House,91,D,Shane Landry,1
+Orleans,12 13,State House,91,D,Rosalind Magee Peychaud,38
+Orleans,12 13,State House,91,O,"Melva ""Mel"" Vallery",1
+Orleans,12 14,State House,91,D,Jalila Jefferson,103
+Orleans,12 14,State House,91,D,Shane Landry,4
+Orleans,12 14,State House,91,D,Rosalind Magee Peychaud,112
+Orleans,12 14,State House,91,O,"Melva ""Mel"" Vallery",2
+Orleans,12 16,State House,91,D,Jalila Jefferson,100
+Orleans,12 16,State House,91,D,Shane Landry,6
+Orleans,12 16,State House,91,D,Rosalind Magee Peychaud,48
+Orleans,12 16,State House,91,O,"Melva ""Mel"" Vallery",1
+Orleans,12 17,State House,91,D,Jalila Jefferson,39
+Orleans,12 17,State House,91,D,Shane Landry,0
+Orleans,12 17,State House,91,D,Rosalind Magee Peychaud,22
+Orleans,12 17,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,13 05,State House,91,D,Jalila Jefferson,34
+Orleans,13 05,State House,91,D,Shane Landry,7
+Orleans,13 05,State House,91,D,Rosalind Magee Peychaud,51
+Orleans,13 05,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,13 07,State House,91,D,Jalila Jefferson,30
+Orleans,13 07,State House,91,D,Shane Landry,11
+Orleans,13 07,State House,91,D,Rosalind Magee Peychaud,15
+Orleans,13 07,State House,91,O,"Melva ""Mel"" Vallery",1
+Orleans,13 08,State House,91,D,Jalila Jefferson,13
+Orleans,13 08,State House,91,D,Shane Landry,31
+Orleans,13 08,State House,91,D,Rosalind Magee Peychaud,63
+Orleans,13 08,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,13 09,State House,91,D,Jalila Jefferson,22
+Orleans,13 09,State House,91,D,Shane Landry,25
+Orleans,13 09,State House,91,D,Rosalind Magee Peychaud,37
+Orleans,13 09,State House,91,O,"Melva ""Mel"" Vallery",2
+Orleans,13 10,State House,91,D,Jalila Jefferson,13
+Orleans,13 10,State House,91,D,Shane Landry,29
+Orleans,13 10,State House,91,D,Rosalind Magee Peychaud,73
+Orleans,13 10,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,Early Voting,State House,91,D,Jalila Jefferson,6
+Orleans,Early Voting,State House,91,D,Shane Landry,3
+Orleans,Early Voting,State House,91,D,Rosalind Magee Peychaud,5
+Orleans,Early Voting,State House,91,O,"Melva ""Mel"" Vallery",0
+Orleans,15 01,State House,102,D,"""Jeff"" Arnold",92
+Orleans,15 01,State House,102,D,Demetrie E. Ford,10
+Orleans,15 01,State House,102,D,Kenneth P. Garrett,2
+Orleans,15 01,State House,102,D,Evelyn McCoy Gastinell,1
+Orleans,15 01,State House,102,D,Christopher Williams,2
+Orleans,15 02,State House,102,D,"""Jeff"" Arnold",125
+Orleans,15 02,State House,102,D,Demetrie E. Ford,39
+Orleans,15 02,State House,102,D,Kenneth P. Garrett,10
+Orleans,15 02,State House,102,D,Evelyn McCoy Gastinell,6
+Orleans,15 02,State House,102,D,Christopher Williams,1
+Orleans,15 03,State House,102,D,"""Jeff"" Arnold",80
+Orleans,15 03,State House,102,D,Demetrie E. Ford,16
+Orleans,15 03,State House,102,D,Kenneth P. Garrett,3
+Orleans,15 03,State House,102,D,Evelyn McCoy Gastinell,2
+Orleans,15 03,State House,102,D,Christopher Williams,1
+Orleans,15 05,State House,102,D,"""Jeff"" Arnold",17
+Orleans,15 05,State House,102,D,Demetrie E. Ford,23
+Orleans,15 05,State House,102,D,Kenneth P. Garrett,8
+Orleans,15 05,State House,102,D,Evelyn McCoy Gastinell,7
+Orleans,15 05,State House,102,D,Christopher Williams,3
+Orleans,15 06,State House,102,D,"""Jeff"" Arnold",27
+Orleans,15 06,State House,102,D,Demetrie E. Ford,36
+Orleans,15 06,State House,102,D,Kenneth P. Garrett,9
+Orleans,15 06,State House,102,D,Evelyn McCoy Gastinell,13
+Orleans,15 06,State House,102,D,Christopher Williams,1
+Orleans,15 08,State House,102,D,"""Jeff"" Arnold",19
+Orleans,15 08,State House,102,D,Demetrie E. Ford,25
+Orleans,15 08,State House,102,D,Kenneth P. Garrett,8
+Orleans,15 08,State House,102,D,Evelyn McCoy Gastinell,3
+Orleans,15 08,State House,102,D,Christopher Williams,0
+Orleans,15 09,State House,102,D,"""Jeff"" Arnold",22
+Orleans,15 09,State House,102,D,Demetrie E. Ford,19
+Orleans,15 09,State House,102,D,Kenneth P. Garrett,3
+Orleans,15 09,State House,102,D,Evelyn McCoy Gastinell,3
+Orleans,15 09,State House,102,D,Christopher Williams,5
+Orleans,15 10,State House,102,D,"""Jeff"" Arnold",32
+Orleans,15 10,State House,102,D,Demetrie E. Ford,53
+Orleans,15 10,State House,102,D,Kenneth P. Garrett,13
+Orleans,15 10,State House,102,D,Evelyn McCoy Gastinell,16
+Orleans,15 10,State House,102,D,Christopher Williams,2
+Orleans,15 11,State House,102,D,"""Jeff"" Arnold",11
+Orleans,15 11,State House,102,D,Demetrie E. Ford,47
+Orleans,15 11,State House,102,D,Kenneth P. Garrett,31
+Orleans,15 11,State House,102,D,Evelyn McCoy Gastinell,8
+Orleans,15 11,State House,102,D,Christopher Williams,1
+Orleans,15 12,State House,102,D,"""Jeff"" Arnold",39
+Orleans,15 12,State House,102,D,Demetrie E. Ford,14
+Orleans,15 12,State House,102,D,Kenneth P. Garrett,2
+Orleans,15 12,State House,102,D,Evelyn McCoy Gastinell,6
+Orleans,15 12,State House,102,D,Christopher Williams,7
+Orleans,15 12A,State House,102,D,"""Jeff"" Arnold",30
+Orleans,15 12A,State House,102,D,Demetrie E. Ford,34
+Orleans,15 12A,State House,102,D,Kenneth P. Garrett,6
+Orleans,15 12A,State House,102,D,Evelyn McCoy Gastinell,18
+Orleans,15 12A,State House,102,D,Christopher Williams,2
+Orleans,15 13,State House,102,D,"""Jeff"" Arnold",52
+Orleans,15 13,State House,102,D,Demetrie E. Ford,13
+Orleans,15 13,State House,102,D,Kenneth P. Garrett,9
+Orleans,15 13,State House,102,D,Evelyn McCoy Gastinell,10
+Orleans,15 13,State House,102,D,Christopher Williams,2
+Orleans,15 13A,State House,102,D,"""Jeff"" Arnold",53
+Orleans,15 13A,State House,102,D,Demetrie E. Ford,12
+Orleans,15 13A,State House,102,D,Kenneth P. Garrett,8
+Orleans,15 13A,State House,102,D,Evelyn McCoy Gastinell,10
+Orleans,15 13A,State House,102,D,Christopher Williams,17
+Orleans,15 13B,State House,102,D,"""Jeff"" Arnold",19
+Orleans,15 13B,State House,102,D,Demetrie E. Ford,24
+Orleans,15 13B,State House,102,D,Kenneth P. Garrett,10
+Orleans,15 13B,State House,102,D,Evelyn McCoy Gastinell,28
+Orleans,15 13B,State House,102,D,Christopher Williams,3
+Orleans,15 14,State House,102,D,"""Jeff"" Arnold",181
+Orleans,15 14,State House,102,D,Demetrie E. Ford,22
+Orleans,15 14,State House,102,D,Kenneth P. Garrett,4
+Orleans,15 14,State House,102,D,Evelyn McCoy Gastinell,3
+Orleans,15 14,State House,102,D,Christopher Williams,1
+Orleans,15 14A,State House,102,D,"""Jeff"" Arnold",77
+Orleans,15 14A,State House,102,D,Demetrie E. Ford,16
+Orleans,15 14A,State House,102,D,Kenneth P. Garrett,2
+Orleans,15 14A,State House,102,D,Evelyn McCoy Gastinell,3
+Orleans,15 14A,State House,102,D,Christopher Williams,2
+Orleans,15 14B,State House,102,D,"""Jeff"" Arnold",93
+Orleans,15 14B,State House,102,D,Demetrie E. Ford,21
+Orleans,15 14B,State House,102,D,Kenneth P. Garrett,6
+Orleans,15 14B,State House,102,D,Evelyn McCoy Gastinell,2
+Orleans,15 14B,State House,102,D,Christopher Williams,0
+Orleans,15 14C,State House,102,D,"""Jeff"" Arnold",101
+Orleans,15 14C,State House,102,D,Demetrie E. Ford,2
+Orleans,15 14C,State House,102,D,Kenneth P. Garrett,4
+Orleans,15 14C,State House,102,D,Evelyn McCoy Gastinell,1
+Orleans,15 14C,State House,102,D,Christopher Williams,4
+Orleans,15 14E,State House,102,D,"""Jeff"" Arnold",50
+Orleans,15 14E,State House,102,D,Demetrie E. Ford,21
+Orleans,15 14E,State House,102,D,Kenneth P. Garrett,7
+Orleans,15 14E,State House,102,D,Evelyn McCoy Gastinell,22
+Orleans,15 14E,State House,102,D,Christopher Williams,6
+Orleans,15 14F,State House,102,D,"""Jeff"" Arnold",96
+Orleans,15 14F,State House,102,D,Demetrie E. Ford,24
+Orleans,15 14F,State House,102,D,Kenneth P. Garrett,2
+Orleans,15 14F,State House,102,D,Evelyn McCoy Gastinell,2
+Orleans,15 14F,State House,102,D,Christopher Williams,2
+Orleans,15 15,State House,102,D,"""Jeff"" Arnold",72
+Orleans,15 15,State House,102,D,Demetrie E. Ford,30
+Orleans,15 15,State House,102,D,Kenneth P. Garrett,8
+Orleans,15 15,State House,102,D,Evelyn McCoy Gastinell,36
+Orleans,15 15,State House,102,D,Christopher Williams,6
+Orleans,15 15A,State House,102,D,"""Jeff"" Arnold",159
+Orleans,15 15A,State House,102,D,Demetrie E. Ford,13
+Orleans,15 15A,State House,102,D,Kenneth P. Garrett,4
+Orleans,15 15A,State House,102,D,Evelyn McCoy Gastinell,9
+Orleans,15 15A,State House,102,D,Christopher Williams,7
+Orleans,15 15B,State House,102,D,"""Jeff"" Arnold",174
+Orleans,15 15B,State House,102,D,Demetrie E. Ford,13
+Orleans,15 15B,State House,102,D,Kenneth P. Garrett,1
+Orleans,15 15B,State House,102,D,Evelyn McCoy Gastinell,5
+Orleans,15 15B,State House,102,D,Christopher Williams,1
+Orleans,15 16,State House,102,D,"""Jeff"" Arnold",163
+Orleans,15 16,State House,102,D,Demetrie E. Ford,25
+Orleans,15 16,State House,102,D,Kenneth P. Garrett,13
+Orleans,15 16,State House,102,D,Evelyn McCoy Gastinell,40
+Orleans,15 16,State House,102,D,Christopher Williams,8
+Orleans,15 17,State House,102,D,"""Jeff"" Arnold",207
+Orleans,15 17,State House,102,D,Demetrie E. Ford,10
+Orleans,15 17,State House,102,D,Kenneth P. Garrett,0
+Orleans,15 17,State House,102,D,Evelyn McCoy Gastinell,3
+Orleans,15 17,State House,102,D,Christopher Williams,5
+Orleans,15 17A,State House,102,D,"""Jeff"" Arnold",217
+Orleans,15 17A,State House,102,D,Demetrie E. Ford,8
+Orleans,15 17A,State House,102,D,Kenneth P. Garrett,0
+Orleans,15 17A,State House,102,D,Evelyn McCoy Gastinell,1
+Orleans,15 17A,State House,102,D,Christopher Williams,0
+Orleans,15 17B,State House,102,D,"""Jeff"" Arnold",210
+Orleans,15 17B,State House,102,D,Demetrie E. Ford,7
+Orleans,15 17B,State House,102,D,Kenneth P. Garrett,2
+Orleans,15 17B,State House,102,D,Evelyn McCoy Gastinell,2
+Orleans,15 17B,State House,102,D,Christopher Williams,2
+Orleans,15 18B,State House,102,D,"""Jeff"" Arnold",90
+Orleans,15 18B,State House,102,D,Demetrie E. Ford,23
+Orleans,15 18B,State House,102,D,Kenneth P. Garrett,7
+Orleans,15 18B,State House,102,D,Evelyn McCoy Gastinell,17
+Orleans,15 18B,State House,102,D,Christopher Williams,3
+Orleans,15 19,State House,102,D,"""Jeff"" Arnold",27
+Orleans,15 19,State House,102,D,Demetrie E. Ford,21
+Orleans,15 19,State House,102,D,Kenneth P. Garrett,14
+Orleans,15 19,State House,102,D,Evelyn McCoy Gastinell,97
+Orleans,15 19,State House,102,D,Christopher Williams,4
+Orleans,15 19B,State House,102,D,"""Jeff"" Arnold",21
+Orleans,15 19B,State House,102,D,Demetrie E. Ford,11
+Orleans,15 19B,State House,102,D,Kenneth P. Garrett,8
+Orleans,15 19B,State House,102,D,Evelyn McCoy Gastinell,48
+Orleans,15 19B,State House,102,D,Christopher Williams,3
+Orleans,Early Voting,State House,102,D,"""Jeff"" Arnold",105
+Orleans,Early Voting,State House,102,D,Demetrie E. Ford,8
+Orleans,Early Voting,State House,102,D,Kenneth P. Garrett,3
+Orleans,Early Voting,State House,102,D,Evelyn McCoy Gastinell,12
+Orleans,Early Voting,State House,102,D,Christopher Williams,1

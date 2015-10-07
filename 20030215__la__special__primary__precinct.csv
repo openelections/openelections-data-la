@@ -1,0 +1,386 @@
+parish,precinct,office,district,party,candidate,votes
+Bienville,01 01,State House,13,D,Todd Culpepper,40
+Bienville,01 01,State House,13,D,"James R. ""Jim"" Fannin",16
+Bienville,01 01,State House,13,D,Loyd I. Sowers,1
+Bienville,01 01,State House,13,D,Leslie Thompson,15
+Bienville,01 01,State House,13,R,Ben Young,19
+Bienville,01 02,State House,13,D,Todd Culpepper,60
+Bienville,01 02,State House,13,D,"James R. ""Jim"" Fannin",27
+Bienville,01 02,State House,13,D,Loyd I. Sowers,2
+Bienville,01 02,State House,13,D,Leslie Thompson,13
+Bienville,01 02,State House,13,R,Ben Young,44
+Bienville,01 03,State House,13,D,Todd Culpepper,8
+Bienville,01 03,State House,13,D,"James R. ""Jim"" Fannin",15
+Bienville,01 03,State House,13,D,Loyd I. Sowers,5
+Bienville,01 03,State House,13,D,Leslie Thompson,12
+Bienville,01 03,State House,13,R,Ben Young,3
+Bienville,02 01,State House,13,D,Todd Culpepper,1
+Bienville,02 01,State House,13,D,"James R. ""Jim"" Fannin",0
+Bienville,02 01,State House,13,D,Loyd I. Sowers,0
+Bienville,02 01,State House,13,D,Leslie Thompson,0
+Bienville,02 01,State House,13,R,Ben Young,0
+Bienville,02 02,State House,13,D,Todd Culpepper,1
+Bienville,02 02,State House,13,D,"James R. ""Jim"" Fannin",1
+Bienville,02 02,State House,13,D,Loyd I. Sowers,0
+Bienville,02 02,State House,13,D,Leslie Thompson,0
+Bienville,02 02,State House,13,R,Ben Young,0
+Bienville,02 03,State House,13,D,Todd Culpepper,13
+Bienville,02 03,State House,13,D,"James R. ""Jim"" Fannin",10
+Bienville,02 03,State House,13,D,Loyd I. Sowers,0
+Bienville,02 03,State House,13,D,Leslie Thompson,4
+Bienville,02 03,State House,13,R,Ben Young,7
+Bienville,03 02,State House,13,D,Todd Culpepper,12
+Bienville,03 02,State House,13,D,"James R. ""Jim"" Fannin",12
+Bienville,03 02,State House,13,D,Loyd I. Sowers,0
+Bienville,03 02,State House,13,D,Leslie Thompson,5
+Bienville,03 02,State House,13,R,Ben Young,12
+Bienville,03 03,State House,13,D,Todd Culpepper,3
+Bienville,03 03,State House,13,D,"James R. ""Jim"" Fannin",3
+Bienville,03 03,State House,13,D,Loyd I. Sowers,0
+Bienville,03 03,State House,13,D,Leslie Thompson,17
+Bienville,03 03,State House,13,R,Ben Young,22
+Bienville,03 05,State House,13,D,Todd Culpepper,8
+Bienville,03 05,State House,13,D,"James R. ""Jim"" Fannin",4
+Bienville,03 05,State House,13,D,Loyd I. Sowers,0
+Bienville,03 05,State House,13,D,Leslie Thompson,2
+Bienville,03 05,State House,13,R,Ben Young,6
+Bienville,05 04,State House,13,D,Todd Culpepper,24
+Bienville,05 04,State House,13,D,"James R. ""Jim"" Fannin",7
+Bienville,05 04,State House,13,D,Loyd I. Sowers,1
+Bienville,05 04,State House,13,D,Leslie Thompson,1
+Bienville,05 04,State House,13,R,Ben Young,14
+Bienville,06 01,State House,13,D,Todd Culpepper,29
+Bienville,06 01,State House,13,D,"James R. ""Jim"" Fannin",46
+Bienville,06 01,State House,13,D,Loyd I. Sowers,5
+Bienville,06 01,State House,13,D,Leslie Thompson,11
+Bienville,06 01,State House,13,R,Ben Young,20
+Bienville,06 02,State House,13,D,Todd Culpepper,16
+Bienville,06 02,State House,13,D,"James R. ""Jim"" Fannin",9
+Bienville,06 02,State House,13,D,Loyd I. Sowers,0
+Bienville,06 02,State House,13,D,Leslie Thompson,5
+Bienville,06 02,State House,13,R,Ben Young,16
+Bienville,07 01,State House,13,D,Todd Culpepper,32
+Bienville,07 01,State House,13,D,"James R. ""Jim"" Fannin",14
+Bienville,07 01,State House,13,D,Loyd I. Sowers,0
+Bienville,07 01,State House,13,D,Leslie Thompson,51
+Bienville,07 01,State House,13,R,Ben Young,10
+Bienville,07 02,State House,13,D,Todd Culpepper,18
+Bienville,07 02,State House,13,D,"James R. ""Jim"" Fannin",17
+Bienville,07 02,State House,13,D,Loyd I. Sowers,4
+Bienville,07 02,State House,13,D,Leslie Thompson,51
+Bienville,07 02,State House,13,R,Ben Young,5
+Bienville,07 03,State House,13,D,Todd Culpepper,34
+Bienville,07 03,State House,13,D,"James R. ""Jim"" Fannin",20
+Bienville,07 03,State House,13,D,Loyd I. Sowers,2
+Bienville,07 03,State House,13,D,Leslie Thompson,53
+Bienville,07 03,State House,13,R,Ben Young,10
+Bienville,07 04,State House,13,D,Todd Culpepper,36
+Bienville,07 04,State House,13,D,"James R. ""Jim"" Fannin",63
+Bienville,07 04,State House,13,D,Loyd I. Sowers,13
+Bienville,07 04,State House,13,D,Leslie Thompson,124
+Bienville,07 04,State House,13,R,Ben Young,24
+Bienville,07 05,State House,13,D,Todd Culpepper,0
+Bienville,07 05,State House,13,D,"James R. ""Jim"" Fannin",0
+Bienville,07 05,State House,13,D,Loyd I. Sowers,0
+Bienville,07 05,State House,13,D,Leslie Thompson,4
+Bienville,07 05,State House,13,R,Ben Young,0
+Bienville,Early Voting,State House,13,D,Todd Culpepper,43
+Bienville,Early Voting,State House,13,D,"James R. ""Jim"" Fannin",11
+Bienville,Early Voting,State House,13,D,Loyd I. Sowers,2
+Bienville,Early Voting,State House,13,D,Leslie Thompson,7
+Bienville,Early Voting,State House,13,R,Ben Young,14
+Jackson,00 01,State House,13,D,Todd Culpepper,22
+Jackson,00 01,State House,13,D,"James R. ""Jim"" Fannin",11
+Jackson,00 01,State House,13,D,Loyd I. Sowers,1
+Jackson,00 01,State House,13,D,Leslie Thompson,1
+Jackson,00 01,State House,13,R,Ben Young,5
+Jackson,00 02,State House,13,D,Todd Culpepper,107
+Jackson,00 02,State House,13,D,"James R. ""Jim"" Fannin",103
+Jackson,00 02,State House,13,D,Loyd I. Sowers,21
+Jackson,00 02,State House,13,D,Leslie Thompson,9
+Jackson,00 02,State House,13,R,Ben Young,27
+Jackson,00 03,State House,13,D,Todd Culpepper,114
+Jackson,00 03,State House,13,D,"James R. ""Jim"" Fannin",46
+Jackson,00 03,State House,13,D,Loyd I. Sowers,23
+Jackson,00 03,State House,13,D,Leslie Thompson,0
+Jackson,00 03,State House,13,R,Ben Young,17
+Jackson,00 04,State House,13,D,Todd Culpepper,3
+Jackson,00 04,State House,13,D,"James R. ""Jim"" Fannin",3
+Jackson,00 04,State House,13,D,Loyd I. Sowers,6
+Jackson,00 04,State House,13,D,Leslie Thompson,6
+Jackson,00 04,State House,13,R,Ben Young,3
+Jackson,00 05,State House,13,D,Todd Culpepper,8
+Jackson,00 05,State House,13,D,"James R. ""Jim"" Fannin",36
+Jackson,00 05,State House,13,D,Loyd I. Sowers,1
+Jackson,00 05,State House,13,D,Leslie Thompson,29
+Jackson,00 05,State House,13,R,Ben Young,7
+Jackson,00 06,State House,13,D,Todd Culpepper,27
+Jackson,00 06,State House,13,D,"James R. ""Jim"" Fannin",26
+Jackson,00 06,State House,13,D,Loyd I. Sowers,8
+Jackson,00 06,State House,13,D,Leslie Thompson,13
+Jackson,00 06,State House,13,R,Ben Young,15
+Jackson,00 07,State House,13,D,Todd Culpepper,9
+Jackson,00 07,State House,13,D,"James R. ""Jim"" Fannin",8
+Jackson,00 07,State House,13,D,Loyd I. Sowers,4
+Jackson,00 07,State House,13,D,Leslie Thompson,0
+Jackson,00 07,State House,13,R,Ben Young,5
+Jackson,00 08,State House,13,D,Todd Culpepper,24
+Jackson,00 08,State House,13,D,"James R. ""Jim"" Fannin",83
+Jackson,00 08,State House,13,D,Loyd I. Sowers,8
+Jackson,00 08,State House,13,D,Leslie Thompson,43
+Jackson,00 08,State House,13,R,Ben Young,11
+Jackson,00 09,State House,13,D,Todd Culpepper,33
+Jackson,00 09,State House,13,D,"James R. ""Jim"" Fannin",47
+Jackson,00 09,State House,13,D,Loyd I. Sowers,5
+Jackson,00 09,State House,13,D,Leslie Thompson,47
+Jackson,00 09,State House,13,R,Ben Young,16
+Jackson,00 10,State House,13,D,Todd Culpepper,144
+Jackson,00 10,State House,13,D,"James R. ""Jim"" Fannin",87
+Jackson,00 10,State House,13,D,Loyd I. Sowers,12
+Jackson,00 10,State House,13,D,Leslie Thompson,1
+Jackson,00 10,State House,13,R,Ben Young,21
+Jackson,00 11,State House,13,D,Todd Culpepper,106
+Jackson,00 11,State House,13,D,"James R. ""Jim"" Fannin",272
+Jackson,00 11,State House,13,D,Loyd I. Sowers,14
+Jackson,00 11,State House,13,D,Leslie Thompson,2
+Jackson,00 11,State House,13,R,Ben Young,36
+Jackson,00 12,State House,13,D,Todd Culpepper,20
+Jackson,00 12,State House,13,D,"James R. ""Jim"" Fannin",6
+Jackson,00 12,State House,13,D,Loyd I. Sowers,4
+Jackson,00 12,State House,13,D,Leslie Thompson,49
+Jackson,00 12,State House,13,R,Ben Young,9
+Jackson,00 13,State House,13,D,Todd Culpepper,6
+Jackson,00 13,State House,13,D,"James R. ""Jim"" Fannin",39
+Jackson,00 13,State House,13,D,Loyd I. Sowers,8
+Jackson,00 13,State House,13,D,Leslie Thompson,1
+Jackson,00 13,State House,13,R,Ben Young,3
+Jackson,00 14,State House,13,D,Todd Culpepper,24
+Jackson,00 14,State House,13,D,"James R. ""Jim"" Fannin",36
+Jackson,00 14,State House,13,D,Loyd I. Sowers,7
+Jackson,00 14,State House,13,D,Leslie Thompson,2
+Jackson,00 14,State House,13,R,Ben Young,14
+Jackson,00 15,State House,13,D,Todd Culpepper,12
+Jackson,00 15,State House,13,D,"James R. ""Jim"" Fannin",24
+Jackson,00 15,State House,13,D,Loyd I. Sowers,8
+Jackson,00 15,State House,13,D,Leslie Thompson,14
+Jackson,00 15,State House,13,R,Ben Young,6
+Jackson,00 16,State House,13,D,Todd Culpepper,20
+Jackson,00 16,State House,13,D,"James R. ""Jim"" Fannin",3
+Jackson,00 16,State House,13,D,Loyd I. Sowers,7
+Jackson,00 16,State House,13,D,Leslie Thompson,77
+Jackson,00 16,State House,13,R,Ben Young,0
+Jackson,00 17,State House,13,D,Todd Culpepper,71
+Jackson,00 17,State House,13,D,"James R. ""Jim"" Fannin",27
+Jackson,00 17,State House,13,D,Loyd I. Sowers,14
+Jackson,00 17,State House,13,D,Leslie Thompson,29
+Jackson,00 17,State House,13,R,Ben Young,20
+Jackson,00 18,State House,13,D,Todd Culpepper,9
+Jackson,00 18,State House,13,D,"James R. ""Jim"" Fannin",8
+Jackson,00 18,State House,13,D,Loyd I. Sowers,0
+Jackson,00 18,State House,13,D,Leslie Thompson,0
+Jackson,00 18,State House,13,R,Ben Young,4
+Jackson,00 19,State House,13,D,Todd Culpepper,88
+Jackson,00 19,State House,13,D,"James R. ""Jim"" Fannin",31
+Jackson,00 19,State House,13,D,Loyd I. Sowers,19
+Jackson,00 19,State House,13,D,Leslie Thompson,45
+Jackson,00 19,State House,13,R,Ben Young,30
+Jackson,00 20,State House,13,D,Todd Culpepper,13
+Jackson,00 20,State House,13,D,"James R. ""Jim"" Fannin",2
+Jackson,00 20,State House,13,D,Loyd I. Sowers,2
+Jackson,00 20,State House,13,D,Leslie Thompson,115
+Jackson,00 20,State House,13,R,Ben Young,0
+Jackson,00 21,State House,13,D,Todd Culpepper,52
+Jackson,00 21,State House,13,D,"James R. ""Jim"" Fannin",19
+Jackson,00 21,State House,13,D,Loyd I. Sowers,4
+Jackson,00 21,State House,13,D,Leslie Thompson,310
+Jackson,00 21,State House,13,R,Ben Young,4
+Jackson,00 22,State House,13,D,Todd Culpepper,14
+Jackson,00 22,State House,13,D,"James R. ""Jim"" Fannin",8
+Jackson,00 22,State House,13,D,Loyd I. Sowers,0
+Jackson,00 22,State House,13,D,Leslie Thompson,1
+Jackson,00 22,State House,13,R,Ben Young,9
+Jackson,00 23,State House,13,D,Todd Culpepper,71
+Jackson,00 23,State House,13,D,"James R. ""Jim"" Fannin",50
+Jackson,00 23,State House,13,D,Loyd I. Sowers,15
+Jackson,00 23,State House,13,D,Leslie Thompson,24
+Jackson,00 23,State House,13,R,Ben Young,20
+Jackson,00 24,State House,13,D,Todd Culpepper,20
+Jackson,00 24,State House,13,D,"James R. ""Jim"" Fannin",8
+Jackson,00 24,State House,13,D,Loyd I. Sowers,2
+Jackson,00 24,State House,13,D,Leslie Thompson,0
+Jackson,00 24,State House,13,R,Ben Young,0
+Jackson,00 25,State House,13,D,Todd Culpepper,132
+Jackson,00 25,State House,13,D,"James R. ""Jim"" Fannin",55
+Jackson,00 25,State House,13,D,Loyd I. Sowers,34
+Jackson,00 25,State House,13,D,Leslie Thompson,25
+Jackson,00 25,State House,13,R,Ben Young,48
+Jackson,00 26,State House,13,D,Todd Culpepper,84
+Jackson,00 26,State House,13,D,"James R. ""Jim"" Fannin",49
+Jackson,00 26,State House,13,D,Loyd I. Sowers,20
+Jackson,00 26,State House,13,D,Leslie Thompson,19
+Jackson,00 26,State House,13,R,Ben Young,18
+Jackson,00 27,State House,13,D,Todd Culpepper,17
+Jackson,00 27,State House,13,D,"James R. ""Jim"" Fannin",21
+Jackson,00 27,State House,13,D,Loyd I. Sowers,4
+Jackson,00 27,State House,13,D,Leslie Thompson,1
+Jackson,00 27,State House,13,R,Ben Young,9
+Jackson,Early Voting,State House,13,D,Todd Culpepper,103
+Jackson,Early Voting,State House,13,D,"James R. ""Jim"" Fannin",40
+Jackson,Early Voting,State House,13,D,Loyd I. Sowers,10
+Jackson,Early Voting,State House,13,D,Leslie Thompson,15
+Jackson,Early Voting,State House,13,R,Ben Young,13
+Lincoln,05 01,State House,13,D,Todd Culpepper,10
+Lincoln,05 01,State House,13,D,"James R. ""Jim"" Fannin",19
+Lincoln,05 01,State House,13,D,Loyd I. Sowers,4
+Lincoln,05 01,State House,13,D,Leslie Thompson,8
+Lincoln,05 01,State House,13,R,Ben Young,24
+Lincoln,Early Voting,State House,13,D,Todd Culpepper,0
+Lincoln,Early Voting,State House,13,D,"James R. ""Jim"" Fannin",0
+Lincoln,Early Voting,State House,13,D,Loyd I. Sowers,0
+Lincoln,Early Voting,State House,13,D,Leslie Thompson,0
+Lincoln,Early Voting,State House,13,R,Ben Young,3
+Ouachita,00 33,State House,13,D,Todd Culpepper,1
+Ouachita,00 33,State House,13,D,"James R. ""Jim"" Fannin",0
+Ouachita,00 33,State House,13,D,Loyd I. Sowers,0
+Ouachita,00 33,State House,13,D,Leslie Thompson,0
+Ouachita,00 33,State House,13,R,Ben Young,4
+Ouachita,00 45,State House,13,D,Todd Culpepper,0
+Ouachita,00 45,State House,13,D,"James R. ""Jim"" Fannin",0
+Ouachita,00 45,State House,13,D,Loyd I. Sowers,0
+Ouachita,00 45,State House,13,D,Leslie Thompson,0
+Ouachita,00 45,State House,13,R,Ben Young,0
+Ouachita,00 49,State House,13,D,Todd Culpepper,0
+Ouachita,00 49,State House,13,D,"James R. ""Jim"" Fannin",0
+Ouachita,00 49,State House,13,D,Loyd I. Sowers,0
+Ouachita,00 49,State House,13,D,Leslie Thompson,0
+Ouachita,00 49,State House,13,R,Ben Young,0
+Ouachita,00 51,State House,13,D,Todd Culpepper,40
+Ouachita,00 51,State House,13,D,"James R. ""Jim"" Fannin",23
+Ouachita,00 51,State House,13,D,Loyd I. Sowers,2
+Ouachita,00 51,State House,13,D,Leslie Thompson,0
+Ouachita,00 51,State House,13,R,Ben Young,22
+Ouachita,00 52,State House,13,D,Todd Culpepper,43
+Ouachita,00 52,State House,13,D,"James R. ""Jim"" Fannin",23
+Ouachita,00 52,State House,13,D,Loyd I. Sowers,0
+Ouachita,00 52,State House,13,D,Leslie Thompson,13
+Ouachita,00 52,State House,13,R,Ben Young,17
+Ouachita,00 53,State House,13,D,Todd Culpepper,17
+Ouachita,00 53,State House,13,D,"James R. ""Jim"" Fannin",14
+Ouachita,00 53,State House,13,D,Loyd I. Sowers,2
+Ouachita,00 53,State House,13,D,Leslie Thompson,0
+Ouachita,00 53,State House,13,R,Ben Young,24
+Ouachita,00 54,State House,13,D,Todd Culpepper,1
+Ouachita,00 54,State House,13,D,"James R. ""Jim"" Fannin",0
+Ouachita,00 54,State House,13,D,Loyd I. Sowers,1
+Ouachita,00 54,State House,13,D,Leslie Thompson,1
+Ouachita,00 54,State House,13,R,Ben Young,0
+Ouachita,Early Voting,State House,13,D,Todd Culpepper,1
+Ouachita,Early Voting,State House,13,D,"James R. ""Jim"" Fannin",0
+Ouachita,Early Voting,State House,13,D,Loyd I. Sowers,0
+Ouachita,Early Voting,State House,13,D,Leslie Thompson,0
+Ouachita,Early Voting,State House,13,R,Ben Young,3
+Winn,01 1,State House,13,D,Todd Culpepper,8
+Winn,01 1,State House,13,D,"James R. ""Jim"" Fannin",1
+Winn,01 1,State House,13,D,Loyd I. Sowers,1
+Winn,01 1,State House,13,D,Leslie Thompson,32
+Winn,01 1,State House,13,R,Ben Young,0
+Winn,02 1,State House,13,D,Todd Culpepper,11
+Winn,02 1,State House,13,D,"James R. ""Jim"" Fannin",7
+Winn,02 1,State House,13,D,Loyd I. Sowers,0
+Winn,02 1,State House,13,D,Leslie Thompson,33
+Winn,02 1,State House,13,R,Ben Young,1
+Winn,02 3,State House,13,D,Todd Culpepper,17
+Winn,02 3,State House,13,D,"James R. ""Jim"" Fannin",26
+Winn,02 3,State House,13,D,Loyd I. Sowers,1
+Winn,02 3,State House,13,D,Leslie Thompson,16
+Winn,02 3,State House,13,R,Ben Young,7
+Winn,03 1,State House,13,D,Todd Culpepper,15
+Winn,03 1,State House,13,D,"James R. ""Jim"" Fannin",32
+Winn,03 1,State House,13,D,Loyd I. Sowers,0
+Winn,03 1,State House,13,D,Leslie Thompson,23
+Winn,03 1,State House,13,R,Ben Young,13
+Winn,04 1,State House,13,D,Todd Culpepper,4
+Winn,04 1,State House,13,D,"James R. ""Jim"" Fannin",14
+Winn,04 1,State House,13,D,Loyd I. Sowers,0
+Winn,04 1,State House,13,D,Leslie Thompson,0
+Winn,04 1,State House,13,R,Ben Young,8
+Winn,05 1,State House,13,D,Todd Culpepper,7
+Winn,05 1,State House,13,D,"James R. ""Jim"" Fannin",61
+Winn,05 1,State House,13,D,Loyd I. Sowers,1
+Winn,05 1,State House,13,D,Leslie Thompson,0
+Winn,05 1,State House,13,R,Ben Young,2
+Winn,05 2,State House,13,D,Todd Culpepper,8
+Winn,05 2,State House,13,D,"James R. ""Jim"" Fannin",27
+Winn,05 2,State House,13,D,Loyd I. Sowers,10
+Winn,05 2,State House,13,D,Leslie Thompson,13
+Winn,05 2,State House,13,R,Ben Young,12
+Winn,05 3,State House,13,D,Todd Culpepper,30
+Winn,05 3,State House,13,D,"James R. ""Jim"" Fannin",73
+Winn,05 3,State House,13,D,Loyd I. Sowers,8
+Winn,05 3,State House,13,D,Leslie Thompson,8
+Winn,05 3,State House,13,R,Ben Young,19
+Winn,05 4,State House,13,D,Todd Culpepper,6
+Winn,05 4,State House,13,D,"James R. ""Jim"" Fannin",52
+Winn,05 4,State House,13,D,Loyd I. Sowers,6
+Winn,05 4,State House,13,D,Leslie Thompson,2
+Winn,05 4,State House,13,R,Ben Young,16
+Winn,05 5,State House,13,D,Todd Culpepper,6
+Winn,05 5,State House,13,D,"James R. ""Jim"" Fannin",38
+Winn,05 5,State House,13,D,Loyd I. Sowers,3
+Winn,05 5,State House,13,D,Leslie Thompson,0
+Winn,05 5,State House,13,R,Ben Young,7
+Winn,06 1,State House,13,D,Todd Culpepper,46
+Winn,06 1,State House,13,D,"James R. ""Jim"" Fannin",77
+Winn,06 1,State House,13,D,Loyd I. Sowers,1
+Winn,06 1,State House,13,D,Leslie Thompson,6
+Winn,06 1,State House,13,R,Ben Young,24
+Winn,06 3,State House,13,D,Todd Culpepper,4
+Winn,06 3,State House,13,D,"James R. ""Jim"" Fannin",52
+Winn,06 3,State House,13,D,Loyd I. Sowers,3
+Winn,06 3,State House,13,D,Leslie Thompson,0
+Winn,06 3,State House,13,R,Ben Young,6
+Winn,06 5,State House,13,D,Todd Culpepper,3
+Winn,06 5,State House,13,D,"James R. ""Jim"" Fannin",4
+Winn,06 5,State House,13,D,Loyd I. Sowers,0
+Winn,06 5,State House,13,D,Leslie Thompson,0
+Winn,06 5,State House,13,R,Ben Young,0
+Winn,06 6,State House,13,D,Todd Culpepper,1
+Winn,06 6,State House,13,D,"James R. ""Jim"" Fannin",8
+Winn,06 6,State House,13,D,Loyd I. Sowers,5
+Winn,06 6,State House,13,D,Leslie Thompson,0
+Winn,06 6,State House,13,R,Ben Young,2
+Winn,06 7,State House,13,D,Todd Culpepper,1
+Winn,06 7,State House,13,D,"James R. ""Jim"" Fannin",6
+Winn,06 7,State House,13,D,Loyd I. Sowers,0
+Winn,06 7,State House,13,D,Leslie Thompson,0
+Winn,06 7,State House,13,R,Ben Young,2
+Winn,06 8,State House,13,D,Todd Culpepper,3
+Winn,06 8,State House,13,D,"James R. ""Jim"" Fannin",0
+Winn,06 8,State House,13,D,Loyd I. Sowers,9
+Winn,06 8,State House,13,D,Leslie Thompson,3
+Winn,06 8,State House,13,R,Ben Young,1
+Winn,07 1,State House,13,D,Todd Culpepper,10
+Winn,07 1,State House,13,D,"James R. ""Jim"" Fannin",38
+Winn,07 1,State House,13,D,Loyd I. Sowers,1
+Winn,07 1,State House,13,D,Leslie Thompson,16
+Winn,07 1,State House,13,R,Ben Young,10
+Winn,07 2,State House,13,D,Todd Culpepper,3
+Winn,07 2,State House,13,D,"James R. ""Jim"" Fannin",15
+Winn,07 2,State House,13,D,Loyd I. Sowers,4
+Winn,07 2,State House,13,D,Leslie Thompson,0
+Winn,07 2,State House,13,R,Ben Young,13
+Winn,07 5,State House,13,D,Todd Culpepper,9
+Winn,07 5,State House,13,D,"James R. ""Jim"" Fannin",30
+Winn,07 5,State House,13,D,Loyd I. Sowers,1
+Winn,07 5,State House,13,D,Leslie Thompson,1
+Winn,07 5,State House,13,R,Ben Young,5
+Winn,07 7,State House,13,D,Todd Culpepper,8
+Winn,07 7,State House,13,D,"James R. ""Jim"" Fannin",16
+Winn,07 7,State House,13,D,Loyd I. Sowers,4
+Winn,07 7,State House,13,D,Leslie Thompson,0
+Winn,07 7,State House,13,R,Ben Young,2
+Winn,Early Voting,State House,13,D,Todd Culpepper,4
+Winn,Early Voting,State House,13,D,"James R. ""Jim"" Fannin",13
+Winn,Early Voting,State House,13,D,Loyd I. Sowers,0
+Winn,Early Voting,State House,13,D,Leslie Thompson,4
+Winn,Early Voting,State House,13,R,Ben Young,5

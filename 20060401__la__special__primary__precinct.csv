@@ -1,0 +1,685 @@
+parish,precinct,office,district,party,candidate,votes
+Grant,01 1,State House,22,D,Billy Chandler,28
+Grant,01 1,State House,22,D,Klark Hataway,18
+Grant,01 1,State House,22,R,Lew Lasyone,1
+Grant,01 1,State House,22,R,Tony K. Owens,4
+Grant,01 1,State House,22,R,"""Donny"" Richardson",1
+Grant,01 1,State House,22,R,"Henry Stringer, Jr.",29
+Grant,01 1,State House,22,D,Ernie Vallery,12
+Grant,01 1,State House,22,D,Raymond Willett,4
+Grant,01 1,State House,22,D,Clare Wilson,8
+Grant,01 2,State House,22,D,Billy Chandler,32
+Grant,01 2,State House,22,D,Klark Hataway,18
+Grant,01 2,State House,22,R,Lew Lasyone,1
+Grant,01 2,State House,22,R,Tony K. Owens,11
+Grant,01 2,State House,22,R,"""Donny"" Richardson",1
+Grant,01 2,State House,22,R,"Henry Stringer, Jr.",9
+Grant,01 2,State House,22,D,Ernie Vallery,4
+Grant,01 2,State House,22,D,Raymond Willett,3
+Grant,01 2,State House,22,D,Clare Wilson,6
+Grant,01 3,State House,22,D,Billy Chandler,51
+Grant,01 3,State House,22,D,Klark Hataway,48
+Grant,01 3,State House,22,R,Lew Lasyone,11
+Grant,01 3,State House,22,R,Tony K. Owens,4
+Grant,01 3,State House,22,R,"""Donny"" Richardson",3
+Grant,01 3,State House,22,R,"Henry Stringer, Jr.",12
+Grant,01 3,State House,22,D,Ernie Vallery,9
+Grant,01 3,State House,22,D,Raymond Willett,6
+Grant,01 3,State House,22,D,Clare Wilson,7
+Grant,02 1,State House,22,D,Billy Chandler,36
+Grant,02 1,State House,22,D,Klark Hataway,78
+Grant,02 1,State House,22,R,Lew Lasyone,8
+Grant,02 1,State House,22,R,Tony K. Owens,1
+Grant,02 1,State House,22,R,"""Donny"" Richardson",5
+Grant,02 1,State House,22,R,"Henry Stringer, Jr.",2
+Grant,02 1,State House,22,D,Ernie Vallery,5
+Grant,02 1,State House,22,D,Raymond Willett,5
+Grant,02 1,State House,22,D,Clare Wilson,5
+Grant,02 2,State House,22,D,Billy Chandler,23
+Grant,02 2,State House,22,D,Klark Hataway,21
+Grant,02 2,State House,22,R,Lew Lasyone,1
+Grant,02 2,State House,22,R,Tony K. Owens,6
+Grant,02 2,State House,22,R,"""Donny"" Richardson",2
+Grant,02 2,State House,22,R,"Henry Stringer, Jr.",16
+Grant,02 2,State House,22,D,Ernie Vallery,3
+Grant,02 2,State House,22,D,Raymond Willett,6
+Grant,02 2,State House,22,D,Clare Wilson,4
+Grant,02 3,State House,22,D,Billy Chandler,88
+Grant,02 3,State House,22,D,Klark Hataway,46
+Grant,02 3,State House,22,R,Lew Lasyone,7
+Grant,02 3,State House,22,R,Tony K. Owens,6
+Grant,02 3,State House,22,R,"""Donny"" Richardson",5
+Grant,02 3,State House,22,R,"Henry Stringer, Jr.",17
+Grant,02 3,State House,22,D,Ernie Vallery,2
+Grant,02 3,State House,22,D,Raymond Willett,8
+Grant,02 3,State House,22,D,Clare Wilson,13
+Grant,03 1,State House,22,D,Billy Chandler,41
+Grant,03 1,State House,22,D,Klark Hataway,84
+Grant,03 1,State House,22,R,Lew Lasyone,9
+Grant,03 1,State House,22,R,Tony K. Owens,3
+Grant,03 1,State House,22,R,"""Donny"" Richardson",16
+Grant,03 1,State House,22,R,"Henry Stringer, Jr.",4
+Grant,03 1,State House,22,D,Ernie Vallery,20
+Grant,03 1,State House,22,D,Raymond Willett,3
+Grant,03 1,State House,22,D,Clare Wilson,20
+Grant,03 2,State House,22,D,Billy Chandler,32
+Grant,03 2,State House,22,D,Klark Hataway,92
+Grant,03 2,State House,22,R,Lew Lasyone,8
+Grant,03 2,State House,22,R,Tony K. Owens,5
+Grant,03 2,State House,22,R,"""Donny"" Richardson",8
+Grant,03 2,State House,22,R,"Henry Stringer, Jr.",8
+Grant,03 2,State House,22,D,Ernie Vallery,8
+Grant,03 2,State House,22,D,Raymond Willett,2
+Grant,03 2,State House,22,D,Clare Wilson,10
+Grant,03 3,State House,22,D,Billy Chandler,3
+Grant,03 3,State House,22,D,Klark Hataway,7
+Grant,03 3,State House,22,R,Lew Lasyone,1
+Grant,03 3,State House,22,R,Tony K. Owens,0
+Grant,03 3,State House,22,R,"""Donny"" Richardson",1
+Grant,03 3,State House,22,R,"Henry Stringer, Jr.",0
+Grant,03 3,State House,22,D,Ernie Vallery,0
+Grant,03 3,State House,22,D,Raymond Willett,2
+Grant,03 3,State House,22,D,Clare Wilson,4
+Grant,04 1,State House,22,D,Billy Chandler,5
+Grant,04 1,State House,22,D,Klark Hataway,4
+Grant,04 1,State House,22,R,Lew Lasyone,4
+Grant,04 1,State House,22,R,Tony K. Owens,0
+Grant,04 1,State House,22,R,"""Donny"" Richardson",0
+Grant,04 1,State House,22,R,"Henry Stringer, Jr.",2
+Grant,04 1,State House,22,D,Ernie Vallery,0
+Grant,04 1,State House,22,D,Raymond Willett,0
+Grant,04 1,State House,22,D,Clare Wilson,2
+Grant,04 2,State House,22,D,Billy Chandler,46
+Grant,04 2,State House,22,D,Klark Hataway,109
+Grant,04 2,State House,22,R,Lew Lasyone,31
+Grant,04 2,State House,22,R,Tony K. Owens,21
+Grant,04 2,State House,22,R,"""Donny"" Richardson",5
+Grant,04 2,State House,22,R,"Henry Stringer, Jr.",28
+Grant,04 2,State House,22,D,Ernie Vallery,5
+Grant,04 2,State House,22,D,Raymond Willett,13
+Grant,04 2,State House,22,D,Clare Wilson,12
+Grant,05 1,State House,22,D,Billy Chandler,50
+Grant,05 1,State House,22,D,Klark Hataway,94
+Grant,05 1,State House,22,R,Lew Lasyone,9
+Grant,05 1,State House,22,R,Tony K. Owens,9
+Grant,05 1,State House,22,R,"""Donny"" Richardson",9
+Grant,05 1,State House,22,R,"Henry Stringer, Jr.",30
+Grant,05 1,State House,22,D,Ernie Vallery,7
+Grant,05 1,State House,22,D,Raymond Willett,9
+Grant,05 1,State House,22,D,Clare Wilson,6
+Grant,05 2,State House,22,D,Billy Chandler,41
+Grant,05 2,State House,22,D,Klark Hataway,85
+Grant,05 2,State House,22,R,Lew Lasyone,29
+Grant,05 2,State House,22,R,Tony K. Owens,11
+Grant,05 2,State House,22,R,"""Donny"" Richardson",2
+Grant,05 2,State House,22,R,"Henry Stringer, Jr.",17
+Grant,05 2,State House,22,D,Ernie Vallery,2
+Grant,05 2,State House,22,D,Raymond Willett,16
+Grant,05 2,State House,22,D,Clare Wilson,4
+Grant,06 1,State House,22,D,Billy Chandler,24
+Grant,06 1,State House,22,D,Klark Hataway,19
+Grant,06 1,State House,22,R,Lew Lasyone,5
+Grant,06 1,State House,22,R,Tony K. Owens,10
+Grant,06 1,State House,22,R,"""Donny"" Richardson",0
+Grant,06 1,State House,22,R,"Henry Stringer, Jr.",8
+Grant,06 1,State House,22,D,Ernie Vallery,16
+Grant,06 1,State House,22,D,Raymond Willett,33
+Grant,06 1,State House,22,D,Clare Wilson,1
+Grant,06 2,State House,22,D,Billy Chandler,41
+Grant,06 2,State House,22,D,Klark Hataway,27
+Grant,06 2,State House,22,R,Lew Lasyone,26
+Grant,06 2,State House,22,R,Tony K. Owens,8
+Grant,06 2,State House,22,R,"""Donny"" Richardson",5
+Grant,06 2,State House,22,R,"Henry Stringer, Jr.",27
+Grant,06 2,State House,22,D,Ernie Vallery,26
+Grant,06 2,State House,22,D,Raymond Willett,32
+Grant,06 2,State House,22,D,Clare Wilson,13
+Grant,06 3,State House,22,D,Billy Chandler,17
+Grant,06 3,State House,22,D,Klark Hataway,45
+Grant,06 3,State House,22,R,Lew Lasyone,3
+Grant,06 3,State House,22,R,Tony K. Owens,3
+Grant,06 3,State House,22,R,"""Donny"" Richardson",1
+Grant,06 3,State House,22,R,"Henry Stringer, Jr.",5
+Grant,06 3,State House,22,D,Ernie Vallery,26
+Grant,06 3,State House,22,D,Raymond Willett,24
+Grant,06 3,State House,22,D,Clare Wilson,11
+Grant,07 1,State House,22,D,Billy Chandler,74
+Grant,07 1,State House,22,D,Klark Hataway,34
+Grant,07 1,State House,22,R,Lew Lasyone,4
+Grant,07 1,State House,22,R,Tony K. Owens,3
+Grant,07 1,State House,22,R,"""Donny"" Richardson",2
+Grant,07 1,State House,22,R,"Henry Stringer, Jr.",5
+Grant,07 1,State House,22,D,Ernie Vallery,2
+Grant,07 1,State House,22,D,Raymond Willett,4
+Grant,07 1,State House,22,D,Clare Wilson,4
+Grant,07 2,State House,22,D,Billy Chandler,46
+Grant,07 2,State House,22,D,Klark Hataway,11
+Grant,07 2,State House,22,R,Lew Lasyone,9
+Grant,07 2,State House,22,R,Tony K. Owens,4
+Grant,07 2,State House,22,R,"""Donny"" Richardson",0
+Grant,07 2,State House,22,R,"Henry Stringer, Jr.",9
+Grant,07 2,State House,22,D,Ernie Vallery,4
+Grant,07 2,State House,22,D,Raymond Willett,12
+Grant,07 2,State House,22,D,Clare Wilson,1
+Grant,07 3,State House,22,D,Billy Chandler,36
+Grant,07 3,State House,22,D,Klark Hataway,47
+Grant,07 3,State House,22,R,Lew Lasyone,13
+Grant,07 3,State House,22,R,Tony K. Owens,7
+Grant,07 3,State House,22,R,"""Donny"" Richardson",4
+Grant,07 3,State House,22,R,"Henry Stringer, Jr.",18
+Grant,07 3,State House,22,D,Ernie Vallery,35
+Grant,07 3,State House,22,D,Raymond Willett,85
+Grant,07 3,State House,22,D,Clare Wilson,12
+Grant,07 4,State House,22,D,Billy Chandler,10
+Grant,07 4,State House,22,D,Klark Hataway,5
+Grant,07 4,State House,22,R,Lew Lasyone,5
+Grant,07 4,State House,22,R,Tony K. Owens,6
+Grant,07 4,State House,22,R,"""Donny"" Richardson",1
+Grant,07 4,State House,22,R,"Henry Stringer, Jr.",3
+Grant,07 4,State House,22,D,Ernie Vallery,3
+Grant,07 4,State House,22,D,Raymond Willett,18
+Grant,07 4,State House,22,D,Clare Wilson,1
+Grant,08 1,State House,22,D,Billy Chandler,105
+Grant,08 1,State House,22,D,Klark Hataway,41
+Grant,08 1,State House,22,R,Lew Lasyone,8
+Grant,08 1,State House,22,R,Tony K. Owens,12
+Grant,08 1,State House,22,R,"""Donny"" Richardson",2
+Grant,08 1,State House,22,R,"Henry Stringer, Jr.",43
+Grant,08 1,State House,22,D,Ernie Vallery,7
+Grant,08 1,State House,22,D,Raymond Willett,12
+Grant,08 1,State House,22,D,Clare Wilson,12
+Grant,08 2,State House,22,D,Billy Chandler,25
+Grant,08 2,State House,22,D,Klark Hataway,15
+Grant,08 2,State House,22,R,Lew Lasyone,2
+Grant,08 2,State House,22,R,Tony K. Owens,42
+Grant,08 2,State House,22,R,"""Donny"" Richardson",20
+Grant,08 2,State House,22,R,"Henry Stringer, Jr.",10
+Grant,08 2,State House,22,D,Ernie Vallery,8
+Grant,08 2,State House,22,D,Raymond Willett,55
+Grant,08 2,State House,22,D,Clare Wilson,20
+Grant,08 3,State House,22,D,Billy Chandler,12
+Grant,08 3,State House,22,D,Klark Hataway,3
+Grant,08 3,State House,22,R,Lew Lasyone,1
+Grant,08 3,State House,22,R,Tony K. Owens,7
+Grant,08 3,State House,22,R,"""Donny"" Richardson",1
+Grant,08 3,State House,22,R,"Henry Stringer, Jr.",0
+Grant,08 3,State House,22,D,Ernie Vallery,0
+Grant,08 3,State House,22,D,Raymond Willett,9
+Grant,08 3,State House,22,D,Clare Wilson,9
+Grant,Early Voting,State House,22,D,Billy Chandler,95
+Grant,Early Voting,State House,22,D,Klark Hataway,79
+Grant,Early Voting,State House,22,R,Lew Lasyone,6
+Grant,Early Voting,State House,22,R,Tony K. Owens,7
+Grant,Early Voting,State House,22,R,"""Donny"" Richardson",4
+Grant,Early Voting,State House,22,R,"Henry Stringer, Jr.",14
+Grant,Early Voting,State House,22,D,Ernie Vallery,10
+Grant,Early Voting,State House,22,D,Raymond Willett,29
+Grant,Early Voting,State House,22,D,Clare Wilson,9
+Lasalle,01 01,State House,22,D,Billy Chandler,0
+Lasalle,01 01,State House,22,D,Klark Hataway,3
+Lasalle,01 01,State House,22,R,Lew Lasyone,1
+Lasalle,01 01,State House,22,R,Tony K. Owens,9
+Lasalle,01 01,State House,22,R,"""Donny"" Richardson",41
+Lasalle,01 01,State House,22,R,"Henry Stringer, Jr.",3
+Lasalle,01 01,State House,22,D,Ernie Vallery,0
+Lasalle,01 01,State House,22,D,Raymond Willett,1
+Lasalle,01 01,State House,22,D,Clare Wilson,9
+Lasalle,01 02,State House,22,D,Billy Chandler,3
+Lasalle,01 02,State House,22,D,Klark Hataway,2
+Lasalle,01 02,State House,22,R,Lew Lasyone,0
+Lasalle,01 02,State House,22,R,Tony K. Owens,7
+Lasalle,01 02,State House,22,R,"""Donny"" Richardson",18
+Lasalle,01 02,State House,22,R,"Henry Stringer, Jr.",1
+Lasalle,01 02,State House,22,D,Ernie Vallery,1
+Lasalle,01 02,State House,22,D,Raymond Willett,1
+Lasalle,01 02,State House,22,D,Clare Wilson,6
+Lasalle,01 03,State House,22,D,Billy Chandler,1
+Lasalle,01 03,State House,22,D,Klark Hataway,0
+Lasalle,01 03,State House,22,R,Lew Lasyone,0
+Lasalle,01 03,State House,22,R,Tony K. Owens,15
+Lasalle,01 03,State House,22,R,"""Donny"" Richardson",22
+Lasalle,01 03,State House,22,R,"Henry Stringer, Jr.",5
+Lasalle,01 03,State House,22,D,Ernie Vallery,0
+Lasalle,01 03,State House,22,D,Raymond Willett,2
+Lasalle,01 03,State House,22,D,Clare Wilson,4
+Lasalle,01 04,State House,22,D,Billy Chandler,4
+Lasalle,01 04,State House,22,D,Klark Hataway,4
+Lasalle,01 04,State House,22,R,Lew Lasyone,0
+Lasalle,01 04,State House,22,R,Tony K. Owens,11
+Lasalle,01 04,State House,22,R,"""Donny"" Richardson",19
+Lasalle,01 04,State House,22,R,"Henry Stringer, Jr.",3
+Lasalle,01 04,State House,22,D,Ernie Vallery,2
+Lasalle,01 04,State House,22,D,Raymond Willett,0
+Lasalle,01 04,State House,22,D,Clare Wilson,13
+Lasalle,02 01,State House,22,D,Billy Chandler,30
+Lasalle,02 01,State House,22,D,Klark Hataway,5
+Lasalle,02 01,State House,22,R,Lew Lasyone,1
+Lasalle,02 01,State House,22,R,Tony K. Owens,42
+Lasalle,02 01,State House,22,R,"""Donny"" Richardson",58
+Lasalle,02 01,State House,22,R,"Henry Stringer, Jr.",27
+Lasalle,02 01,State House,22,D,Ernie Vallery,1
+Lasalle,02 01,State House,22,D,Raymond Willett,9
+Lasalle,02 01,State House,22,D,Clare Wilson,36
+Lasalle,02 03,State House,22,D,Billy Chandler,1
+Lasalle,02 03,State House,22,D,Klark Hataway,0
+Lasalle,02 03,State House,22,R,Lew Lasyone,0
+Lasalle,02 03,State House,22,R,Tony K. Owens,1
+Lasalle,02 03,State House,22,R,"""Donny"" Richardson",4
+Lasalle,02 03,State House,22,R,"Henry Stringer, Jr.",0
+Lasalle,02 03,State House,22,D,Ernie Vallery,1
+Lasalle,02 03,State House,22,D,Raymond Willett,0
+Lasalle,02 03,State House,22,D,Clare Wilson,1
+Lasalle,03 01,State House,22,D,Billy Chandler,12
+Lasalle,03 01,State House,22,D,Klark Hataway,2
+Lasalle,03 01,State House,22,R,Lew Lasyone,4
+Lasalle,03 01,State House,22,R,Tony K. Owens,18
+Lasalle,03 01,State House,22,R,"""Donny"" Richardson",15
+Lasalle,03 01,State House,22,R,"Henry Stringer, Jr.",19
+Lasalle,03 01,State House,22,D,Ernie Vallery,2
+Lasalle,03 01,State House,22,D,Raymond Willett,4
+Lasalle,03 01,State House,22,D,Clare Wilson,43
+Lasalle,03 02,State House,22,D,Billy Chandler,5
+Lasalle,03 02,State House,22,D,Klark Hataway,2
+Lasalle,03 02,State House,22,R,Lew Lasyone,0
+Lasalle,03 02,State House,22,R,Tony K. Owens,19
+Lasalle,03 02,State House,22,R,"""Donny"" Richardson",3
+Lasalle,03 02,State House,22,R,"Henry Stringer, Jr.",8
+Lasalle,03 02,State House,22,D,Ernie Vallery,2
+Lasalle,03 02,State House,22,D,Raymond Willett,1
+Lasalle,03 02,State House,22,D,Clare Wilson,25
+Lasalle,04 01,State House,22,D,Billy Chandler,2
+Lasalle,04 01,State House,22,D,Klark Hataway,1
+Lasalle,04 01,State House,22,R,Lew Lasyone,1
+Lasalle,04 01,State House,22,R,Tony K. Owens,32
+Lasalle,04 01,State House,22,R,"""Donny"" Richardson",23
+Lasalle,04 01,State House,22,R,"Henry Stringer, Jr.",14
+Lasalle,04 01,State House,22,D,Ernie Vallery,1
+Lasalle,04 01,State House,22,D,Raymond Willett,5
+Lasalle,04 01,State House,22,D,Clare Wilson,23
+Lasalle,04 02,State House,22,D,Billy Chandler,8
+Lasalle,04 02,State House,22,D,Klark Hataway,4
+Lasalle,04 02,State House,22,R,Lew Lasyone,1
+Lasalle,04 02,State House,22,R,Tony K. Owens,41
+Lasalle,04 02,State House,22,R,"""Donny"" Richardson",29
+Lasalle,04 02,State House,22,R,"Henry Stringer, Jr.",18
+Lasalle,04 02,State House,22,D,Ernie Vallery,3
+Lasalle,04 02,State House,22,D,Raymond Willett,5
+Lasalle,04 02,State House,22,D,Clare Wilson,31
+Lasalle,04 03,State House,22,D,Billy Chandler,5
+Lasalle,04 03,State House,22,D,Klark Hataway,9
+Lasalle,04 03,State House,22,R,Lew Lasyone,2
+Lasalle,04 03,State House,22,R,Tony K. Owens,15
+Lasalle,04 03,State House,22,R,"""Donny"" Richardson",10
+Lasalle,04 03,State House,22,R,"Henry Stringer, Jr.",5
+Lasalle,04 03,State House,22,D,Ernie Vallery,1
+Lasalle,04 03,State House,22,D,Raymond Willett,0
+Lasalle,04 03,State House,22,D,Clare Wilson,6
+Lasalle,04 04,State House,22,D,Billy Chandler,2
+Lasalle,04 04,State House,22,D,Klark Hataway,0
+Lasalle,04 04,State House,22,R,Lew Lasyone,0
+Lasalle,04 04,State House,22,R,Tony K. Owens,9
+Lasalle,04 04,State House,22,R,"""Donny"" Richardson",26
+Lasalle,04 04,State House,22,R,"Henry Stringer, Jr.",3
+Lasalle,04 04,State House,22,D,Ernie Vallery,0
+Lasalle,04 04,State House,22,D,Raymond Willett,2
+Lasalle,04 04,State House,22,D,Clare Wilson,2
+Lasalle,05 01,State House,22,D,Billy Chandler,23
+Lasalle,05 01,State House,22,D,Klark Hataway,13
+Lasalle,05 01,State House,22,R,Lew Lasyone,9
+Lasalle,05 01,State House,22,R,Tony K. Owens,108
+Lasalle,05 01,State House,22,R,"""Donny"" Richardson",109
+Lasalle,05 01,State House,22,R,"Henry Stringer, Jr.",51
+Lasalle,05 01,State House,22,D,Ernie Vallery,2
+Lasalle,05 01,State House,22,D,Raymond Willett,25
+Lasalle,05 01,State House,22,D,Clare Wilson,126
+Lasalle,06 01,State House,22,D,Billy Chandler,5
+Lasalle,06 01,State House,22,D,Klark Hataway,5
+Lasalle,06 01,State House,22,R,Lew Lasyone,2
+Lasalle,06 01,State House,22,R,Tony K. Owens,55
+Lasalle,06 01,State House,22,R,"""Donny"" Richardson",38
+Lasalle,06 01,State House,22,R,"Henry Stringer, Jr.",31
+Lasalle,06 01,State House,22,D,Ernie Vallery,4
+Lasalle,06 01,State House,22,D,Raymond Willett,6
+Lasalle,06 01,State House,22,D,Clare Wilson,65
+Lasalle,06 02,State House,22,D,Billy Chandler,5
+Lasalle,06 02,State House,22,D,Klark Hataway,0
+Lasalle,06 02,State House,22,R,Lew Lasyone,4
+Lasalle,06 02,State House,22,R,Tony K. Owens,38
+Lasalle,06 02,State House,22,R,"""Donny"" Richardson",14
+Lasalle,06 02,State House,22,R,"Henry Stringer, Jr.",12
+Lasalle,06 02,State House,22,D,Ernie Vallery,2
+Lasalle,06 02,State House,22,D,Raymond Willett,7
+Lasalle,06 02,State House,22,D,Clare Wilson,22
+Lasalle,07 01,State House,22,D,Billy Chandler,12
+Lasalle,07 01,State House,22,D,Klark Hataway,6
+Lasalle,07 01,State House,22,R,Lew Lasyone,0
+Lasalle,07 01,State House,22,R,Tony K. Owens,70
+Lasalle,07 01,State House,22,R,"""Donny"" Richardson",37
+Lasalle,07 01,State House,22,R,"Henry Stringer, Jr.",79
+Lasalle,07 01,State House,22,D,Ernie Vallery,3
+Lasalle,07 01,State House,22,D,Raymond Willett,7
+Lasalle,07 01,State House,22,D,Clare Wilson,44
+Lasalle,07 02,State House,22,D,Billy Chandler,6
+Lasalle,07 02,State House,22,D,Klark Hataway,0
+Lasalle,07 02,State House,22,R,Lew Lasyone,0
+Lasalle,07 02,State House,22,R,Tony K. Owens,61
+Lasalle,07 02,State House,22,R,"""Donny"" Richardson",22
+Lasalle,07 02,State House,22,R,"Henry Stringer, Jr.",21
+Lasalle,07 02,State House,22,D,Ernie Vallery,3
+Lasalle,07 02,State House,22,D,Raymond Willett,2
+Lasalle,07 02,State House,22,D,Clare Wilson,5
+Lasalle,08 02,State House,22,D,Billy Chandler,6
+Lasalle,08 02,State House,22,D,Klark Hataway,0
+Lasalle,08 02,State House,22,R,Lew Lasyone,0
+Lasalle,08 02,State House,22,R,Tony K. Owens,26
+Lasalle,08 02,State House,22,R,"""Donny"" Richardson",7
+Lasalle,08 02,State House,22,R,"Henry Stringer, Jr.",5
+Lasalle,08 02,State House,22,D,Ernie Vallery,1
+Lasalle,08 02,State House,22,D,Raymond Willett,4
+Lasalle,08 02,State House,22,D,Clare Wilson,10
+Lasalle,08 03,State House,22,D,Billy Chandler,5
+Lasalle,08 03,State House,22,D,Klark Hataway,3
+Lasalle,08 03,State House,22,R,Lew Lasyone,0
+Lasalle,08 03,State House,22,R,Tony K. Owens,33
+Lasalle,08 03,State House,22,R,"""Donny"" Richardson",16
+Lasalle,08 03,State House,22,R,"Henry Stringer, Jr.",12
+Lasalle,08 03,State House,22,D,Ernie Vallery,2
+Lasalle,08 03,State House,22,D,Raymond Willett,2
+Lasalle,08 03,State House,22,D,Clare Wilson,13
+Lasalle,08 05,State House,22,D,Billy Chandler,0
+Lasalle,08 05,State House,22,D,Klark Hataway,2
+Lasalle,08 05,State House,22,R,Lew Lasyone,0
+Lasalle,08 05,State House,22,R,Tony K. Owens,20
+Lasalle,08 05,State House,22,R,"""Donny"" Richardson",4
+Lasalle,08 05,State House,22,R,"Henry Stringer, Jr.",6
+Lasalle,08 05,State House,22,D,Ernie Vallery,1
+Lasalle,08 05,State House,22,D,Raymond Willett,3
+Lasalle,08 05,State House,22,D,Clare Wilson,10
+Lasalle,08 06,State House,22,D,Billy Chandler,4
+Lasalle,08 06,State House,22,D,Klark Hataway,2
+Lasalle,08 06,State House,22,R,Lew Lasyone,1
+Lasalle,08 06,State House,22,R,Tony K. Owens,20
+Lasalle,08 06,State House,22,R,"""Donny"" Richardson",5
+Lasalle,08 06,State House,22,R,"Henry Stringer, Jr.",17
+Lasalle,08 06,State House,22,D,Ernie Vallery,0
+Lasalle,08 06,State House,22,D,Raymond Willett,4
+Lasalle,08 06,State House,22,D,Clare Wilson,3
+Lasalle,08 07,State House,22,D,Billy Chandler,7
+Lasalle,08 07,State House,22,D,Klark Hataway,1
+Lasalle,08 07,State House,22,R,Lew Lasyone,2
+Lasalle,08 07,State House,22,R,Tony K. Owens,72
+Lasalle,08 07,State House,22,R,"""Donny"" Richardson",29
+Lasalle,08 07,State House,22,R,"Henry Stringer, Jr.",12
+Lasalle,08 07,State House,22,D,Ernie Vallery,2
+Lasalle,08 07,State House,22,D,Raymond Willett,3
+Lasalle,08 07,State House,22,D,Clare Wilson,35
+Lasalle,09 01,State House,22,D,Billy Chandler,8
+Lasalle,09 01,State House,22,D,Klark Hataway,2
+Lasalle,09 01,State House,22,R,Lew Lasyone,0
+Lasalle,09 01,State House,22,R,Tony K. Owens,69
+Lasalle,09 01,State House,22,R,"""Donny"" Richardson",36
+Lasalle,09 01,State House,22,R,"Henry Stringer, Jr.",18
+Lasalle,09 01,State House,22,D,Ernie Vallery,6
+Lasalle,09 01,State House,22,D,Raymond Willett,5
+Lasalle,09 01,State House,22,D,Clare Wilson,23
+Lasalle,09 02,State House,22,D,Billy Chandler,5
+Lasalle,09 02,State House,22,D,Klark Hataway,0
+Lasalle,09 02,State House,22,R,Lew Lasyone,1
+Lasalle,09 02,State House,22,R,Tony K. Owens,46
+Lasalle,09 02,State House,22,R,"""Donny"" Richardson",20
+Lasalle,09 02,State House,22,R,"Henry Stringer, Jr.",10
+Lasalle,09 02,State House,22,D,Ernie Vallery,0
+Lasalle,09 02,State House,22,D,Raymond Willett,3
+Lasalle,09 02,State House,22,D,Clare Wilson,10
+Lasalle,09 03,State House,22,D,Billy Chandler,5
+Lasalle,09 03,State House,22,D,Klark Hataway,0
+Lasalle,09 03,State House,22,R,Lew Lasyone,0
+Lasalle,09 03,State House,22,R,Tony K. Owens,12
+Lasalle,09 03,State House,22,R,"""Donny"" Richardson",21
+Lasalle,09 03,State House,22,R,"Henry Stringer, Jr.",7
+Lasalle,09 03,State House,22,D,Ernie Vallery,0
+Lasalle,09 03,State House,22,D,Raymond Willett,0
+Lasalle,09 03,State House,22,D,Clare Wilson,23
+Lasalle,09 04,State House,22,D,Billy Chandler,1
+Lasalle,09 04,State House,22,D,Klark Hataway,0
+Lasalle,09 04,State House,22,R,Lew Lasyone,0
+Lasalle,09 04,State House,22,R,Tony K. Owens,11
+Lasalle,09 04,State House,22,R,"""Donny"" Richardson",1
+Lasalle,09 04,State House,22,R,"Henry Stringer, Jr.",6
+Lasalle,09 04,State House,22,D,Ernie Vallery,0
+Lasalle,09 04,State House,22,D,Raymond Willett,0
+Lasalle,09 04,State House,22,D,Clare Wilson,1
+Lasalle,09 05,State House,22,D,Billy Chandler,1
+Lasalle,09 05,State House,22,D,Klark Hataway,2
+Lasalle,09 05,State House,22,R,Lew Lasyone,0
+Lasalle,09 05,State House,22,R,Tony K. Owens,22
+Lasalle,09 05,State House,22,R,"""Donny"" Richardson",3
+Lasalle,09 05,State House,22,R,"Henry Stringer, Jr.",4
+Lasalle,09 05,State House,22,D,Ernie Vallery,1
+Lasalle,09 05,State House,22,D,Raymond Willett,0
+Lasalle,09 05,State House,22,D,Clare Wilson,3
+Lasalle,10 01,State House,22,D,Billy Chandler,1
+Lasalle,10 01,State House,22,D,Klark Hataway,2
+Lasalle,10 01,State House,22,R,Lew Lasyone,0
+Lasalle,10 01,State House,22,R,Tony K. Owens,6
+Lasalle,10 01,State House,22,R,"""Donny"" Richardson",6
+Lasalle,10 01,State House,22,R,"Henry Stringer, Jr.",3
+Lasalle,10 01,State House,22,D,Ernie Vallery,1
+Lasalle,10 01,State House,22,D,Raymond Willett,1
+Lasalle,10 01,State House,22,D,Clare Wilson,11
+Lasalle,10 04,State House,22,D,Billy Chandler,2
+Lasalle,10 04,State House,22,D,Klark Hataway,1
+Lasalle,10 04,State House,22,R,Lew Lasyone,4
+Lasalle,10 04,State House,22,R,Tony K. Owens,11
+Lasalle,10 04,State House,22,R,"""Donny"" Richardson",37
+Lasalle,10 04,State House,22,R,"Henry Stringer, Jr.",19
+Lasalle,10 04,State House,22,D,Ernie Vallery,2
+Lasalle,10 04,State House,22,D,Raymond Willett,3
+Lasalle,10 04,State House,22,D,Clare Wilson,41
+Lasalle,Early Voting,State House,22,D,Billy Chandler,25
+Lasalle,Early Voting,State House,22,D,Klark Hataway,9
+Lasalle,Early Voting,State House,22,R,Lew Lasyone,5
+Lasalle,Early Voting,State House,22,R,Tony K. Owens,150
+Lasalle,Early Voting,State House,22,R,"""Donny"" Richardson",118
+Lasalle,Early Voting,State House,22,R,"Henry Stringer, Jr.",70
+Lasalle,Early Voting,State House,22,D,Ernie Vallery,5
+Lasalle,Early Voting,State House,22,D,Raymond Willett,15
+Lasalle,Early Voting,State House,22,D,Clare Wilson,105
+Rapides,00 N23,State House,22,D,Billy Chandler,27
+Rapides,00 N23,State House,22,D,Klark Hataway,7
+Rapides,00 N23,State House,22,R,Lew Lasyone,22
+Rapides,00 N23,State House,22,R,Tony K. Owens,15
+Rapides,00 N23,State House,22,R,"""Donny"" Richardson",6
+Rapides,00 N23,State House,22,R,"Henry Stringer, Jr.",20
+Rapides,00 N23,State House,22,D,Ernie Vallery,1
+Rapides,00 N23,State House,22,D,Raymond Willett,58
+Rapides,00 N23,State House,22,D,Clare Wilson,9
+Rapides,Early Voting,State House,22,D,Billy Chandler,1
+Rapides,Early Voting,State House,22,D,Klark Hataway,2
+Rapides,Early Voting,State House,22,R,Lew Lasyone,0
+Rapides,Early Voting,State House,22,R,Tony K. Owens,0
+Rapides,Early Voting,State House,22,R,"""Donny"" Richardson",0
+Rapides,Early Voting,State House,22,R,"Henry Stringer, Jr.",1
+Rapides,Early Voting,State House,22,D,Ernie Vallery,0
+Rapides,Early Voting,State House,22,D,Raymond Willett,1
+Rapides,Early Voting,State House,22,D,Clare Wilson,0
+Winn,01 1,State House,22,D,Billy Chandler,37
+Winn,01 1,State House,22,D,Klark Hataway,46
+Winn,01 1,State House,22,R,Lew Lasyone,22
+Winn,01 1,State House,22,R,Tony K. Owens,37
+Winn,01 1,State House,22,R,"""Donny"" Richardson",12
+Winn,01 1,State House,22,R,"Henry Stringer, Jr.",19
+Winn,01 1,State House,22,D,Ernie Vallery,10
+Winn,01 1,State House,22,D,Raymond Willett,12
+Winn,01 1,State House,22,D,Clare Wilson,70
+Winn,02 1,State House,22,D,Billy Chandler,20
+Winn,02 1,State House,22,D,Klark Hataway,26
+Winn,02 1,State House,22,R,Lew Lasyone,14
+Winn,02 1,State House,22,R,Tony K. Owens,32
+Winn,02 1,State House,22,R,"""Donny"" Richardson",7
+Winn,02 1,State House,22,R,"Henry Stringer, Jr.",14
+Winn,02 1,State House,22,D,Ernie Vallery,14
+Winn,02 1,State House,22,D,Raymond Willett,1
+Winn,02 1,State House,22,D,Clare Wilson,32
+Winn,02 2,State House,22,D,Billy Chandler,4
+Winn,02 2,State House,22,D,Klark Hataway,6
+Winn,02 2,State House,22,R,Lew Lasyone,2
+Winn,02 2,State House,22,R,Tony K. Owens,13
+Winn,02 2,State House,22,R,"""Donny"" Richardson",1
+Winn,02 2,State House,22,R,"Henry Stringer, Jr.",3
+Winn,02 2,State House,22,D,Ernie Vallery,3
+Winn,02 2,State House,22,D,Raymond Willett,0
+Winn,02 2,State House,22,D,Clare Wilson,11
+Winn,02 3,State House,22,D,Billy Chandler,57
+Winn,02 3,State House,22,D,Klark Hataway,47
+Winn,02 3,State House,22,R,Lew Lasyone,26
+Winn,02 3,State House,22,R,Tony K. Owens,99
+Winn,02 3,State House,22,R,"""Donny"" Richardson",12
+Winn,02 3,State House,22,R,"Henry Stringer, Jr.",16
+Winn,02 3,State House,22,D,Ernie Vallery,35
+Winn,02 3,State House,22,D,Raymond Willett,13
+Winn,02 3,State House,22,D,Clare Wilson,68
+Winn,03 1,State House,22,D,Billy Chandler,3
+Winn,03 1,State House,22,D,Klark Hataway,1
+Winn,03 1,State House,22,R,Lew Lasyone,8
+Winn,03 1,State House,22,R,Tony K. Owens,22
+Winn,03 1,State House,22,R,"""Donny"" Richardson",6
+Winn,03 1,State House,22,R,"Henry Stringer, Jr.",2
+Winn,03 1,State House,22,D,Ernie Vallery,0
+Winn,03 1,State House,22,D,Raymond Willett,1
+Winn,03 1,State House,22,D,Clare Wilson,9
+Winn,03 1A,State House,22,D,Billy Chandler,21
+Winn,03 1A,State House,22,D,Klark Hataway,19
+Winn,03 1A,State House,22,R,Lew Lasyone,10
+Winn,03 1A,State House,22,R,Tony K. Owens,26
+Winn,03 1A,State House,22,R,"""Donny"" Richardson",7
+Winn,03 1A,State House,22,R,"Henry Stringer, Jr.",7
+Winn,03 1A,State House,22,D,Ernie Vallery,9
+Winn,03 1A,State House,22,D,Raymond Willett,12
+Winn,03 1A,State House,22,D,Clare Wilson,25
+Winn,03 1B,State House,22,D,Billy Chandler,29
+Winn,03 1B,State House,22,D,Klark Hataway,22
+Winn,03 1B,State House,22,R,Lew Lasyone,2
+Winn,03 1B,State House,22,R,Tony K. Owens,29
+Winn,03 1B,State House,22,R,"""Donny"" Richardson",9
+Winn,03 1B,State House,22,R,"Henry Stringer, Jr.",10
+Winn,03 1B,State House,22,D,Ernie Vallery,12
+Winn,03 1B,State House,22,D,Raymond Willett,5
+Winn,03 1B,State House,22,D,Clare Wilson,44
+Winn,03 1C,State House,22,D,Billy Chandler,0
+Winn,03 1C,State House,22,D,Klark Hataway,1
+Winn,03 1C,State House,22,R,Lew Lasyone,1
+Winn,03 1C,State House,22,R,Tony K. Owens,1
+Winn,03 1C,State House,22,R,"""Donny"" Richardson",0
+Winn,03 1C,State House,22,R,"Henry Stringer, Jr.",1
+Winn,03 1C,State House,22,D,Ernie Vallery,0
+Winn,03 1C,State House,22,D,Raymond Willett,2
+Winn,03 1C,State House,22,D,Clare Wilson,0
+Winn,04 1,State House,22,D,Billy Chandler,16
+Winn,04 1,State House,22,D,Klark Hataway,16
+Winn,04 1,State House,22,R,Lew Lasyone,7
+Winn,04 1,State House,22,R,Tony K. Owens,27
+Winn,04 1,State House,22,R,"""Donny"" Richardson",8
+Winn,04 1,State House,22,R,"Henry Stringer, Jr.",30
+Winn,04 1,State House,22,D,Ernie Vallery,8
+Winn,04 1,State House,22,D,Raymond Willett,2
+Winn,04 1,State House,22,D,Clare Wilson,19
+Winn,06 1,State House,22,D,Billy Chandler,31
+Winn,06 1,State House,22,D,Klark Hataway,52
+Winn,06 1,State House,22,R,Lew Lasyone,19
+Winn,06 1,State House,22,R,Tony K. Owens,60
+Winn,06 1,State House,22,R,"""Donny"" Richardson",23
+Winn,06 1,State House,22,R,"Henry Stringer, Jr.",33
+Winn,06 1,State House,22,D,Ernie Vallery,7
+Winn,06 1,State House,22,D,Raymond Willett,5
+Winn,06 1,State House,22,D,Clare Wilson,37
+Winn,06 1A,State House,22,D,Billy Chandler,29
+Winn,06 1A,State House,22,D,Klark Hataway,21
+Winn,06 1A,State House,22,R,Lew Lasyone,7
+Winn,06 1A,State House,22,R,Tony K. Owens,23
+Winn,06 1A,State House,22,R,"""Donny"" Richardson",8
+Winn,06 1A,State House,22,R,"Henry Stringer, Jr.",14
+Winn,06 1A,State House,22,D,Ernie Vallery,12
+Winn,06 1A,State House,22,D,Raymond Willett,3
+Winn,06 1A,State House,22,D,Clare Wilson,37
+Winn,06 3,State House,22,D,Billy Chandler,24
+Winn,06 3,State House,22,D,Klark Hataway,14
+Winn,06 3,State House,22,R,Lew Lasyone,12
+Winn,06 3,State House,22,R,Tony K. Owens,47
+Winn,06 3,State House,22,R,"""Donny"" Richardson",28
+Winn,06 3,State House,22,R,"Henry Stringer, Jr.",27
+Winn,06 3,State House,22,D,Ernie Vallery,8
+Winn,06 3,State House,22,D,Raymond Willett,6
+Winn,06 3,State House,22,D,Clare Wilson,23
+Winn,06 4,State House,22,D,Billy Chandler,2
+Winn,06 4,State House,22,D,Klark Hataway,0
+Winn,06 4,State House,22,R,Lew Lasyone,0
+Winn,06 4,State House,22,R,Tony K. Owens,0
+Winn,06 4,State House,22,R,"""Donny"" Richardson",4
+Winn,06 4,State House,22,R,"Henry Stringer, Jr.",2
+Winn,06 4,State House,22,D,Ernie Vallery,0
+Winn,06 4,State House,22,D,Raymond Willett,1
+Winn,06 4,State House,22,D,Clare Wilson,0
+Winn,07 1,State House,22,D,Billy Chandler,10
+Winn,07 1,State House,22,D,Klark Hataway,9
+Winn,07 1,State House,22,R,Lew Lasyone,7
+Winn,07 1,State House,22,R,Tony K. Owens,18
+Winn,07 1,State House,22,R,"""Donny"" Richardson",1
+Winn,07 1,State House,22,R,"Henry Stringer, Jr.",5
+Winn,07 1,State House,22,D,Ernie Vallery,0
+Winn,07 1,State House,22,D,Raymond Willett,4
+Winn,07 1,State House,22,D,Clare Wilson,29
+Winn,07 2,State House,22,D,Billy Chandler,18
+Winn,07 2,State House,22,D,Klark Hataway,5
+Winn,07 2,State House,22,R,Lew Lasyone,7
+Winn,07 2,State House,22,R,Tony K. Owens,36
+Winn,07 2,State House,22,R,"""Donny"" Richardson",19
+Winn,07 2,State House,22,R,"Henry Stringer, Jr.",16
+Winn,07 2,State House,22,D,Ernie Vallery,2
+Winn,07 2,State House,22,D,Raymond Willett,5
+Winn,07 2,State House,22,D,Clare Wilson,10
+Winn,07 2A,State House,22,D,Billy Chandler,10
+Winn,07 2A,State House,22,D,Klark Hataway,9
+Winn,07 2A,State House,22,R,Lew Lasyone,4
+Winn,07 2A,State House,22,R,Tony K. Owens,18
+Winn,07 2A,State House,22,R,"""Donny"" Richardson",4
+Winn,07 2A,State House,22,R,"Henry Stringer, Jr.",16
+Winn,07 2A,State House,22,D,Ernie Vallery,4
+Winn,07 2A,State House,22,D,Raymond Willett,2
+Winn,07 2A,State House,22,D,Clare Wilson,8
+Winn,07 5,State House,22,D,Billy Chandler,31
+Winn,07 5,State House,22,D,Klark Hataway,20
+Winn,07 5,State House,22,R,Lew Lasyone,9
+Winn,07 5,State House,22,R,Tony K. Owens,28
+Winn,07 5,State House,22,R,"""Donny"" Richardson",1
+Winn,07 5,State House,22,R,"Henry Stringer, Jr.",18
+Winn,07 5,State House,22,D,Ernie Vallery,12
+Winn,07 5,State House,22,D,Raymond Willett,4
+Winn,07 5,State House,22,D,Clare Wilson,24
+Winn,07 7,State House,22,D,Billy Chandler,15
+Winn,07 7,State House,22,D,Klark Hataway,11
+Winn,07 7,State House,22,R,Lew Lasyone,6
+Winn,07 7,State House,22,R,Tony K. Owens,34
+Winn,07 7,State House,22,R,"""Donny"" Richardson",4
+Winn,07 7,State House,22,R,"Henry Stringer, Jr.",22
+Winn,07 7,State House,22,D,Ernie Vallery,0
+Winn,07 7,State House,22,D,Raymond Willett,12
+Winn,07 7,State House,22,D,Clare Wilson,20
+Winn,07 7A,State House,22,D,Billy Chandler,1
+Winn,07 7A,State House,22,D,Klark Hataway,1
+Winn,07 7A,State House,22,R,Lew Lasyone,0
+Winn,07 7A,State House,22,R,Tony K. Owens,2
+Winn,07 7A,State House,22,R,"""Donny"" Richardson",0
+Winn,07 7A,State House,22,R,"Henry Stringer, Jr.",1
+Winn,07 7A,State House,22,D,Ernie Vallery,1
+Winn,07 7A,State House,22,D,Raymond Willett,1
+Winn,07 7A,State House,22,D,Clare Wilson,3
+Winn,Early Voting,State House,22,D,Billy Chandler,33
+Winn,Early Voting,State House,22,D,Klark Hataway,30
+Winn,Early Voting,State House,22,R,Lew Lasyone,0
+Winn,Early Voting,State House,22,R,Tony K. Owens,52
+Winn,Early Voting,State House,22,R,"""Donny"" Richardson",13
+Winn,Early Voting,State House,22,R,"Henry Stringer, Jr.",31
+Winn,Early Voting,State House,22,D,Ernie Vallery,6
+Winn,Early Voting,State House,22,D,Raymond Willett,5
+Winn,Early Voting,State House,22,D,Clare Wilson,57
