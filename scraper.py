@@ -46,6 +46,14 @@ def write_precinct_results(url, file_name):
     precinct_details = get_precinct_details(parish_details)
     scrape_precinct_results(precinct_details, candidate_details, file_name + '.csv')
 
+def write_precinct_presidential_results(url, file_name):
+    soup = get_soup(url)
+    offices = get_offices(soup, president=True)
+    parish_details = get_parish_details(url, soup, offices)
+    candidate_details = get_candidate_details(soup, offices)
+    precinct_details = get_precinct_details(parish_details)
+    scrape_precinct_results(precinct_details, candidate_details, file_name + '.csv')
+
 def get_candidate_details(soup, offices):
     candidate_details = []
     combined = zip(offices, soup.findAll('table'))
@@ -120,7 +128,7 @@ def scrape_precinct_results(precinct_details, candidate_details, file_name):
             for url in precinct_details[office]:
                 soup = get_soup(url)
                 rows = soup.findAll('tr')
-                candidates_for_office = [x.text for x in rows[0] if x.text in [c[0] for c in candidate_details]]
+                candidates_for_office = [x.text.replace('&amp;', '&') for x in rows[0] if x.text.replace('&amp;', '&') in [c[0] for c in candidate_details]]
                 for row in rows[1:]:
                     parish_name = soup.findAll('h2')[1].text.title()
                     precinct_name = row.findAll('td')[0].text
