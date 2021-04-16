@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Acadia,01 01,U.S. Senate,,R,"""Bill"" Cassidy",407
 Acadia,01 01,U.S. Senate,,D,Mary L. Landrieu,81
 Acadia,01 02A,U.S. Senate,,R,"""Bill"" Cassidy",125

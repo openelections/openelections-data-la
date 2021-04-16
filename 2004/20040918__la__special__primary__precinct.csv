@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 St. Landry,01 01,State House,40,D,Cynthia M. Ahart,2
 St. Landry,01 01,State House,40,D,"""Joe"" Charles",14
 St. Landry,01 01,State House,40,D,"Donald ""Don"" Cravins, Jr.",52

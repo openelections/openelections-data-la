@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Cameron,00 01,State House,47,R,Linda Hardee,14
 Cameron,00 01,State House,47,R,"""Bob"" Hensgens",18
 Cameron,00 02,State House,47,R,Linda Hardee,0

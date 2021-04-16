@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 St. Martin,01 1,State House,46,R,"""Mike Pete"" Huval",47
 St. Martin,01 1,State House,46,R,Craig Prosper,63
 St. Martin,01 3,State House,46,R,"""Mike Pete"" Huval",12

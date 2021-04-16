@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Acadia,01 01,U.S. Senate,,D,Wayne Ables,5
 Acadia,01 01,U.S. Senate,,R,"""Bill"" Cassidy",299
 Acadia,01 01,U.S. Senate,,R,Thomas Clements,5

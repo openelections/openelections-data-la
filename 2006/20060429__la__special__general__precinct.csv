@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Grant,01 1,State House,22,D,Billy Chandler,103
 Grant,01 1,State House,22,R,Tony K. Owens,24
 Grant,01 2,State House,22,D,Billy Chandler,69

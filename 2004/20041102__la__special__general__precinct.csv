@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 St. Landry,01 01,State House,40,D,"Donald ""Don"" Cravins, Jr.",158
 St. Landry,01 01,State House,40,D,"Alvin ""Chubby"" Haynes",145
 St. Landry,01 02,State House,40,D,"Donald ""Don"" Cravins, Jr.",404

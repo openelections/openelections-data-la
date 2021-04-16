@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Orleans,03 14,State House,94,R,"""Jeb"" Bruneau",5
 Orleans,03 14,State House,94,R,"Nicholas J. ""Nick"" Lorusso",17
 Orleans,03 19,State House,94,R,"""Jeb"" Bruneau",15

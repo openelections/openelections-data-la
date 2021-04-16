@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Jefferson,00 002,State Senate,9,R,Conrad Appel,369
 Jefferson,00 002,State Senate,9,R,"""Polly"" Thomas",280
 Jefferson,00 003,State Senate,9,R,Conrad Appel,299

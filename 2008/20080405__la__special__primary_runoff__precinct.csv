@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Ascension,00 01,U.S. House,6 -,D,"""Don"" Cazayoux",30
 Ascension,00 01,U.S. House,6 -,D,Michael Jackson,23
 Ascension,00 02,U.S. House,6 -,D,"""Don"" Cazayoux",51

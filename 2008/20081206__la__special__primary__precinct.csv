@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Jefferson,00 171,State Senate,3,D,Shawn Barney,9
 Jefferson,00 171,State Senate,3,D,"""J.P."" Morrell",5
 Jefferson,00 172,State Senate,3,D,Shawn Barney,105

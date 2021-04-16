@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 East Baton Rouge,01 090 A,State House,66,R,"""Buddy"" Amoroso",37
 East Baton Rouge,01 090 A,State House,66,R,Darrell Ourso,63
 East Baton Rouge,01 090 B,State House,66,R,"""Buddy"" Amoroso",40
