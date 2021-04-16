@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Concordia,00 1-1,State House,21,D,"""Andy"" Anders",136
 Concordia,00 1-1,State House,21,D,Samuel Thomas,237
 Concordia,00 1-2,State House,21,D,"""Andy"" Anders",63

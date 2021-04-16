@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Lincoln,01 A1,State House,12,D,"James ""Jim"" Ball",140
 Lincoln,01 A1,State House,12,R,Ty Bromell,203
 Lincoln,01 A1,State House,12,R,Hollis Downs,283

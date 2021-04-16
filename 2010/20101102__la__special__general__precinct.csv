@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Acadia,01 01,Lieutenant Governor,,R,"""Jay"" Dardenne",321
 Acadia,01 01,Lieutenant Governor,,D,Caroline Fayard,153
 Acadia,01 02A,Lieutenant Governor,,R,"""Jay"" Dardenne",181

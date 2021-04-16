@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 East Baton Rouge,01 090 A,State House,66,R,"""Buddy"" Amoroso",22
 East Baton Rouge,01 090 A,State House,66,R,"Richard ""Rick"" Bond",26
 East Baton Rouge,01 090 A,State House,66,N,Susan Nelson,24

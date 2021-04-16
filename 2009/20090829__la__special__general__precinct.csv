@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Lafourche,03 04,State Senate,20,R,Brent Callais,66
 Lafourche,03 04,State Senate,20,D,"""Norby"" Chabert",41
 Lafourche,03 05,State Senate,20,R,Brent Callais,120

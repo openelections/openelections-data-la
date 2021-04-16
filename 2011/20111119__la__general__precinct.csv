@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 East Baton Rouge,02 021 A,State House,62,D,"""Ken"" Dawson",68
 East Baton Rouge,02 021 A,State House,62,R,"""Kenny"" Havard",173
 East Baton Rouge,02 021 B,State House,62,D,"""Ken"" Dawson",55

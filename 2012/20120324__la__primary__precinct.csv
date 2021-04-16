@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Acadia,01 01,President,Democratic Party,D,"""Bob"" Ely",5
 Acadia,01 01,President,Democratic Party,D,Barack Obama,3
 Acadia,01 01,President,Democratic Party,D,Darcy G. Richardson,1

@@ -1,4 +1,4 @@
-parish,office,district,party,candidate,votes
+county,office,district,party,candidate,votes
 Jefferson,U.S. House,1,R,"""Tim"" Burns",2242
 Jefferson,U.S. House,1,R,"""Steve"" Scalise",11270
 Orleans,U.S. House,1,R,"""Tim"" Burns",356

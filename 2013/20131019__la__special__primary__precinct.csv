@@ -1,4 +1,4 @@
-parish,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Avoyelles,01 01,U.S. House,5,G,Eliot S. Barron,0
 Avoyelles,01 01,U.S. House,5,O,"""Tom"" Gibbs",0
 Avoyelles,01 01,U.S. House,5,L,"Henry Herford, Jr.",1
