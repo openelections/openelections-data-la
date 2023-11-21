@@ -1,0 +1,60 @@
+name: Import Raw Source Data
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+  #schedule:
+  # Runs at 1 AM UTC every day
+ # - cron: '0 1 * * *'
+
+  repository_dispatch:
+    types: [import-data-trigger]
+
+
+env:
+  ORG_NAME: openelections
+  SOURCE_REPO_NAME: openelections-sources-la
+  GITHUB_USERNAME: TheBoatyMcBoatFace
+
+jobs:
+  import_data:
+    name: Import Data from Sources
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Local Repo
+      uses: actions/checkout@v4
+
+    - name: Checkout Remote Repo
+      uses: actions/checkout@v4
+      with:
+        repository: ${{ env.ORG_NAME }}/${{ env.SOURCE_REPO_NAME }}
+        ref: main
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        sparse-checkout: |
+          /data/
+        sparse-checkout-cone-mode: false
+        path: raw
+        lfs: true
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update data from ${{ env.ORG_NAME }}/${{ env.SOURCE_REPO_NAME }}
+        branch: main
+        file_pattern: raw/*  # Adjust if needed
+        repository: .       # Working within the root of your repository
+        commit_user_name: ${{ secrets.USER_NAME }}
+        commit_user_email: ${{ secrets.USER_EMAIL }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+
+
+
+
+
