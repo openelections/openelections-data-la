@@ -1,0 +1,417 @@
+county,precinct,office,district,party,candidate,votes
+Orleans,06 01,State Senate,3,DEM,"""Kenn"" Barnes",8
+Orleans,06 01,State Senate,3,DEM,Sidney J. Barthelemy II,4
+Orleans,06 02,State Senate,3,DEM,"""Kenn"" Barnes",43
+Orleans,06 02,State Senate,3,DEM,Sidney J. Barthelemy II,27
+Orleans,07 01,State Senate,3,DEM,"""Kenn"" Barnes",26
+Orleans,07 01,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,07 04,State Senate,3,DEM,"""Kenn"" Barnes",19
+Orleans,07 04,State Senate,3,DEM,Sidney J. Barthelemy II,19
+Orleans,07 23,State Senate,3,DEM,"""Kenn"" Barnes",29
+Orleans,07 23,State Senate,3,DEM,Sidney J. Barthelemy II,37
+Orleans,07 24,State Senate,3,DEM,"""Kenn"" Barnes",4
+Orleans,07 24,State Senate,3,DEM,Sidney J. Barthelemy II,9
+Orleans,07 25,State Senate,3,DEM,"""Kenn"" Barnes",30
+Orleans,07 25,State Senate,3,DEM,Sidney J. Barthelemy II,54
+Orleans,07 25A,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,07 25A,State Senate,3,DEM,Sidney J. Barthelemy II,39
+Orleans,07 28A,State Senate,3,DEM,"""Kenn"" Barnes",26
+Orleans,07 28A,State Senate,3,DEM,Sidney J. Barthelemy II,31
+Orleans,07 29,State Senate,3,DEM,"""Kenn"" Barnes",17
+Orleans,07 29,State Senate,3,DEM,Sidney J. Barthelemy II,35
+Orleans,07 30,State Senate,3,DEM,"""Kenn"" Barnes",22
+Orleans,07 30,State Senate,3,DEM,Sidney J. Barthelemy II,62
+Orleans,07 32,State Senate,3,DEM,"""Kenn"" Barnes",13
+Orleans,07 32,State Senate,3,DEM,Sidney J. Barthelemy II,28
+Orleans,07 33,State Senate,3,DEM,"""Kenn"" Barnes",12
+Orleans,07 33,State Senate,3,DEM,Sidney J. Barthelemy II,30
+Orleans,07 35,State Senate,3,DEM,"""Kenn"" Barnes",42
+Orleans,07 35,State Senate,3,DEM,Sidney J. Barthelemy II,46
+Orleans,07 37,State Senate,3,DEM,"""Kenn"" Barnes",9
+Orleans,07 37,State Senate,3,DEM,Sidney J. Barthelemy II,25
+Orleans,07 40,State Senate,3,DEM,"""Kenn"" Barnes",29
+Orleans,07 40,State Senate,3,DEM,Sidney J. Barthelemy II,65
+Orleans,08 01,State Senate,3,DEM,"""Kenn"" Barnes",45
+Orleans,08 01,State Senate,3,DEM,Sidney J. Barthelemy II,17
+Orleans,08 02,State Senate,3,DEM,"""Kenn"" Barnes",63
+Orleans,08 02,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,08 04,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,08 04,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,08 06,State Senate,3,DEM,"""Kenn"" Barnes",42
+Orleans,08 06,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,08 07,State Senate,3,DEM,"""Kenn"" Barnes",17
+Orleans,08 07,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,08 08,State Senate,3,DEM,"""Kenn"" Barnes",20
+Orleans,08 08,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,08 13,State Senate,3,DEM,"""Kenn"" Barnes",4
+Orleans,08 13,State Senate,3,DEM,Sidney J. Barthelemy II,15
+Orleans,08 14,State Senate,3,DEM,"""Kenn"" Barnes",3
+Orleans,08 14,State Senate,3,DEM,Sidney J. Barthelemy II,13
+Orleans,08 15,State Senate,3,DEM,"""Kenn"" Barnes",38
+Orleans,08 15,State Senate,3,DEM,Sidney J. Barthelemy II,58
+Orleans,08 19,State Senate,3,DEM,"""Kenn"" Barnes",36
+Orleans,08 19,State Senate,3,DEM,Sidney J. Barthelemy II,40
+Orleans,08 20,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,08 20,State Senate,3,DEM,Sidney J. Barthelemy II,15
+Orleans,08 21,State Senate,3,DEM,"""Kenn"" Barnes",26
+Orleans,08 21,State Senate,3,DEM,Sidney J. Barthelemy II,54
+Orleans,08 22,State Senate,3,DEM,"""Kenn"" Barnes",33
+Orleans,08 22,State Senate,3,DEM,Sidney J. Barthelemy II,27
+Orleans,08 23,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,08 23,State Senate,3,DEM,Sidney J. Barthelemy II,37
+Orleans,08 24,State Senate,3,DEM,"""Kenn"" Barnes",28
+Orleans,08 24,State Senate,3,DEM,Sidney J. Barthelemy II,43
+Orleans,08 25,State Senate,3,DEM,"""Kenn"" Barnes",18
+Orleans,08 25,State Senate,3,DEM,Sidney J. Barthelemy II,55
+Orleans,08 26,State Senate,3,DEM,"""Kenn"" Barnes",27
+Orleans,08 26,State Senate,3,DEM,Sidney J. Barthelemy II,50
+Orleans,08 27,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,08 27,State Senate,3,DEM,Sidney J. Barthelemy II,32
+Orleans,09 01,State Senate,3,DEM,"""Kenn"" Barnes",38
+Orleans,09 01,State Senate,3,DEM,Sidney J. Barthelemy II,45
+Orleans,09 03,State Senate,3,DEM,"""Kenn"" Barnes",19
+Orleans,09 03,State Senate,3,DEM,Sidney J. Barthelemy II,35
+Orleans,09 04,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,09 04,State Senate,3,DEM,Sidney J. Barthelemy II,17
+Orleans,09 05,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,09 05,State Senate,3,DEM,Sidney J. Barthelemy II,20
+Orleans,09 06,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,09 06,State Senate,3,DEM,Sidney J. Barthelemy II,50
+Orleans,09 07,State Senate,3,DEM,"""Kenn"" Barnes",32
+Orleans,09 07,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,09 08,State Senate,3,DEM,"""Kenn"" Barnes",19
+Orleans,09 08,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,09 09,State Senate,3,DEM,"""Kenn"" Barnes",31
+Orleans,09 09,State Senate,3,DEM,Sidney J. Barthelemy II,9
+Orleans,09 10,State Senate,3,DEM,"""Kenn"" Barnes",39
+Orleans,09 10,State Senate,3,DEM,Sidney J. Barthelemy II,36
+Orleans,09 11,State Senate,3,DEM,"""Kenn"" Barnes",45
+Orleans,09 11,State Senate,3,DEM,Sidney J. Barthelemy II,12
+Orleans,09 12,State Senate,3,DEM,"""Kenn"" Barnes",36
+Orleans,09 12,State Senate,3,DEM,Sidney J. Barthelemy II,11
+Orleans,09 13,State Senate,3,DEM,"""Kenn"" Barnes",27
+Orleans,09 13,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,09 14,State Senate,3,DEM,"""Kenn"" Barnes",45
+Orleans,09 14,State Senate,3,DEM,Sidney J. Barthelemy II,18
+Orleans,09 15,State Senate,3,DEM,"""Kenn"" Barnes",47
+Orleans,09 15,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,09 16,State Senate,3,DEM,"""Kenn"" Barnes",40
+Orleans,09 16,State Senate,3,DEM,Sidney J. Barthelemy II,18
+Orleans,09 17,State Senate,3,DEM,"""Kenn"" Barnes",20
+Orleans,09 17,State Senate,3,DEM,Sidney J. Barthelemy II,12
+Orleans,09 19,State Senate,3,DEM,"""Kenn"" Barnes",33
+Orleans,09 19,State Senate,3,DEM,Sidney J. Barthelemy II,24
+Orleans,09 21,State Senate,3,DEM,"""Kenn"" Barnes",30
+Orleans,09 21,State Senate,3,DEM,Sidney J. Barthelemy II,24
+Orleans,09 23,State Senate,3,DEM,"""Kenn"" Barnes",5
+Orleans,09 23,State Senate,3,DEM,Sidney J. Barthelemy II,13
+Orleans,09 28,State Senate,3,DEM,"""Kenn"" Barnes",5
+Orleans,09 28,State Senate,3,DEM,Sidney J. Barthelemy II,9
+Orleans,09 29,State Senate,3,DEM,"""Kenn"" Barnes",3
+Orleans,09 29,State Senate,3,DEM,Sidney J. Barthelemy II,9
+Orleans,09 30,State Senate,3,DEM,"""Kenn"" Barnes",12
+Orleans,09 30,State Senate,3,DEM,Sidney J. Barthelemy II,27
+Orleans,09 30A,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,09 30A,State Senate,3,DEM,Sidney J. Barthelemy II,30
+Orleans,09 31,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,09 31,State Senate,3,DEM,Sidney J. Barthelemy II,28
+Orleans,09 31A,State Senate,3,DEM,"""Kenn"" Barnes",23
+Orleans,09 31A,State Senate,3,DEM,Sidney J. Barthelemy II,43
+Orleans,09 31B,State Senate,3,DEM,"""Kenn"" Barnes",31
+Orleans,09 31B,State Senate,3,DEM,Sidney J. Barthelemy II,22
+Orleans,09 31D,State Senate,3,DEM,"""Kenn"" Barnes",20
+Orleans,09 31D,State Senate,3,DEM,Sidney J. Barthelemy II,15
+Orleans,09 32,State Senate,3,DEM,"""Kenn"" Barnes",1
+Orleans,09 32,State Senate,3,DEM,Sidney J. Barthelemy II,0
+Orleans,09 39,State Senate,3,DEM,"""Kenn"" Barnes",25
+Orleans,09 39,State Senate,3,DEM,Sidney J. Barthelemy II,61
+Orleans,09 39B,State Senate,3,DEM,"""Kenn"" Barnes",10
+Orleans,09 39B,State Senate,3,DEM,Sidney J. Barthelemy II,22
+Orleans,09 40,State Senate,3,DEM,"""Kenn"" Barnes",8
+Orleans,09 40,State Senate,3,DEM,Sidney J. Barthelemy II,36
+Orleans,09 40A,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,09 40A,State Senate,3,DEM,Sidney J. Barthelemy II,61
+Orleans,09 40C,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,09 40C,State Senate,3,DEM,Sidney J. Barthelemy II,35
+Orleans,09 41,State Senate,3,DEM,"""Kenn"" Barnes",17
+Orleans,09 41,State Senate,3,DEM,Sidney J. Barthelemy II,54
+Orleans,09 41A,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,09 41A,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,09 41B,State Senate,3,DEM,"""Kenn"" Barnes",34
+Orleans,09 41B,State Senate,3,DEM,Sidney J. Barthelemy II,48
+Orleans,09 41C,State Senate,3,DEM,"""Kenn"" Barnes",3
+Orleans,09 41C,State Senate,3,DEM,Sidney J. Barthelemy II,8
+Orleans,09 41D,State Senate,3,DEM,"""Kenn"" Barnes",6
+Orleans,09 41D,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,09 44G,State Senate,3,DEM,"""Kenn"" Barnes",13
+Orleans,09 44G,State Senate,3,DEM,Sidney J. Barthelemy II,52
+Orleans,09 44I,State Senate,3,DEM,"""Kenn"" Barnes",23
+Orleans,09 44I,State Senate,3,DEM,Sidney J. Barthelemy II,71
+Orleans,09 44M,State Senate,3,DEM,"""Kenn"" Barnes",52
+Orleans,09 44M,State Senate,3,DEM,Sidney J. Barthelemy II,101
+Orleans,09 44N,State Senate,3,DEM,"""Kenn"" Barnes",22
+Orleans,09 44N,State Senate,3,DEM,Sidney J. Barthelemy II,74
+Orleans,09 44O,State Senate,3,DEM,"""Kenn"" Barnes",8
+Orleans,09 44O,State Senate,3,DEM,Sidney J. Barthelemy II,24
+Orleans,09 44P,State Senate,3,DEM,"""Kenn"" Barnes",53
+Orleans,09 44P,State Senate,3,DEM,Sidney J. Barthelemy II,136
+Orleans,09 44Q,State Senate,3,DEM,"""Kenn"" Barnes",39
+Orleans,09 44Q,State Senate,3,DEM,Sidney J. Barthelemy II,54
+Orleans,Early Voting,State Senate,3,DEM,"""Kenn"" Barnes",928
+Orleans,Early Voting,State Senate,3,DEM,Sidney J. Barthelemy II,1943
+St. Bernard,00 10,State Senate,3,DEM,"""Kenn"" Barnes",10
+St. Bernard,00 10,State Senate,3,DEM,Sidney J. Barthelemy II,29
+St. Bernard,00 11,State Senate,3,DEM,"""Kenn"" Barnes",10
+St. Bernard,00 11,State Senate,3,DEM,Sidney J. Barthelemy II,43
+St. Bernard,00 12,State Senate,3,DEM,"""Kenn"" Barnes",14
+St. Bernard,00 12,State Senate,3,DEM,Sidney J. Barthelemy II,10
+St. Bernard,00 13,State Senate,3,DEM,"""Kenn"" Barnes",15
+St. Bernard,00 13,State Senate,3,DEM,Sidney J. Barthelemy II,39
+St. Bernard,00 14,State Senate,3,DEM,"""Kenn"" Barnes",4
+St. Bernard,00 14,State Senate,3,DEM,Sidney J. Barthelemy II,25
+St. Bernard,00 15,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 15,State Senate,3,DEM,Sidney J. Barthelemy II,14
+St. Bernard,00 20,State Senate,3,DEM,"""Kenn"" Barnes",1
+St. Bernard,00 20,State Senate,3,DEM,Sidney J. Barthelemy II,12
+St. Bernard,00 21,State Senate,3,DEM,"""Kenn"" Barnes",11
+St. Bernard,00 21,State Senate,3,DEM,Sidney J. Barthelemy II,11
+St. Bernard,00 22,State Senate,3,DEM,"""Kenn"" Barnes",3
+St. Bernard,00 22,State Senate,3,DEM,Sidney J. Barthelemy II,20
+St. Bernard,00 23,State Senate,3,DEM,"""Kenn"" Barnes",5
+St. Bernard,00 23,State Senate,3,DEM,Sidney J. Barthelemy II,5
+St. Bernard,00 24,State Senate,3,DEM,"""Kenn"" Barnes",13
+St. Bernard,00 24,State Senate,3,DEM,Sidney J. Barthelemy II,27
+St. Bernard,00 25,State Senate,3,DEM,"""Kenn"" Barnes",1
+St. Bernard,00 25,State Senate,3,DEM,Sidney J. Barthelemy II,13
+St. Bernard,00 30,State Senate,3,DEM,"""Kenn"" Barnes",12
+St. Bernard,00 30,State Senate,3,DEM,Sidney J. Barthelemy II,30
+St. Bernard,00 31,State Senate,3,DEM,"""Kenn"" Barnes",5
+St. Bernard,00 31,State Senate,3,DEM,Sidney J. Barthelemy II,26
+St. Bernard,00 32,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 32,State Senate,3,DEM,Sidney J. Barthelemy II,34
+St. Bernard,00 34,State Senate,3,DEM,"""Kenn"" Barnes",0
+St. Bernard,00 34,State Senate,3,DEM,Sidney J. Barthelemy II,5
+St. Bernard,00 40,State Senate,3,DEM,"""Kenn"" Barnes",4
+St. Bernard,00 40,State Senate,3,DEM,Sidney J. Barthelemy II,3
+St. Bernard,00 42,State Senate,3,DEM,"""Kenn"" Barnes",10
+St. Bernard,00 42,State Senate,3,DEM,Sidney J. Barthelemy II,33
+St. Bernard,00 42A,State Senate,3,DEM,"""Kenn"" Barnes",8
+St. Bernard,00 42A,State Senate,3,DEM,Sidney J. Barthelemy II,23
+St. Bernard,00 44,State Senate,3,DEM,"""Kenn"" Barnes",10
+St. Bernard,00 44,State Senate,3,DEM,Sidney J. Barthelemy II,48
+St. Bernard,00 45,State Senate,3,DEM,"""Kenn"" Barnes",12
+St. Bernard,00 45,State Senate,3,DEM,Sidney J. Barthelemy II,16
+St. Bernard,00 46,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 46,State Senate,3,DEM,Sidney J. Barthelemy II,8
+St. Bernard,00 50,State Senate,3,DEM,"""Kenn"" Barnes",14
+St. Bernard,00 50,State Senate,3,DEM,Sidney J. Barthelemy II,63
+St. Bernard,Early Voting,State Senate,3,DEM,"""Kenn"" Barnes",121
+St. Bernard,Early Voting,State Senate,3,DEM,Sidney J. Barthelemy II,398
+East Baton Rouge,01 034 A,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 034 A,State House,69,REP,Lynn Coxe Graham,10
+East Baton Rouge,01 034 A,State House,69,DEM,Angela Roberts,36
+East Baton Rouge,01 034 A,State House,69,REP,Paul Sawyer,54
+East Baton Rouge,01 034 B,State House,69,REP,Adam Beach,2
+East Baton Rouge,01 034 B,State House,69,REP,Lynn Coxe Graham,7
+East Baton Rouge,01 034 B,State House,69,DEM,Angela Roberts,35
+East Baton Rouge,01 034 B,State House,69,REP,Paul Sawyer,77
+East Baton Rouge,01 049 A,State House,69,REP,Adam Beach,3
+East Baton Rouge,01 049 A,State House,69,REP,Lynn Coxe Graham,4
+East Baton Rouge,01 049 A,State House,69,DEM,Angela Roberts,54
+East Baton Rouge,01 049 A,State House,69,REP,Paul Sawyer,50
+East Baton Rouge,01 049 B,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 049 B,State House,69,REP,Lynn Coxe Graham,3
+East Baton Rouge,01 049 B,State House,69,DEM,Angela Roberts,22
+East Baton Rouge,01 049 B,State House,69,REP,Paul Sawyer,50
+East Baton Rouge,01 052 A,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 052 A,State House,69,REP,Lynn Coxe Graham,1
+East Baton Rouge,01 052 A,State House,69,DEM,Angela Roberts,76
+East Baton Rouge,01 052 A,State House,69,REP,Paul Sawyer,32
+East Baton Rouge,01 052 B,State House,69,REP,Adam Beach,3
+East Baton Rouge,01 052 B,State House,69,REP,Lynn Coxe Graham,6
+East Baton Rouge,01 052 B,State House,69,DEM,Angela Roberts,76
+East Baton Rouge,01 052 B,State House,69,REP,Paul Sawyer,32
+East Baton Rouge,01 053 A,State House,69,REP,Adam Beach,0
+East Baton Rouge,01 053 A,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,01 053 A,State House,69,DEM,Angela Roberts,40
+East Baton Rouge,01 053 A,State House,69,REP,Paul Sawyer,23
+East Baton Rouge,01 053 B,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 053 B,State House,69,REP,Lynn Coxe Graham,1
+East Baton Rouge,01 053 B,State House,69,DEM,Angela Roberts,39
+East Baton Rouge,01 053 B,State House,69,REP,Paul Sawyer,28
+East Baton Rouge,01 072 A,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 072 A,State House,69,REP,Lynn Coxe Graham,6
+East Baton Rouge,01 072 A,State House,69,DEM,Angela Roberts,38
+East Baton Rouge,01 072 A,State House,69,REP,Paul Sawyer,19
+East Baton Rouge,01 072 B,State House,69,REP,Adam Beach,0
+East Baton Rouge,01 072 B,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,01 072 B,State House,69,DEM,Angela Roberts,36
+East Baton Rouge,01 072 B,State House,69,REP,Paul Sawyer,23
+East Baton Rouge,01 074 A,State House,69,REP,Adam Beach,3
+East Baton Rouge,01 074 A,State House,69,REP,Lynn Coxe Graham,4
+East Baton Rouge,01 074 A,State House,69,DEM,Angela Roberts,43
+East Baton Rouge,01 074 A,State House,69,REP,Paul Sawyer,54
+East Baton Rouge,01 074 B,State House,69,REP,Adam Beach,4
+East Baton Rouge,01 074 B,State House,69,REP,Lynn Coxe Graham,4
+East Baton Rouge,01 074 B,State House,69,DEM,Angela Roberts,33
+East Baton Rouge,01 074 B,State House,69,REP,Paul Sawyer,63
+East Baton Rouge,01 080 A,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 080 A,State House,69,REP,Lynn Coxe Graham,1
+East Baton Rouge,01 080 A,State House,69,DEM,Angela Roberts,33
+East Baton Rouge,01 080 A,State House,69,REP,Paul Sawyer,57
+East Baton Rouge,01 080 B,State House,69,REP,Adam Beach,1
+East Baton Rouge,01 080 B,State House,69,REP,Lynn Coxe Graham,7
+East Baton Rouge,01 080 B,State House,69,DEM,Angela Roberts,35
+East Baton Rouge,01 080 B,State House,69,REP,Paul Sawyer,44
+East Baton Rouge,01 099 A,State House,69,REP,Adam Beach,4
+East Baton Rouge,01 099 A,State House,69,REP,Lynn Coxe Graham,1
+East Baton Rouge,01 099 A,State House,69,DEM,Angela Roberts,52
+East Baton Rouge,01 099 A,State House,69,REP,Paul Sawyer,38
+East Baton Rouge,01 099 B,State House,69,REP,Adam Beach,4
+East Baton Rouge,01 099 B,State House,69,REP,Lynn Coxe Graham,5
+East Baton Rouge,01 099 B,State House,69,DEM,Angela Roberts,58
+East Baton Rouge,01 099 B,State House,69,REP,Paul Sawyer,51
+East Baton Rouge,03 003 A,State House,69,REP,Adam Beach,5
+East Baton Rouge,03 003 A,State House,69,REP,Lynn Coxe Graham,4
+East Baton Rouge,03 003 A,State House,69,DEM,Angela Roberts,29
+East Baton Rouge,03 003 A,State House,69,REP,Paul Sawyer,65
+East Baton Rouge,03 003 B,State House,69,REP,Adam Beach,4
+East Baton Rouge,03 003 B,State House,69,REP,Lynn Coxe Graham,3
+East Baton Rouge,03 003 B,State House,69,DEM,Angela Roberts,43
+East Baton Rouge,03 003 B,State House,69,REP,Paul Sawyer,94
+East Baton Rouge,03 007 A,State House,69,REP,Adam Beach,1
+East Baton Rouge,03 007 A,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 007 A,State House,69,DEM,Angela Roberts,30
+East Baton Rouge,03 007 A,State House,69,REP,Paul Sawyer,47
+East Baton Rouge,03 007 B,State House,69,REP,Adam Beach,1
+East Baton Rouge,03 007 B,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 007 B,State House,69,DEM,Angela Roberts,44
+East Baton Rouge,03 007 B,State House,69,REP,Paul Sawyer,74
+East Baton Rouge,03 011,State House,69,REP,Adam Beach,0
+East Baton Rouge,03 011,State House,69,REP,Lynn Coxe Graham,0
+East Baton Rouge,03 011,State House,69,DEM,Angela Roberts,13
+East Baton Rouge,03 011,State House,69,REP,Paul Sawyer,1
+East Baton Rouge,03 013,State House,69,REP,Adam Beach,3
+East Baton Rouge,03 013,State House,69,REP,Lynn Coxe Graham,5
+East Baton Rouge,03 013,State House,69,DEM,Angela Roberts,57
+East Baton Rouge,03 013,State House,69,REP,Paul Sawyer,68
+East Baton Rouge,03 015 A,State House,69,REP,Adam Beach,3
+East Baton Rouge,03 015 A,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 015 A,State House,69,DEM,Angela Roberts,28
+East Baton Rouge,03 015 A,State House,69,REP,Paul Sawyer,31
+East Baton Rouge,03 015 B,State House,69,REP,Adam Beach,5
+East Baton Rouge,03 015 B,State House,69,REP,Lynn Coxe Graham,0
+East Baton Rouge,03 015 B,State House,69,DEM,Angela Roberts,26
+East Baton Rouge,03 015 B,State House,69,REP,Paul Sawyer,36
+East Baton Rouge,03 027 A,State House,69,REP,Adam Beach,0
+East Baton Rouge,03 027 A,State House,69,REP,Lynn Coxe Graham,3
+East Baton Rouge,03 027 A,State House,69,DEM,Angela Roberts,32
+East Baton Rouge,03 027 A,State House,69,REP,Paul Sawyer,18
+East Baton Rouge,03 027 B,State House,69,REP,Adam Beach,1
+East Baton Rouge,03 027 B,State House,69,REP,Lynn Coxe Graham,1
+East Baton Rouge,03 027 B,State House,69,DEM,Angela Roberts,29
+East Baton Rouge,03 027 B,State House,69,REP,Paul Sawyer,22
+East Baton Rouge,03 029 A,State House,69,REP,Adam Beach,3
+East Baton Rouge,03 029 A,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 029 A,State House,69,DEM,Angela Roberts,34
+East Baton Rouge,03 029 A,State House,69,REP,Paul Sawyer,27
+East Baton Rouge,03 029 B,State House,69,REP,Adam Beach,0
+East Baton Rouge,03 029 B,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 029 B,State House,69,DEM,Angela Roberts,24
+East Baton Rouge,03 029 B,State House,69,REP,Paul Sawyer,25
+East Baton Rouge,03 031 A,State House,69,REP,Adam Beach,1
+East Baton Rouge,03 031 A,State House,69,REP,Lynn Coxe Graham,0
+East Baton Rouge,03 031 A,State House,69,DEM,Angela Roberts,21
+East Baton Rouge,03 031 A,State House,69,REP,Paul Sawyer,40
+East Baton Rouge,03 031 B,State House,69,REP,Adam Beach,1
+East Baton Rouge,03 031 B,State House,69,REP,Lynn Coxe Graham,3
+East Baton Rouge,03 031 B,State House,69,DEM,Angela Roberts,12
+East Baton Rouge,03 031 B,State House,69,REP,Paul Sawyer,31
+East Baton Rouge,03 039,State House,69,REP,Adam Beach,0
+East Baton Rouge,03 039,State House,69,REP,Lynn Coxe Graham,0
+East Baton Rouge,03 039,State House,69,DEM,Angela Roberts,11
+East Baton Rouge,03 039,State House,69,REP,Paul Sawyer,6
+East Baton Rouge,03 041 A,State House,69,REP,Adam Beach,8
+East Baton Rouge,03 041 A,State House,69,REP,Lynn Coxe Graham,4
+East Baton Rouge,03 041 A,State House,69,DEM,Angela Roberts,61
+East Baton Rouge,03 041 A,State House,69,REP,Paul Sawyer,94
+East Baton Rouge,03 041 B,State House,69,REP,Adam Beach,6
+East Baton Rouge,03 041 B,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 041 B,State House,69,DEM,Angela Roberts,38
+East Baton Rouge,03 041 B,State House,69,REP,Paul Sawyer,52
+East Baton Rouge,03 060 A,State House,69,REP,Adam Beach,3
+East Baton Rouge,03 060 A,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 060 A,State House,69,DEM,Angela Roberts,34
+East Baton Rouge,03 060 A,State House,69,REP,Paul Sawyer,60
+East Baton Rouge,03 060 B,State House,69,REP,Adam Beach,0
+East Baton Rouge,03 060 B,State House,69,REP,Lynn Coxe Graham,2
+East Baton Rouge,03 060 B,State House,69,DEM,Angela Roberts,16
+East Baton Rouge,03 060 B,State House,69,REP,Paul Sawyer,36
+East Baton Rouge,Early Voting,State House,69,REP,Adam Beach,66
+East Baton Rouge,Early Voting,State House,69,REP,Lynn Coxe Graham,79
+East Baton Rouge,Early Voting,State House,69,DEM,Angela Roberts,657
+East Baton Rouge,Early Voting,State House,69,REP,Paul Sawyer,1065
+Orleans,09 39,State House,100,DEM,Dana Henry,36
+Orleans,09 39,State House,100,DEM,Kenya Rounds,51
+Orleans,09 39B,State House,100,DEM,Dana Henry,11
+Orleans,09 39B,State House,100,DEM,Kenya Rounds,20
+Orleans,09 40,State House,100,DEM,Dana Henry,20
+Orleans,09 40,State House,100,DEM,Kenya Rounds,25
+Orleans,09 40A,State House,100,DEM,Dana Henry,33
+Orleans,09 40A,State House,100,DEM,Kenya Rounds,40
+Orleans,09 40C,State House,100,DEM,Dana Henry,23
+Orleans,09 40C,State House,100,DEM,Kenya Rounds,21
+Orleans,09 41,State House,100,DEM,Dana Henry,48
+Orleans,09 41,State House,100,DEM,Kenya Rounds,22
+Orleans,09 41A,State House,100,DEM,Dana Henry,21
+Orleans,09 41A,State House,100,DEM,Kenya Rounds,9
+Orleans,09 41B,State House,100,DEM,Dana Henry,48
+Orleans,09 41B,State House,100,DEM,Kenya Rounds,34
+Orleans,09 41C,State House,100,DEM,Dana Henry,9
+Orleans,09 41C,State House,100,DEM,Kenya Rounds,4
+Orleans,09 41D,State House,100,DEM,Dana Henry,13
+Orleans,09 41D,State House,100,DEM,Kenya Rounds,6
+Orleans,09 43G,State House,100,DEM,Dana Henry,48
+Orleans,09 43G,State House,100,DEM,Kenya Rounds,46
+Orleans,09 43J,State House,100,DEM,Dana Henry,23
+Orleans,09 43J,State House,100,DEM,Kenya Rounds,12
+Orleans,09 43K,State House,100,DEM,Dana Henry,35
+Orleans,09 43K,State House,100,DEM,Kenya Rounds,25
+Orleans,09 43L,State House,100,DEM,Dana Henry,26
+Orleans,09 43L,State House,100,DEM,Kenya Rounds,22
+Orleans,09 44,State House,100,DEM,Dana Henry,48
+Orleans,09 44,State House,100,DEM,Kenya Rounds,18
+Orleans,09 44A,State House,100,DEM,Dana Henry,20
+Orleans,09 44A,State House,100,DEM,Kenya Rounds,15
+Orleans,09 44B,State House,100,DEM,Dana Henry,28
+Orleans,09 44B,State House,100,DEM,Kenya Rounds,18
+Orleans,09 44D,State House,100,DEM,Dana Henry,29
+Orleans,09 44D,State House,100,DEM,Kenya Rounds,14
+Orleans,09 44E,State House,100,DEM,Dana Henry,69
+Orleans,09 44E,State House,100,DEM,Kenya Rounds,42
+Orleans,09 44F,State House,100,DEM,Dana Henry,53
+Orleans,09 44F,State House,100,DEM,Kenya Rounds,41
+Orleans,09 44G,State House,100,DEM,Dana Henry,37
+Orleans,09 44G,State House,100,DEM,Kenya Rounds,27
+Orleans,09 44I,State House,100,DEM,Dana Henry,66
+Orleans,09 44I,State House,100,DEM,Kenya Rounds,32
+Orleans,09 44J,State House,100,DEM,Dana Henry,30
+Orleans,09 44J,State House,100,DEM,Kenya Rounds,42
+Orleans,09 44L,State House,100,DEM,Dana Henry,54
+Orleans,09 44L,State House,100,DEM,Kenya Rounds,29
+Orleans,09 44M,State House,100,DEM,Dana Henry,92
+Orleans,09 44M,State House,100,DEM,Kenya Rounds,59
+Orleans,09 44N,State House,100,DEM,Dana Henry,65
+Orleans,09 44N,State House,100,DEM,Kenya Rounds,32
+Orleans,09 44O,State House,100,DEM,Dana Henry,17
+Orleans,09 44O,State House,100,DEM,Kenya Rounds,16
+Orleans,09 44P,State House,100,DEM,Dana Henry,94
+Orleans,09 44P,State House,100,DEM,Kenya Rounds,95
+Orleans,09 44Q,State House,100,DEM,Dana Henry,53
+Orleans,09 44Q,State House,100,DEM,Kenya Rounds,40
+Orleans,09 45,State House,100,DEM,Dana Henry,39
+Orleans,09 45,State House,100,DEM,Kenya Rounds,7
+Orleans,09 45A,State House,100,DEM,Dana Henry,7
+Orleans,09 45A,State House,100,DEM,Kenya Rounds,1
+Orleans,Early Voting,State House,100,DEM,Dana Henry,873
+Orleans,Early Voting,State House,100,DEM,Kenya Rounds,933
