@@ -1,0 +1,873 @@
+county,precinct,office,district,party,candidate,votes
+Orleans,06 01,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,06 01,State Senate,3,DEM,Sidney J. Barthelemy II,6
+Orleans,06 01,State Senate,3,DEM,Jon Johnson,3
+Orleans,06 01,State Senate,3,DEM,Chad Lauga,7
+Orleans,06 02,State Senate,3,DEM,"""Kenn"" Barnes",30
+Orleans,06 02,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,06 02,State Senate,3,DEM,Jon Johnson,7
+Orleans,06 02,State Senate,3,DEM,Chad Lauga,29
+Orleans,07 01,State Senate,3,DEM,"""Kenn"" Barnes",29
+Orleans,07 01,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,07 01,State Senate,3,DEM,Jon Johnson,4
+Orleans,07 01,State Senate,3,DEM,Chad Lauga,7
+Orleans,07 04,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,07 04,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,07 04,State Senate,3,DEM,Jon Johnson,3
+Orleans,07 04,State Senate,3,DEM,Chad Lauga,6
+Orleans,07 23,State Senate,3,DEM,"""Kenn"" Barnes",25
+Orleans,07 23,State Senate,3,DEM,Sidney J. Barthelemy II,63
+Orleans,07 23,State Senate,3,DEM,Jon Johnson,10
+Orleans,07 23,State Senate,3,DEM,Chad Lauga,1
+Orleans,07 24,State Senate,3,DEM,"""Kenn"" Barnes",5
+Orleans,07 24,State Senate,3,DEM,Sidney J. Barthelemy II,10
+Orleans,07 24,State Senate,3,DEM,Jon Johnson,4
+Orleans,07 24,State Senate,3,DEM,Chad Lauga,2
+Orleans,07 25,State Senate,3,DEM,"""Kenn"" Barnes",34
+Orleans,07 25,State Senate,3,DEM,Sidney J. Barthelemy II,61
+Orleans,07 25,State Senate,3,DEM,Jon Johnson,12
+Orleans,07 25,State Senate,3,DEM,Chad Lauga,6
+Orleans,07 25A,State Senate,3,DEM,"""Kenn"" Barnes",9
+Orleans,07 25A,State Senate,3,DEM,Sidney J. Barthelemy II,49
+Orleans,07 25A,State Senate,3,DEM,Jon Johnson,8
+Orleans,07 25A,State Senate,3,DEM,Chad Lauga,6
+Orleans,07 28A,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,07 28A,State Senate,3,DEM,Sidney J. Barthelemy II,40
+Orleans,07 28A,State Senate,3,DEM,Jon Johnson,14
+Orleans,07 28A,State Senate,3,DEM,Chad Lauga,7
+Orleans,07 29,State Senate,3,DEM,"""Kenn"" Barnes",15
+Orleans,07 29,State Senate,3,DEM,Sidney J. Barthelemy II,53
+Orleans,07 29,State Senate,3,DEM,Jon Johnson,6
+Orleans,07 29,State Senate,3,DEM,Chad Lauga,6
+Orleans,07 30,State Senate,3,DEM,"""Kenn"" Barnes",36
+Orleans,07 30,State Senate,3,DEM,Sidney J. Barthelemy II,93
+Orleans,07 30,State Senate,3,DEM,Jon Johnson,7
+Orleans,07 30,State Senate,3,DEM,Chad Lauga,8
+Orleans,07 32,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,07 32,State Senate,3,DEM,Sidney J. Barthelemy II,41
+Orleans,07 32,State Senate,3,DEM,Jon Johnson,6
+Orleans,07 32,State Senate,3,DEM,Chad Lauga,5
+Orleans,07 33,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,07 33,State Senate,3,DEM,Sidney J. Barthelemy II,50
+Orleans,07 33,State Senate,3,DEM,Jon Johnson,10
+Orleans,07 33,State Senate,3,DEM,Chad Lauga,4
+Orleans,07 35,State Senate,3,DEM,"""Kenn"" Barnes",45
+Orleans,07 35,State Senate,3,DEM,Sidney J. Barthelemy II,51
+Orleans,07 35,State Senate,3,DEM,Jon Johnson,17
+Orleans,07 35,State Senate,3,DEM,Chad Lauga,15
+Orleans,07 37,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,07 37,State Senate,3,DEM,Sidney J. Barthelemy II,31
+Orleans,07 37,State Senate,3,DEM,Jon Johnson,4
+Orleans,07 37,State Senate,3,DEM,Chad Lauga,4
+Orleans,07 40,State Senate,3,DEM,"""Kenn"" Barnes",42
+Orleans,07 40,State Senate,3,DEM,Sidney J. Barthelemy II,82
+Orleans,07 40,State Senate,3,DEM,Jon Johnson,10
+Orleans,07 40,State Senate,3,DEM,Chad Lauga,17
+Orleans,08 01,State Senate,3,DEM,"""Kenn"" Barnes",50
+Orleans,08 01,State Senate,3,DEM,Sidney J. Barthelemy II,17
+Orleans,08 01,State Senate,3,DEM,Jon Johnson,3
+Orleans,08 01,State Senate,3,DEM,Chad Lauga,10
+Orleans,08 02,State Senate,3,DEM,"""Kenn"" Barnes",63
+Orleans,08 02,State Senate,3,DEM,Sidney J. Barthelemy II,11
+Orleans,08 02,State Senate,3,DEM,Jon Johnson,2
+Orleans,08 02,State Senate,3,DEM,Chad Lauga,14
+Orleans,08 04,State Senate,3,DEM,"""Kenn"" Barnes",7
+Orleans,08 04,State Senate,3,DEM,Sidney J. Barthelemy II,9
+Orleans,08 04,State Senate,3,DEM,Jon Johnson,4
+Orleans,08 04,State Senate,3,DEM,Chad Lauga,6
+Orleans,08 06,State Senate,3,DEM,"""Kenn"" Barnes",40
+Orleans,08 06,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,08 06,State Senate,3,DEM,Jon Johnson,4
+Orleans,08 06,State Senate,3,DEM,Chad Lauga,7
+Orleans,08 07,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,08 07,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,08 07,State Senate,3,DEM,Jon Johnson,4
+Orleans,08 07,State Senate,3,DEM,Chad Lauga,4
+Orleans,08 08,State Senate,3,DEM,"""Kenn"" Barnes",17
+Orleans,08 08,State Senate,3,DEM,Sidney J. Barthelemy II,9
+Orleans,08 08,State Senate,3,DEM,Jon Johnson,13
+Orleans,08 08,State Senate,3,DEM,Chad Lauga,7
+Orleans,08 13,State Senate,3,DEM,"""Kenn"" Barnes",6
+Orleans,08 13,State Senate,3,DEM,Sidney J. Barthelemy II,23
+Orleans,08 13,State Senate,3,DEM,Jon Johnson,4
+Orleans,08 13,State Senate,3,DEM,Chad Lauga,4
+Orleans,08 14,State Senate,3,DEM,"""Kenn"" Barnes",9
+Orleans,08 14,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,08 14,State Senate,3,DEM,Jon Johnson,5
+Orleans,08 14,State Senate,3,DEM,Chad Lauga,5
+Orleans,08 15,State Senate,3,DEM,"""Kenn"" Barnes",33
+Orleans,08 15,State Senate,3,DEM,Sidney J. Barthelemy II,87
+Orleans,08 15,State Senate,3,DEM,Jon Johnson,19
+Orleans,08 15,State Senate,3,DEM,Chad Lauga,13
+Orleans,08 19,State Senate,3,DEM,"""Kenn"" Barnes",22
+Orleans,08 19,State Senate,3,DEM,Sidney J. Barthelemy II,55
+Orleans,08 19,State Senate,3,DEM,Jon Johnson,11
+Orleans,08 19,State Senate,3,DEM,Chad Lauga,9
+Orleans,08 20,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,08 20,State Senate,3,DEM,Sidney J. Barthelemy II,29
+Orleans,08 20,State Senate,3,DEM,Jon Johnson,13
+Orleans,08 20,State Senate,3,DEM,Chad Lauga,7
+Orleans,08 21,State Senate,3,DEM,"""Kenn"" Barnes",27
+Orleans,08 21,State Senate,3,DEM,Sidney J. Barthelemy II,54
+Orleans,08 21,State Senate,3,DEM,Jon Johnson,12
+Orleans,08 21,State Senate,3,DEM,Chad Lauga,10
+Orleans,08 22,State Senate,3,DEM,"""Kenn"" Barnes",26
+Orleans,08 22,State Senate,3,DEM,Sidney J. Barthelemy II,38
+Orleans,08 22,State Senate,3,DEM,Jon Johnson,8
+Orleans,08 22,State Senate,3,DEM,Chad Lauga,9
+Orleans,08 23,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,08 23,State Senate,3,DEM,Sidney J. Barthelemy II,61
+Orleans,08 23,State Senate,3,DEM,Jon Johnson,9
+Orleans,08 23,State Senate,3,DEM,Chad Lauga,10
+Orleans,08 24,State Senate,3,DEM,"""Kenn"" Barnes",23
+Orleans,08 24,State Senate,3,DEM,Sidney J. Barthelemy II,49
+Orleans,08 24,State Senate,3,DEM,Jon Johnson,7
+Orleans,08 24,State Senate,3,DEM,Chad Lauga,13
+Orleans,08 25,State Senate,3,DEM,"""Kenn"" Barnes",30
+Orleans,08 25,State Senate,3,DEM,Sidney J. Barthelemy II,66
+Orleans,08 25,State Senate,3,DEM,Jon Johnson,10
+Orleans,08 25,State Senate,3,DEM,Chad Lauga,11
+Orleans,08 26,State Senate,3,DEM,"""Kenn"" Barnes",24
+Orleans,08 26,State Senate,3,DEM,Sidney J. Barthelemy II,62
+Orleans,08 26,State Senate,3,DEM,Jon Johnson,15
+Orleans,08 26,State Senate,3,DEM,Chad Lauga,8
+Orleans,08 27,State Senate,3,DEM,"""Kenn"" Barnes",20
+Orleans,08 27,State Senate,3,DEM,Sidney J. Barthelemy II,50
+Orleans,08 27,State Senate,3,DEM,Jon Johnson,10
+Orleans,08 27,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 01,State Senate,3,DEM,"""Kenn"" Barnes",26
+Orleans,09 01,State Senate,3,DEM,Sidney J. Barthelemy II,26
+Orleans,09 01,State Senate,3,DEM,Jon Johnson,45
+Orleans,09 01,State Senate,3,DEM,Chad Lauga,19
+Orleans,09 03,State Senate,3,DEM,"""Kenn"" Barnes",5
+Orleans,09 03,State Senate,3,DEM,Sidney J. Barthelemy II,24
+Orleans,09 03,State Senate,3,DEM,Jon Johnson,23
+Orleans,09 03,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 04,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,09 04,State Senate,3,DEM,Sidney J. Barthelemy II,12
+Orleans,09 04,State Senate,3,DEM,Jon Johnson,21
+Orleans,09 04,State Senate,3,DEM,Chad Lauga,7
+Orleans,09 05,State Senate,3,DEM,"""Kenn"" Barnes",10
+Orleans,09 05,State Senate,3,DEM,Sidney J. Barthelemy II,20
+Orleans,09 05,State Senate,3,DEM,Jon Johnson,30
+Orleans,09 05,State Senate,3,DEM,Chad Lauga,6
+Orleans,09 06,State Senate,3,DEM,"""Kenn"" Barnes",8
+Orleans,09 06,State Senate,3,DEM,Sidney J. Barthelemy II,38
+Orleans,09 06,State Senate,3,DEM,Jon Johnson,33
+Orleans,09 06,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 07,State Senate,3,DEM,"""Kenn"" Barnes",23
+Orleans,09 07,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,09 07,State Senate,3,DEM,Jon Johnson,25
+Orleans,09 07,State Senate,3,DEM,Chad Lauga,6
+Orleans,09 08,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,09 08,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,09 08,State Senate,3,DEM,Jon Johnson,19
+Orleans,09 08,State Senate,3,DEM,Chad Lauga,6
+Orleans,09 09,State Senate,3,DEM,"""Kenn"" Barnes",25
+Orleans,09 09,State Senate,3,DEM,Sidney J. Barthelemy II,2
+Orleans,09 09,State Senate,3,DEM,Jon Johnson,2
+Orleans,09 09,State Senate,3,DEM,Chad Lauga,18
+Orleans,09 10,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,09 10,State Senate,3,DEM,Sidney J. Barthelemy II,19
+Orleans,09 10,State Senate,3,DEM,Jon Johnson,7
+Orleans,09 10,State Senate,3,DEM,Chad Lauga,18
+Orleans,09 11,State Senate,3,DEM,"""Kenn"" Barnes",40
+Orleans,09 11,State Senate,3,DEM,Sidney J. Barthelemy II,8
+Orleans,09 11,State Senate,3,DEM,Jon Johnson,3
+Orleans,09 11,State Senate,3,DEM,Chad Lauga,8
+Orleans,09 12,State Senate,3,DEM,"""Kenn"" Barnes",35
+Orleans,09 12,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,09 12,State Senate,3,DEM,Jon Johnson,5
+Orleans,09 12,State Senate,3,DEM,Chad Lauga,4
+Orleans,09 13,State Senate,3,DEM,"""Kenn"" Barnes",27
+Orleans,09 13,State Senate,3,DEM,Sidney J. Barthelemy II,8
+Orleans,09 13,State Senate,3,DEM,Jon Johnson,3
+Orleans,09 13,State Senate,3,DEM,Chad Lauga,9
+Orleans,09 14,State Senate,3,DEM,"""Kenn"" Barnes",31
+Orleans,09 14,State Senate,3,DEM,Sidney J. Barthelemy II,17
+Orleans,09 14,State Senate,3,DEM,Jon Johnson,2
+Orleans,09 14,State Senate,3,DEM,Chad Lauga,6
+Orleans,09 15,State Senate,3,DEM,"""Kenn"" Barnes",49
+Orleans,09 15,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,09 15,State Senate,3,DEM,Jon Johnson,3
+Orleans,09 15,State Senate,3,DEM,Chad Lauga,8
+Orleans,09 16,State Senate,3,DEM,"""Kenn"" Barnes",32
+Orleans,09 16,State Senate,3,DEM,Sidney J. Barthelemy II,14
+Orleans,09 16,State Senate,3,DEM,Jon Johnson,4
+Orleans,09 16,State Senate,3,DEM,Chad Lauga,8
+Orleans,09 17,State Senate,3,DEM,"""Kenn"" Barnes",25
+Orleans,09 17,State Senate,3,DEM,Sidney J. Barthelemy II,12
+Orleans,09 17,State Senate,3,DEM,Jon Johnson,6
+Orleans,09 17,State Senate,3,DEM,Chad Lauga,10
+Orleans,09 19,State Senate,3,DEM,"""Kenn"" Barnes",35
+Orleans,09 19,State Senate,3,DEM,Sidney J. Barthelemy II,16
+Orleans,09 19,State Senate,3,DEM,Jon Johnson,4
+Orleans,09 19,State Senate,3,DEM,Chad Lauga,4
+Orleans,09 21,State Senate,3,DEM,"""Kenn"" Barnes",36
+Orleans,09 21,State Senate,3,DEM,Sidney J. Barthelemy II,22
+Orleans,09 21,State Senate,3,DEM,Jon Johnson,8
+Orleans,09 21,State Senate,3,DEM,Chad Lauga,9
+Orleans,09 23,State Senate,3,DEM,"""Kenn"" Barnes",10
+Orleans,09 23,State Senate,3,DEM,Sidney J. Barthelemy II,10
+Orleans,09 23,State Senate,3,DEM,Jon Johnson,5
+Orleans,09 23,State Senate,3,DEM,Chad Lauga,2
+Orleans,09 28,State Senate,3,DEM,"""Kenn"" Barnes",3
+Orleans,09 28,State Senate,3,DEM,Sidney J. Barthelemy II,12
+Orleans,09 28,State Senate,3,DEM,Jon Johnson,9
+Orleans,09 28,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 29,State Senate,3,DEM,"""Kenn"" Barnes",7
+Orleans,09 29,State Senate,3,DEM,Sidney J. Barthelemy II,10
+Orleans,09 29,State Senate,3,DEM,Jon Johnson,3
+Orleans,09 29,State Senate,3,DEM,Chad Lauga,3
+Orleans,09 30,State Senate,3,DEM,"""Kenn"" Barnes",6
+Orleans,09 30,State Senate,3,DEM,Sidney J. Barthelemy II,33
+Orleans,09 30,State Senate,3,DEM,Jon Johnson,9
+Orleans,09 30,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 30A,State Senate,3,DEM,"""Kenn"" Barnes",11
+Orleans,09 30A,State Senate,3,DEM,Sidney J. Barthelemy II,36
+Orleans,09 30A,State Senate,3,DEM,Jon Johnson,11
+Orleans,09 30A,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 31,State Senate,3,DEM,"""Kenn"" Barnes",9
+Orleans,09 31,State Senate,3,DEM,Sidney J. Barthelemy II,37
+Orleans,09 31,State Senate,3,DEM,Jon Johnson,8
+Orleans,09 31,State Senate,3,DEM,Chad Lauga,3
+Orleans,09 31A,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,09 31A,State Senate,3,DEM,Sidney J. Barthelemy II,52
+Orleans,09 31A,State Senate,3,DEM,Jon Johnson,18
+Orleans,09 31A,State Senate,3,DEM,Chad Lauga,5
+Orleans,09 31B,State Senate,3,DEM,"""Kenn"" Barnes",25
+Orleans,09 31B,State Senate,3,DEM,Sidney J. Barthelemy II,25
+Orleans,09 31B,State Senate,3,DEM,Jon Johnson,9
+Orleans,09 31B,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 31D,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,09 31D,State Senate,3,DEM,Sidney J. Barthelemy II,19
+Orleans,09 31D,State Senate,3,DEM,Jon Johnson,11
+Orleans,09 31D,State Senate,3,DEM,Chad Lauga,5
+Orleans,09 32,State Senate,3,DEM,"""Kenn"" Barnes",1
+Orleans,09 32,State Senate,3,DEM,Sidney J. Barthelemy II,3
+Orleans,09 32,State Senate,3,DEM,Jon Johnson,1
+Orleans,09 32,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 39,State Senate,3,DEM,"""Kenn"" Barnes",21
+Orleans,09 39,State Senate,3,DEM,Sidney J. Barthelemy II,44
+Orleans,09 39,State Senate,3,DEM,Jon Johnson,21
+Orleans,09 39,State Senate,3,DEM,Chad Lauga,4
+Orleans,09 39B,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,09 39B,State Senate,3,DEM,Sidney J. Barthelemy II,21
+Orleans,09 39B,State Senate,3,DEM,Jon Johnson,8
+Orleans,09 39B,State Senate,3,DEM,Chad Lauga,3
+Orleans,09 40,State Senate,3,DEM,"""Kenn"" Barnes",8
+Orleans,09 40,State Senate,3,DEM,Sidney J. Barthelemy II,39
+Orleans,09 40,State Senate,3,DEM,Jon Johnson,6
+Orleans,09 40,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 40A,State Senate,3,DEM,"""Kenn"" Barnes",22
+Orleans,09 40A,State Senate,3,DEM,Sidney J. Barthelemy II,50
+Orleans,09 40A,State Senate,3,DEM,Jon Johnson,19
+Orleans,09 40A,State Senate,3,DEM,Chad Lauga,2
+Orleans,09 40C,State Senate,3,DEM,"""Kenn"" Barnes",6
+Orleans,09 40C,State Senate,3,DEM,Sidney J. Barthelemy II,32
+Orleans,09 40C,State Senate,3,DEM,Jon Johnson,14
+Orleans,09 40C,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 41,State Senate,3,DEM,"""Kenn"" Barnes",13
+Orleans,09 41,State Senate,3,DEM,Sidney J. Barthelemy II,52
+Orleans,09 41,State Senate,3,DEM,Jon Johnson,19
+Orleans,09 41,State Senate,3,DEM,Chad Lauga,4
+Orleans,09 41A,State Senate,3,DEM,"""Kenn"" Barnes",6
+Orleans,09 41A,State Senate,3,DEM,Sidney J. Barthelemy II,7
+Orleans,09 41A,State Senate,3,DEM,Jon Johnson,15
+Orleans,09 41A,State Senate,3,DEM,Chad Lauga,4
+Orleans,09 41B,State Senate,3,DEM,"""Kenn"" Barnes",14
+Orleans,09 41B,State Senate,3,DEM,Sidney J. Barthelemy II,38
+Orleans,09 41B,State Senate,3,DEM,Jon Johnson,20
+Orleans,09 41B,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 41C,State Senate,3,DEM,"""Kenn"" Barnes",1
+Orleans,09 41C,State Senate,3,DEM,Sidney J. Barthelemy II,2
+Orleans,09 41C,State Senate,3,DEM,Jon Johnson,5
+Orleans,09 41C,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 41D,State Senate,3,DEM,"""Kenn"" Barnes",7
+Orleans,09 41D,State Senate,3,DEM,Sidney J. Barthelemy II,23
+Orleans,09 41D,State Senate,3,DEM,Jon Johnson,4
+Orleans,09 41D,State Senate,3,DEM,Chad Lauga,0
+Orleans,09 44G,State Senate,3,DEM,"""Kenn"" Barnes",9
+Orleans,09 44G,State Senate,3,DEM,Sidney J. Barthelemy II,30
+Orleans,09 44G,State Senate,3,DEM,Jon Johnson,10
+Orleans,09 44G,State Senate,3,DEM,Chad Lauga,2
+Orleans,09 44I,State Senate,3,DEM,"""Kenn"" Barnes",25
+Orleans,09 44I,State Senate,3,DEM,Sidney J. Barthelemy II,57
+Orleans,09 44I,State Senate,3,DEM,Jon Johnson,29
+Orleans,09 44I,State Senate,3,DEM,Chad Lauga,2
+Orleans,09 44M,State Senate,3,DEM,"""Kenn"" Barnes",36
+Orleans,09 44M,State Senate,3,DEM,Sidney J. Barthelemy II,82
+Orleans,09 44M,State Senate,3,DEM,Jon Johnson,29
+Orleans,09 44M,State Senate,3,DEM,Chad Lauga,1
+Orleans,09 44N,State Senate,3,DEM,"""Kenn"" Barnes",16
+Orleans,09 44N,State Senate,3,DEM,Sidney J. Barthelemy II,50
+Orleans,09 44N,State Senate,3,DEM,Jon Johnson,28
+Orleans,09 44N,State Senate,3,DEM,Chad Lauga,8
+Orleans,09 44O,State Senate,3,DEM,"""Kenn"" Barnes",6
+Orleans,09 44O,State Senate,3,DEM,Sidney J. Barthelemy II,25
+Orleans,09 44O,State Senate,3,DEM,Jon Johnson,10
+Orleans,09 44O,State Senate,3,DEM,Chad Lauga,2
+Orleans,09 44P,State Senate,3,DEM,"""Kenn"" Barnes",35
+Orleans,09 44P,State Senate,3,DEM,Sidney J. Barthelemy II,114
+Orleans,09 44P,State Senate,3,DEM,Jon Johnson,59
+Orleans,09 44P,State Senate,3,DEM,Chad Lauga,9
+Orleans,09 44Q,State Senate,3,DEM,"""Kenn"" Barnes",29
+Orleans,09 44Q,State Senate,3,DEM,Sidney J. Barthelemy II,40
+Orleans,09 44Q,State Senate,3,DEM,Jon Johnson,25
+Orleans,09 44Q,State Senate,3,DEM,Chad Lauga,1
+Orleans,Early Voting,State Senate,3,DEM,"""Kenn"" Barnes",623
+Orleans,Early Voting,State Senate,3,DEM,Sidney J. Barthelemy II,1942
+Orleans,Early Voting,State Senate,3,DEM,Jon Johnson,533
+Orleans,Early Voting,State Senate,3,DEM,Chad Lauga,163
+St. Bernard,00 10,State Senate,3,DEM,"""Kenn"" Barnes",7
+St. Bernard,00 10,State Senate,3,DEM,Sidney J. Barthelemy II,16
+St. Bernard,00 10,State Senate,3,DEM,Jon Johnson,4
+St. Bernard,00 10,State Senate,3,DEM,Chad Lauga,38
+St. Bernard,00 11,State Senate,3,DEM,"""Kenn"" Barnes",0
+St. Bernard,00 11,State Senate,3,DEM,Sidney J. Barthelemy II,9
+St. Bernard,00 11,State Senate,3,DEM,Jon Johnson,7
+St. Bernard,00 11,State Senate,3,DEM,Chad Lauga,62
+St. Bernard,00 12,State Senate,3,DEM,"""Kenn"" Barnes",10
+St. Bernard,00 12,State Senate,3,DEM,Sidney J. Barthelemy II,12
+St. Bernard,00 12,State Senate,3,DEM,Jon Johnson,3
+St. Bernard,00 12,State Senate,3,DEM,Chad Lauga,23
+St. Bernard,00 13,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 13,State Senate,3,DEM,Sidney J. Barthelemy II,11
+St. Bernard,00 13,State Senate,3,DEM,Jon Johnson,9
+St. Bernard,00 13,State Senate,3,DEM,Chad Lauga,49
+St. Bernard,00 14,State Senate,3,DEM,"""Kenn"" Barnes",1
+St. Bernard,00 14,State Senate,3,DEM,Sidney J. Barthelemy II,14
+St. Bernard,00 14,State Senate,3,DEM,Jon Johnson,10
+St. Bernard,00 14,State Senate,3,DEM,Chad Lauga,34
+St. Bernard,00 15,State Senate,3,DEM,"""Kenn"" Barnes",2
+St. Bernard,00 15,State Senate,3,DEM,Sidney J. Barthelemy II,3
+St. Bernard,00 15,State Senate,3,DEM,Jon Johnson,1
+St. Bernard,00 15,State Senate,3,DEM,Chad Lauga,20
+St. Bernard,00 20,State Senate,3,DEM,"""Kenn"" Barnes",4
+St. Bernard,00 20,State Senate,3,DEM,Sidney J. Barthelemy II,1
+St. Bernard,00 20,State Senate,3,DEM,Jon Johnson,8
+St. Bernard,00 20,State Senate,3,DEM,Chad Lauga,33
+St. Bernard,00 21,State Senate,3,DEM,"""Kenn"" Barnes",0
+St. Bernard,00 21,State Senate,3,DEM,Sidney J. Barthelemy II,2
+St. Bernard,00 21,State Senate,3,DEM,Jon Johnson,2
+St. Bernard,00 21,State Senate,3,DEM,Chad Lauga,31
+St. Bernard,00 22,State Senate,3,DEM,"""Kenn"" Barnes",1
+St. Bernard,00 22,State Senate,3,DEM,Sidney J. Barthelemy II,4
+St. Bernard,00 22,State Senate,3,DEM,Jon Johnson,1
+St. Bernard,00 22,State Senate,3,DEM,Chad Lauga,14
+St. Bernard,00 23,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 23,State Senate,3,DEM,Sidney J. Barthelemy II,0
+St. Bernard,00 23,State Senate,3,DEM,Jon Johnson,4
+St. Bernard,00 23,State Senate,3,DEM,Chad Lauga,1
+St. Bernard,00 24,State Senate,3,DEM,"""Kenn"" Barnes",3
+St. Bernard,00 24,State Senate,3,DEM,Sidney J. Barthelemy II,4
+St. Bernard,00 24,State Senate,3,DEM,Jon Johnson,2
+St. Bernard,00 24,State Senate,3,DEM,Chad Lauga,47
+St. Bernard,00 25,State Senate,3,DEM,"""Kenn"" Barnes",4
+St. Bernard,00 25,State Senate,3,DEM,Sidney J. Barthelemy II,1
+St. Bernard,00 25,State Senate,3,DEM,Jon Johnson,3
+St. Bernard,00 25,State Senate,3,DEM,Chad Lauga,24
+St. Bernard,00 30,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 30,State Senate,3,DEM,Sidney J. Barthelemy II,5
+St. Bernard,00 30,State Senate,3,DEM,Jon Johnson,8
+St. Bernard,00 30,State Senate,3,DEM,Chad Lauga,42
+St. Bernard,00 31,State Senate,3,DEM,"""Kenn"" Barnes",6
+St. Bernard,00 31,State Senate,3,DEM,Sidney J. Barthelemy II,4
+St. Bernard,00 31,State Senate,3,DEM,Jon Johnson,3
+St. Bernard,00 31,State Senate,3,DEM,Chad Lauga,23
+St. Bernard,00 32,State Senate,3,DEM,"""Kenn"" Barnes",8
+St. Bernard,00 32,State Senate,3,DEM,Sidney J. Barthelemy II,11
+St. Bernard,00 32,State Senate,3,DEM,Jon Johnson,7
+St. Bernard,00 32,State Senate,3,DEM,Chad Lauga,94
+St. Bernard,00 34,State Senate,3,DEM,"""Kenn"" Barnes",1
+St. Bernard,00 34,State Senate,3,DEM,Sidney J. Barthelemy II,2
+St. Bernard,00 34,State Senate,3,DEM,Jon Johnson,1
+St. Bernard,00 34,State Senate,3,DEM,Chad Lauga,6
+St. Bernard,00 40,State Senate,3,DEM,"""Kenn"" Barnes",4
+St. Bernard,00 40,State Senate,3,DEM,Sidney J. Barthelemy II,1
+St. Bernard,00 40,State Senate,3,DEM,Jon Johnson,2
+St. Bernard,00 40,State Senate,3,DEM,Chad Lauga,2
+St. Bernard,00 42,State Senate,3,DEM,"""Kenn"" Barnes",5
+St. Bernard,00 42,State Senate,3,DEM,Sidney J. Barthelemy II,5
+St. Bernard,00 42,State Senate,3,DEM,Jon Johnson,8
+St. Bernard,00 42,State Senate,3,DEM,Chad Lauga,56
+St. Bernard,00 42A,State Senate,3,DEM,"""Kenn"" Barnes",4
+St. Bernard,00 42A,State Senate,3,DEM,Sidney J. Barthelemy II,8
+St. Bernard,00 42A,State Senate,3,DEM,Jon Johnson,5
+St. Bernard,00 42A,State Senate,3,DEM,Chad Lauga,45
+St. Bernard,00 44,State Senate,3,DEM,"""Kenn"" Barnes",12
+St. Bernard,00 44,State Senate,3,DEM,Sidney J. Barthelemy II,37
+St. Bernard,00 44,State Senate,3,DEM,Jon Johnson,39
+St. Bernard,00 44,State Senate,3,DEM,Chad Lauga,8
+St. Bernard,00 45,State Senate,3,DEM,"""Kenn"" Barnes",22
+St. Bernard,00 45,State Senate,3,DEM,Sidney J. Barthelemy II,18
+St. Bernard,00 45,State Senate,3,DEM,Jon Johnson,12
+St. Bernard,00 45,State Senate,3,DEM,Chad Lauga,4
+St. Bernard,00 46,State Senate,3,DEM,"""Kenn"" Barnes",1
+St. Bernard,00 46,State Senate,3,DEM,Sidney J. Barthelemy II,4
+St. Bernard,00 46,State Senate,3,DEM,Jon Johnson,3
+St. Bernard,00 46,State Senate,3,DEM,Chad Lauga,17
+St. Bernard,00 50,State Senate,3,DEM,"""Kenn"" Barnes",12
+St. Bernard,00 50,State Senate,3,DEM,Sidney J. Barthelemy II,54
+St. Bernard,00 50,State Senate,3,DEM,Jon Johnson,38
+St. Bernard,00 50,State Senate,3,DEM,Chad Lauga,16
+St. Bernard,Early Voting,State Senate,3,DEM,"""Kenn"" Barnes",51
+St. Bernard,Early Voting,State Senate,3,DEM,Sidney J. Barthelemy II,122
+St. Bernard,Early Voting,State Senate,3,DEM,Jon Johnson,90
+St. Bernard,Early Voting,State Senate,3,DEM,Chad Lauga,809
+Calcasieu,00 261,State House,37,REP,"Reese ""Skip"" Broussard",26
+Calcasieu,00 261,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 261,State House,37,NOPTY,Ivy Woods,47
+Calcasieu,00 262,State House,37,REP,"Reese ""Skip"" Broussard",30
+Calcasieu,00 262,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 262,State House,37,NOPTY,Ivy Woods,28
+Calcasieu,00 360,State House,37,REP,"Reese ""Skip"" Broussard",12
+Calcasieu,00 360,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 360,State House,37,NOPTY,Ivy Woods,3
+Calcasieu,00 800,State House,37,REP,"Reese ""Skip"" Broussard",30
+Calcasieu,00 800,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 800,State House,37,NOPTY,Ivy Woods,22
+Calcasieu,00 801,State House,37,REP,"Reese ""Skip"" Broussard",35
+Calcasieu,00 801,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 801,State House,37,NOPTY,Ivy Woods,21
+Calcasieu,00 860N,State House,37,REP,"Reese ""Skip"" Broussard",50
+Calcasieu,00 860N,State House,37,REP,Coy G. Myers,1
+Calcasieu,00 860N,State House,37,NOPTY,Ivy Woods,27
+Calcasieu,00 860S,State House,37,REP,"Reese ""Skip"" Broussard",29
+Calcasieu,00 860S,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 860S,State House,37,NOPTY,Ivy Woods,50
+Calcasieu,00 861E,State House,37,REP,"Reese ""Skip"" Broussard",22
+Calcasieu,00 861E,State House,37,REP,Coy G. Myers,1
+Calcasieu,00 861E,State House,37,NOPTY,Ivy Woods,14
+Calcasieu,00 861W,State House,37,REP,"Reese ""Skip"" Broussard",3
+Calcasieu,00 861W,State House,37,REP,Coy G. Myers,0
+Calcasieu,00 861W,State House,37,NOPTY,Ivy Woods,12
+Calcasieu,Early Voting,State House,37,REP,"Reese ""Skip"" Broussard",111
+Calcasieu,Early Voting,State House,37,REP,Coy G. Myers,7
+Calcasieu,Early Voting,State House,37,NOPTY,Ivy Woods,113
+Jefferson Davis,00 01,State House,37,REP,"Reese ""Skip"" Broussard",66
+Jefferson Davis,00 01,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 01,State House,37,NOPTY,Ivy Woods,58
+Jefferson Davis,00 02,State House,37,REP,"Reese ""Skip"" Broussard",33
+Jefferson Davis,00 02,State House,37,REP,Coy G. Myers,2
+Jefferson Davis,00 02,State House,37,NOPTY,Ivy Woods,31
+Jefferson Davis,00 03,State House,37,REP,"Reese ""Skip"" Broussard",30
+Jefferson Davis,00 03,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 03,State House,37,NOPTY,Ivy Woods,61
+Jefferson Davis,00 04,State House,37,REP,"Reese ""Skip"" Broussard",57
+Jefferson Davis,00 04,State House,37,REP,Coy G. Myers,2
+Jefferson Davis,00 04,State House,37,NOPTY,Ivy Woods,33
+Jefferson Davis,00 05,State House,37,REP,"Reese ""Skip"" Broussard",39
+Jefferson Davis,00 05,State House,37,REP,Coy G. Myers,4
+Jefferson Davis,00 05,State House,37,NOPTY,Ivy Woods,18
+Jefferson Davis,00 05A,State House,37,REP,"Reese ""Skip"" Broussard",3
+Jefferson Davis,00 05A,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 05A,State House,37,NOPTY,Ivy Woods,2
+Jefferson Davis,00 06,State House,37,REP,"Reese ""Skip"" Broussard",58
+Jefferson Davis,00 06,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 06,State House,37,NOPTY,Ivy Woods,19
+Jefferson Davis,00 07,State House,37,REP,"Reese ""Skip"" Broussard",137
+Jefferson Davis,00 07,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 07,State House,37,NOPTY,Ivy Woods,38
+Jefferson Davis,00 08,State House,37,REP,"Reese ""Skip"" Broussard",38
+Jefferson Davis,00 08,State House,37,REP,Coy G. Myers,1
+Jefferson Davis,00 08,State House,37,NOPTY,Ivy Woods,11
+Jefferson Davis,00 08A,State House,37,REP,"Reese ""Skip"" Broussard",5
+Jefferson Davis,00 08A,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 08A,State House,37,NOPTY,Ivy Woods,2
+Jefferson Davis,00 09A,State House,37,REP,"Reese ""Skip"" Broussard",19
+Jefferson Davis,00 09A,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 09A,State House,37,NOPTY,Ivy Woods,11
+Jefferson Davis,00 09B,State House,37,REP,"Reese ""Skip"" Broussard",100
+Jefferson Davis,00 09B,State House,37,REP,Coy G. Myers,1
+Jefferson Davis,00 09B,State House,37,NOPTY,Ivy Woods,29
+Jefferson Davis,00 10,State House,37,REP,"Reese ""Skip"" Broussard",153
+Jefferson Davis,00 10,State House,37,REP,Coy G. Myers,2
+Jefferson Davis,00 10,State House,37,NOPTY,Ivy Woods,50
+Jefferson Davis,00 10A,State House,37,REP,"Reese ""Skip"" Broussard",23
+Jefferson Davis,00 10A,State House,37,REP,Coy G. Myers,1
+Jefferson Davis,00 10A,State House,37,NOPTY,Ivy Woods,4
+Jefferson Davis,00 12,State House,37,REP,"Reese ""Skip"" Broussard",68
+Jefferson Davis,00 12,State House,37,REP,Coy G. Myers,3
+Jefferson Davis,00 12,State House,37,NOPTY,Ivy Woods,36
+Jefferson Davis,00 13,State House,37,REP,"Reese ""Skip"" Broussard",41
+Jefferson Davis,00 13,State House,37,REP,Coy G. Myers,1
+Jefferson Davis,00 13,State House,37,NOPTY,Ivy Woods,22
+Jefferson Davis,00 14,State House,37,REP,"Reese ""Skip"" Broussard",120
+Jefferson Davis,00 14,State House,37,REP,Coy G. Myers,3
+Jefferson Davis,00 14,State House,37,NOPTY,Ivy Woods,68
+Jefferson Davis,00 16,State House,37,REP,"Reese ""Skip"" Broussard",41
+Jefferson Davis,00 16,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 16,State House,37,NOPTY,Ivy Woods,25
+Jefferson Davis,00 16A,State House,37,REP,"Reese ""Skip"" Broussard",5
+Jefferson Davis,00 16A,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 16A,State House,37,NOPTY,Ivy Woods,0
+Jefferson Davis,00 18,State House,37,REP,"Reese ""Skip"" Broussard",26
+Jefferson Davis,00 18,State House,37,REP,Coy G. Myers,1
+Jefferson Davis,00 18,State House,37,NOPTY,Ivy Woods,18
+Jefferson Davis,00 19,State House,37,REP,"Reese ""Skip"" Broussard",265
+Jefferson Davis,00 19,State House,37,REP,Coy G. Myers,2
+Jefferson Davis,00 19,State House,37,NOPTY,Ivy Woods,34
+Jefferson Davis,00 20,State House,37,REP,"Reese ""Skip"" Broussard",77
+Jefferson Davis,00 20,State House,37,REP,Coy G. Myers,3
+Jefferson Davis,00 20,State House,37,NOPTY,Ivy Woods,5
+Jefferson Davis,00 21,State House,37,REP,"Reese ""Skip"" Broussard",179
+Jefferson Davis,00 21,State House,37,REP,Coy G. Myers,1
+Jefferson Davis,00 21,State House,37,NOPTY,Ivy Woods,32
+Jefferson Davis,00 23,State House,37,REP,"Reese ""Skip"" Broussard",193
+Jefferson Davis,00 23,State House,37,REP,Coy G. Myers,4
+Jefferson Davis,00 23,State House,37,NOPTY,Ivy Woods,100
+Jefferson Davis,00 23B,State House,37,REP,"Reese ""Skip"" Broussard",67
+Jefferson Davis,00 23B,State House,37,REP,Coy G. Myers,0
+Jefferson Davis,00 23B,State House,37,NOPTY,Ivy Woods,12
+Jefferson Davis,Early Voting,State House,37,REP,"Reese ""Skip"" Broussard",1430
+Jefferson Davis,Early Voting,State House,37,REP,Coy G. Myers,50
+Jefferson Davis,Early Voting,State House,37,NOPTY,Ivy Woods,631
+Assumption,01 01,State House,60,REP,Brad Daigle,5
+Assumption,01 01,State House,60,DEM,Chasity Verret Martinez,89
+Assumption,01 02,State House,60,REP,Brad Daigle,35
+Assumption,01 02,State House,60,DEM,Chasity Verret Martinez,114
+Assumption,01 03,State House,60,REP,Brad Daigle,8
+Assumption,01 03,State House,60,DEM,Chasity Verret Martinez,7
+Assumption,02 01,State House,60,REP,Brad Daigle,41
+Assumption,02 01,State House,60,DEM,Chasity Verret Martinez,37
+Assumption,04 01,State House,60,REP,Brad Daigle,28
+Assumption,04 01,State House,60,DEM,Chasity Verret Martinez,73
+Assumption,05 01,State House,60,REP,Brad Daigle,4
+Assumption,05 01,State House,60,DEM,Chasity Verret Martinez,24
+Assumption,05 02,State House,60,REP,Brad Daigle,36
+Assumption,05 02,State House,60,DEM,Chasity Verret Martinez,35
+Assumption,05 03,State House,60,REP,Brad Daigle,23
+Assumption,05 03,State House,60,DEM,Chasity Verret Martinez,11
+Assumption,05 05,State House,60,REP,Brad Daigle,0
+Assumption,05 05,State House,60,DEM,Chasity Verret Martinez,1
+Assumption,06 01,State House,60,REP,Brad Daigle,18
+Assumption,06 01,State House,60,DEM,Chasity Verret Martinez,38
+Assumption,06 01 A,State House,60,REP,Brad Daigle,13
+Assumption,06 01 A,State House,60,DEM,Chasity Verret Martinez,43
+Assumption,06 02,State House,60,REP,Brad Daigle,9
+Assumption,06 02,State House,60,DEM,Chasity Verret Martinez,71
+Assumption,06 03,State House,60,REP,Brad Daigle,4
+Assumption,06 03,State House,60,DEM,Chasity Verret Martinez,40
+Assumption,07 01,State House,60,REP,Brad Daigle,38
+Assumption,07 01,State House,60,DEM,Chasity Verret Martinez,38
+Assumption,07 01 A,State House,60,REP,Brad Daigle,31
+Assumption,07 01 A,State House,60,DEM,Chasity Verret Martinez,29
+Assumption,07 02,State House,60,REP,Brad Daigle,17
+Assumption,07 02,State House,60,DEM,Chasity Verret Martinez,12
+Assumption,07 03,State House,60,REP,Brad Daigle,57
+Assumption,07 03,State House,60,DEM,Chasity Verret Martinez,39
+Assumption,08 01,State House,60,REP,Brad Daigle,98
+Assumption,08 01,State House,60,DEM,Chasity Verret Martinez,84
+Assumption,08 01 A,State House,60,REP,Brad Daigle,82
+Assumption,08 01 A,State House,60,DEM,Chasity Verret Martinez,62
+Assumption,09 01,State House,60,REP,Brad Daigle,86
+Assumption,09 01,State House,60,DEM,Chasity Verret Martinez,70
+Assumption,09 01 A,State House,60,REP,Brad Daigle,106
+Assumption,09 01 A,State House,60,DEM,Chasity Verret Martinez,72
+Assumption,Early Voting,State House,60,REP,Brad Daigle,273
+Assumption,Early Voting,State House,60,DEM,Chasity Verret Martinez,401
+Iberville,00 01,State House,60,REP,Brad Daigle,24
+Iberville,00 01,State House,60,DEM,Chasity Verret Martinez,85
+Iberville,00 03,State House,60,REP,Brad Daigle,11
+Iberville,00 03,State House,60,DEM,Chasity Verret Martinez,152
+Iberville,00 04,State House,60,REP,Brad Daigle,82
+Iberville,00 04,State House,60,DEM,Chasity Verret Martinez,128
+Iberville,00 05,State House,60,REP,Brad Daigle,47
+Iberville,00 05,State House,60,DEM,Chasity Verret Martinez,119
+Iberville,00 06,State House,60,REP,Brad Daigle,1
+Iberville,00 06,State House,60,DEM,Chasity Verret Martinez,4
+Iberville,00 07,State House,60,REP,Brad Daigle,14
+Iberville,00 07,State House,60,DEM,Chasity Verret Martinez,128
+Iberville,00 09,State House,60,REP,Brad Daigle,61
+Iberville,00 09,State House,60,DEM,Chasity Verret Martinez,62
+Iberville,00 10,State House,60,REP,Brad Daigle,39
+Iberville,00 10,State House,60,DEM,Chasity Verret Martinez,97
+Iberville,00 10B,State House,60,REP,Brad Daigle,9
+Iberville,00 10B,State House,60,DEM,Chasity Verret Martinez,51
+Iberville,00 11,State House,60,REP,Brad Daigle,20
+Iberville,00 11,State House,60,DEM,Chasity Verret Martinez,155
+Iberville,00 12,State House,60,REP,Brad Daigle,2
+Iberville,00 12,State House,60,DEM,Chasity Verret Martinez,6
+Iberville,00 13,State House,60,REP,Brad Daigle,32
+Iberville,00 13,State House,60,DEM,Chasity Verret Martinez,42
+Iberville,00 14,State House,60,REP,Brad Daigle,42
+Iberville,00 14,State House,60,DEM,Chasity Verret Martinez,39
+Iberville,00 14A,State House,60,REP,Brad Daigle,14
+Iberville,00 14A,State House,60,DEM,Chasity Verret Martinez,103
+Iberville,00 15,State House,60,REP,Brad Daigle,8
+Iberville,00 15,State House,60,DEM,Chasity Verret Martinez,101
+Iberville,00 15A,State House,60,REP,Brad Daigle,33
+Iberville,00 15A,State House,60,DEM,Chasity Verret Martinez,55
+Iberville,00 16,State House,60,REP,Brad Daigle,10
+Iberville,00 16,State House,60,DEM,Chasity Verret Martinez,177
+Iberville,00 17,State House,60,REP,Brad Daigle,92
+Iberville,00 17,State House,60,DEM,Chasity Verret Martinez,81
+Iberville,00 18,State House,60,REP,Brad Daigle,53
+Iberville,00 18,State House,60,DEM,Chasity Verret Martinez,73
+Iberville,00 19,State House,60,REP,Brad Daigle,17
+Iberville,00 19,State House,60,DEM,Chasity Verret Martinez,74
+Iberville,00 20,State House,60,REP,Brad Daigle,6
+Iberville,00 20,State House,60,DEM,Chasity Verret Martinez,14
+Iberville,00 21,State House,60,REP,Brad Daigle,52
+Iberville,00 21,State House,60,DEM,Chasity Verret Martinez,85
+Iberville,00 22,State House,60,REP,Brad Daigle,233
+Iberville,00 22,State House,60,DEM,Chasity Verret Martinez,274
+Iberville,00 24,State House,60,REP,Brad Daigle,80
+Iberville,00 24,State House,60,DEM,Chasity Verret Martinez,138
+Iberville,00 25,State House,60,REP,Brad Daigle,95
+Iberville,00 25,State House,60,DEM,Chasity Verret Martinez,176
+Iberville,00 26,State House,60,REP,Brad Daigle,58
+Iberville,00 26,State House,60,DEM,Chasity Verret Martinez,56
+Iberville,00 27,State House,60,REP,Brad Daigle,78
+Iberville,00 27,State House,60,DEM,Chasity Verret Martinez,86
+Iberville,00 28,State House,60,REP,Brad Daigle,39
+Iberville,00 28,State House,60,DEM,Chasity Verret Martinez,106
+Iberville,00 29,State House,60,REP,Brad Daigle,28
+Iberville,00 29,State House,60,DEM,Chasity Verret Martinez,62
+Iberville,Early Voting,State House,60,REP,Brad Daigle,877
+Iberville,Early Voting,State House,60,DEM,Chasity Verret Martinez,1040
+Orleans,07 17,State House,97,DEM,Eugene Green,11
+Orleans,07 17,State House,97,DEM,"""Ed"" Murray",33
+Orleans,07 18,State House,97,DEM,Eugene Green,30
+Orleans,07 18,State House,97,DEM,"""Ed"" Murray",91
+Orleans,07 19,State House,97,DEM,Eugene Green,29
+Orleans,07 19,State House,97,DEM,"""Ed"" Murray",37
+Orleans,07 23,State House,97,DEM,Eugene Green,48
+Orleans,07 23,State House,97,DEM,"""Ed"" Murray",50
+Orleans,07 24,State House,97,DEM,Eugene Green,6
+Orleans,07 24,State House,97,DEM,"""Ed"" Murray",15
+Orleans,07 25,State House,97,DEM,Eugene Green,51
+Orleans,07 25,State House,97,DEM,"""Ed"" Murray",62
+Orleans,07 25A,State House,97,DEM,Eugene Green,38
+Orleans,07 25A,State House,97,DEM,"""Ed"" Murray",33
+Orleans,07 26,State House,97,DEM,Eugene Green,22
+Orleans,07 26,State House,97,DEM,"""Ed"" Murray",33
+Orleans,07 27,State House,97,DEM,Eugene Green,27
+Orleans,07 27,State House,97,DEM,"""Ed"" Murray",11
+Orleans,07 28,State House,97,DEM,Eugene Green,23
+Orleans,07 28,State House,97,DEM,"""Ed"" Murray",26
+Orleans,07 28A,State House,97,DEM,Eugene Green,36
+Orleans,07 28A,State House,97,DEM,"""Ed"" Murray",40
+Orleans,07 29,State House,97,DEM,Eugene Green,43
+Orleans,07 29,State House,97,DEM,"""Ed"" Murray",37
+Orleans,07 30,State House,97,DEM,Eugene Green,61
+Orleans,07 30,State House,97,DEM,"""Ed"" Murray",83
+Orleans,07 32,State House,97,DEM,Eugene Green,26
+Orleans,07 32,State House,97,DEM,"""Ed"" Murray",40
+Orleans,07 33,State House,97,DEM,Eugene Green,38
+Orleans,07 33,State House,97,DEM,"""Ed"" Murray",37
+Orleans,07 35,State House,97,DEM,Eugene Green,69
+Orleans,07 35,State House,97,DEM,"""Ed"" Murray",58
+Orleans,07 37,State House,97,DEM,Eugene Green,28
+Orleans,07 37,State House,97,DEM,"""Ed"" Murray",27
+Orleans,07 37A,State House,97,DEM,Eugene Green,8
+Orleans,07 37A,State House,97,DEM,"""Ed"" Murray",19
+Orleans,07 40,State House,97,DEM,Eugene Green,51
+Orleans,07 40,State House,97,DEM,"""Ed"" Murray",99
+Orleans,08 13,State House,97,DEM,Eugene Green,19
+Orleans,08 13,State House,97,DEM,"""Ed"" Murray",17
+Orleans,08 14,State House,97,DEM,Eugene Green,16
+Orleans,08 14,State House,97,DEM,"""Ed"" Murray",17
+Orleans,08 15,State House,97,DEM,Eugene Green,72
+Orleans,08 15,State House,97,DEM,"""Ed"" Murray",85
+Orleans,08 19,State House,97,DEM,Eugene Green,46
+Orleans,08 19,State House,97,DEM,"""Ed"" Murray",49
+Orleans,08 20,State House,97,DEM,Eugene Green,34
+Orleans,08 20,State House,97,DEM,"""Ed"" Murray",28
+Orleans,08 21,State House,97,DEM,Eugene Green,30
+Orleans,08 21,State House,97,DEM,"""Ed"" Murray",72
+Orleans,08 22,State House,97,DEM,Eugene Green,35
+Orleans,08 22,State House,97,DEM,"""Ed"" Murray",46
+Orleans,08 23,State House,97,DEM,Eugene Green,49
+Orleans,08 23,State House,97,DEM,"""Ed"" Murray",50
+Orleans,08 24,State House,97,DEM,Eugene Green,39
+Orleans,08 24,State House,97,DEM,"""Ed"" Murray",54
+Orleans,08 25,State House,97,DEM,Eugene Green,59
+Orleans,08 25,State House,97,DEM,"""Ed"" Murray",58
+Orleans,08 26,State House,97,DEM,Eugene Green,58
+Orleans,08 26,State House,97,DEM,"""Ed"" Murray",51
+Orleans,08 27,State House,97,DEM,Eugene Green,46
+Orleans,08 27,State House,97,DEM,"""Ed"" Murray",34
+Orleans,08 28,State House,97,DEM,Eugene Green,56
+Orleans,08 28,State House,97,DEM,"""Ed"" Murray",40
+Orleans,08 30,State House,97,DEM,Eugene Green,43
+Orleans,08 30,State House,97,DEM,"""Ed"" Murray",42
+Orleans,09 29,State House,97,DEM,Eugene Green,12
+Orleans,09 29,State House,97,DEM,"""Ed"" Murray",11
+Orleans,09 30,State House,97,DEM,Eugene Green,36
+Orleans,09 30,State House,97,DEM,"""Ed"" Murray",12
+Orleans,09 30A,State House,97,DEM,Eugene Green,37
+Orleans,09 30A,State House,97,DEM,"""Ed"" Murray",22
+Orleans,09 31,State House,97,DEM,Eugene Green,25
+Orleans,09 31,State House,97,DEM,"""Ed"" Murray",31
+Orleans,09 31A,State House,97,DEM,Eugene Green,62
+Orleans,09 31A,State House,97,DEM,"""Ed"" Murray",36
+Orleans,09 31B,State House,97,DEM,Eugene Green,38
+Orleans,09 31B,State House,97,DEM,"""Ed"" Murray",19
+Orleans,09 31D,State House,97,DEM,Eugene Green,59
+Orleans,09 31D,State House,97,DEM,"""Ed"" Murray",36
+Orleans,09 33,State House,97,DEM,Eugene Green,32
+Orleans,09 33,State House,97,DEM,"""Ed"" Murray",13
+Orleans,Early Voting,State House,97,DEM,Eugene Green,941
+Orleans,Early Voting,State House,97,DEM,"""Ed"" Murray",1073
+Orleans,09 39,State House,100,DEM,Patricia Boyd Robertson,15
+Orleans,09 39,State House,100,DEM,Dana Henry,15
+Orleans,09 39,State House,100,DEM,Aeisha Kelly,31
+Orleans,09 39,State House,100,DEM,Kenya Rounds,25
+Orleans,09 39,State House,100,DEM,Candice Taylor,4
+Orleans,09 39B,State House,100,DEM,Patricia Boyd Robertson,16
+Orleans,09 39B,State House,100,DEM,Dana Henry,7
+Orleans,09 39B,State House,100,DEM,Aeisha Kelly,5
+Orleans,09 39B,State House,100,DEM,Kenya Rounds,15
+Orleans,09 39B,State House,100,DEM,Candice Taylor,3
+Orleans,09 40,State House,100,DEM,Patricia Boyd Robertson,9
+Orleans,09 40,State House,100,DEM,Dana Henry,8
+Orleans,09 40,State House,100,DEM,Aeisha Kelly,11
+Orleans,09 40,State House,100,DEM,Kenya Rounds,25
+Orleans,09 40,State House,100,DEM,Candice Taylor,0
+Orleans,09 40A,State House,100,DEM,Patricia Boyd Robertson,19
+Orleans,09 40A,State House,100,DEM,Dana Henry,18
+Orleans,09 40A,State House,100,DEM,Aeisha Kelly,22
+Orleans,09 40A,State House,100,DEM,Kenya Rounds,26
+Orleans,09 40A,State House,100,DEM,Candice Taylor,5
+Orleans,09 40C,State House,100,DEM,Patricia Boyd Robertson,7
+Orleans,09 40C,State House,100,DEM,Dana Henry,11
+Orleans,09 40C,State House,100,DEM,Aeisha Kelly,15
+Orleans,09 40C,State House,100,DEM,Kenya Rounds,16
+Orleans,09 40C,State House,100,DEM,Candice Taylor,4
+Orleans,09 41,State House,100,DEM,Patricia Boyd Robertson,23
+Orleans,09 41,State House,100,DEM,Dana Henry,20
+Orleans,09 41,State House,100,DEM,Aeisha Kelly,14
+Orleans,09 41,State House,100,DEM,Kenya Rounds,25
+Orleans,09 41,State House,100,DEM,Candice Taylor,5
+Orleans,09 41A,State House,100,DEM,Patricia Boyd Robertson,8
+Orleans,09 41A,State House,100,DEM,Dana Henry,7
+Orleans,09 41A,State House,100,DEM,Aeisha Kelly,4
+Orleans,09 41A,State House,100,DEM,Kenya Rounds,8
+Orleans,09 41A,State House,100,DEM,Candice Taylor,3
+Orleans,09 41B,State House,100,DEM,Patricia Boyd Robertson,12
+Orleans,09 41B,State House,100,DEM,Dana Henry,17
+Orleans,09 41B,State House,100,DEM,Aeisha Kelly,8
+Orleans,09 41B,State House,100,DEM,Kenya Rounds,28
+Orleans,09 41B,State House,100,DEM,Candice Taylor,6
+Orleans,09 41C,State House,100,DEM,Patricia Boyd Robertson,0
+Orleans,09 41C,State House,100,DEM,Dana Henry,7
+Orleans,09 41C,State House,100,DEM,Aeisha Kelly,0
+Orleans,09 41C,State House,100,DEM,Kenya Rounds,2
+Orleans,09 41C,State House,100,DEM,Candice Taylor,0
+Orleans,09 41D,State House,100,DEM,Patricia Boyd Robertson,7
+Orleans,09 41D,State House,100,DEM,Dana Henry,9
+Orleans,09 41D,State House,100,DEM,Aeisha Kelly,5
+Orleans,09 41D,State House,100,DEM,Kenya Rounds,10
+Orleans,09 41D,State House,100,DEM,Candice Taylor,1
+Orleans,09 43G,State House,100,DEM,Patricia Boyd Robertson,8
+Orleans,09 43G,State House,100,DEM,Dana Henry,26
+Orleans,09 43G,State House,100,DEM,Aeisha Kelly,21
+Orleans,09 43G,State House,100,DEM,Kenya Rounds,43
+Orleans,09 43G,State House,100,DEM,Candice Taylor,2
+Orleans,09 43J,State House,100,DEM,Patricia Boyd Robertson,5
+Orleans,09 43J,State House,100,DEM,Dana Henry,20
+Orleans,09 43J,State House,100,DEM,Aeisha Kelly,7
+Orleans,09 43J,State House,100,DEM,Kenya Rounds,12
+Orleans,09 43J,State House,100,DEM,Candice Taylor,3
+Orleans,09 43K,State House,100,DEM,Patricia Boyd Robertson,5
+Orleans,09 43K,State House,100,DEM,Dana Henry,13
+Orleans,09 43K,State House,100,DEM,Aeisha Kelly,7
+Orleans,09 43K,State House,100,DEM,Kenya Rounds,17
+Orleans,09 43K,State House,100,DEM,Candice Taylor,4
+Orleans,09 43L,State House,100,DEM,Patricia Boyd Robertson,5
+Orleans,09 43L,State House,100,DEM,Dana Henry,7
+Orleans,09 43L,State House,100,DEM,Aeisha Kelly,8
+Orleans,09 43L,State House,100,DEM,Kenya Rounds,14
+Orleans,09 43L,State House,100,DEM,Candice Taylor,2
+Orleans,09 44,State House,100,DEM,Patricia Boyd Robertson,11
+Orleans,09 44,State House,100,DEM,Dana Henry,21
+Orleans,09 44,State House,100,DEM,Aeisha Kelly,11
+Orleans,09 44,State House,100,DEM,Kenya Rounds,12
+Orleans,09 44,State House,100,DEM,Candice Taylor,6
+Orleans,09 44A,State House,100,DEM,Patricia Boyd Robertson,6
+Orleans,09 44A,State House,100,DEM,Dana Henry,20
+Orleans,09 44A,State House,100,DEM,Aeisha Kelly,3
+Orleans,09 44A,State House,100,DEM,Kenya Rounds,18
+Orleans,09 44A,State House,100,DEM,Candice Taylor,5
+Orleans,09 44B,State House,100,DEM,Patricia Boyd Robertson,4
+Orleans,09 44B,State House,100,DEM,Dana Henry,14
+Orleans,09 44B,State House,100,DEM,Aeisha Kelly,7
+Orleans,09 44B,State House,100,DEM,Kenya Rounds,20
+Orleans,09 44B,State House,100,DEM,Candice Taylor,3
+Orleans,09 44D,State House,100,DEM,Patricia Boyd Robertson,8
+Orleans,09 44D,State House,100,DEM,Dana Henry,15
+Orleans,09 44D,State House,100,DEM,Aeisha Kelly,4
+Orleans,09 44D,State House,100,DEM,Kenya Rounds,13
+Orleans,09 44D,State House,100,DEM,Candice Taylor,3
+Orleans,09 44E,State House,100,DEM,Patricia Boyd Robertson,23
+Orleans,09 44E,State House,100,DEM,Dana Henry,29
+Orleans,09 44E,State House,100,DEM,Aeisha Kelly,21
+Orleans,09 44E,State House,100,DEM,Kenya Rounds,32
+Orleans,09 44E,State House,100,DEM,Candice Taylor,7
+Orleans,09 44F,State House,100,DEM,Patricia Boyd Robertson,22
+Orleans,09 44F,State House,100,DEM,Dana Henry,20
+Orleans,09 44F,State House,100,DEM,Aeisha Kelly,27
+Orleans,09 44F,State House,100,DEM,Kenya Rounds,32
+Orleans,09 44F,State House,100,DEM,Candice Taylor,7
+Orleans,09 44G,State House,100,DEM,Patricia Boyd Robertson,8
+Orleans,09 44G,State House,100,DEM,Dana Henry,12
+Orleans,09 44G,State House,100,DEM,Aeisha Kelly,7
+Orleans,09 44G,State House,100,DEM,Kenya Rounds,16
+Orleans,09 44G,State House,100,DEM,Candice Taylor,5
+Orleans,09 44I,State House,100,DEM,Patricia Boyd Robertson,14
+Orleans,09 44I,State House,100,DEM,Dana Henry,44
+Orleans,09 44I,State House,100,DEM,Aeisha Kelly,19
+Orleans,09 44I,State House,100,DEM,Kenya Rounds,30
+Orleans,09 44I,State House,100,DEM,Candice Taylor,8
+Orleans,09 44J,State House,100,DEM,Patricia Boyd Robertson,11
+Orleans,09 44J,State House,100,DEM,Dana Henry,12
+Orleans,09 44J,State House,100,DEM,Aeisha Kelly,6
+Orleans,09 44J,State House,100,DEM,Kenya Rounds,24
+Orleans,09 44J,State House,100,DEM,Candice Taylor,13
+Orleans,09 44L,State House,100,DEM,Patricia Boyd Robertson,11
+Orleans,09 44L,State House,100,DEM,Dana Henry,30
+Orleans,09 44L,State House,100,DEM,Aeisha Kelly,16
+Orleans,09 44L,State House,100,DEM,Kenya Rounds,23
+Orleans,09 44L,State House,100,DEM,Candice Taylor,6
+Orleans,09 44M,State House,100,DEM,Patricia Boyd Robertson,17
+Orleans,09 44M,State House,100,DEM,Dana Henry,54
+Orleans,09 44M,State House,100,DEM,Aeisha Kelly,18
+Orleans,09 44M,State House,100,DEM,Kenya Rounds,51
+Orleans,09 44M,State House,100,DEM,Candice Taylor,11
+Orleans,09 44N,State House,100,DEM,Patricia Boyd Robertson,10
+Orleans,09 44N,State House,100,DEM,Dana Henry,37
+Orleans,09 44N,State House,100,DEM,Aeisha Kelly,16
+Orleans,09 44N,State House,100,DEM,Kenya Rounds,31
+Orleans,09 44N,State House,100,DEM,Candice Taylor,8
+Orleans,09 44O,State House,100,DEM,Patricia Boyd Robertson,15
+Orleans,09 44O,State House,100,DEM,Dana Henry,11
+Orleans,09 44O,State House,100,DEM,Aeisha Kelly,9
+Orleans,09 44O,State House,100,DEM,Kenya Rounds,6
+Orleans,09 44O,State House,100,DEM,Candice Taylor,4
+Orleans,09 44P,State House,100,DEM,Patricia Boyd Robertson,19
+Orleans,09 44P,State House,100,DEM,Dana Henry,56
+Orleans,09 44P,State House,100,DEM,Aeisha Kelly,37
+Orleans,09 44P,State House,100,DEM,Kenya Rounds,95
+Orleans,09 44P,State House,100,DEM,Candice Taylor,15
+Orleans,09 44Q,State House,100,DEM,Patricia Boyd Robertson,27
+Orleans,09 44Q,State House,100,DEM,Dana Henry,17
+Orleans,09 44Q,State House,100,DEM,Aeisha Kelly,14
+Orleans,09 44Q,State House,100,DEM,Kenya Rounds,33
+Orleans,09 44Q,State House,100,DEM,Candice Taylor,4
+Orleans,09 45,State House,100,DEM,Patricia Boyd Robertson,9
+Orleans,09 45,State House,100,DEM,Dana Henry,14
+Orleans,09 45,State House,100,DEM,Aeisha Kelly,1
+Orleans,09 45,State House,100,DEM,Kenya Rounds,3
+Orleans,09 45,State House,100,DEM,Candice Taylor,2
+Orleans,09 45A,State House,100,DEM,Patricia Boyd Robertson,4
+Orleans,09 45A,State House,100,DEM,Dana Henry,1
+Orleans,09 45A,State House,100,DEM,Aeisha Kelly,0
+Orleans,09 45A,State House,100,DEM,Kenya Rounds,0
+Orleans,09 45A,State House,100,DEM,Candice Taylor,1
+Orleans,Early Voting,State House,100,DEM,Patricia Boyd Robertson,266
+Orleans,Early Voting,State House,100,DEM,Dana Henry,637
+Orleans,Early Voting,State House,100,DEM,Aeisha Kelly,214
+Orleans,Early Voting,State House,100,DEM,Kenya Rounds,650
+Orleans,Early Voting,State House,100,DEM,Candice Taylor,142
