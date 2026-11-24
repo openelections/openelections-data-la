@@ -1,17 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-,Total Votes,President,,DEM,Hillary Clinton,780154
-,Total Votes,President,,GRN,Jill Stein,14031
-,Total Votes,President,,LBT,Gary Johnson,37978
-,Total Votes,President,,REP,Donald Trump,1178638
-,Total Votes,President,,OTHER,Darrell Castle,3129
-,Total Votes,President,,OTHER,Evan McMullin,8547
-,Total Votes,President,,OTHER,Laurence Kotlikoff,1048
-,Total Votes,President,,OTHER,Tom Hoefling,1581
-,Total Votes,President,,OTHER,Princess Jacob,749
-,Total Votes,President,,OTHER,Gloria La Riva,446
-,Total Votes,President,,OTHER,Jerry White,370
-,Total Votes,President,,OTHER,Alyson Kennedy,480
-,Total Votes,President,,OTHER,Chris Keniston,1881
 Acadia,01 01,President,,DEM,Hillary Clinton,79
 Acadia,01 01,President,,GRN,Jill Stein,6
 Acadia,01 01,President,,LBT,Gary Johnson,11
@@ -52428,30 +52415,6 @@ Winn,Provisional Votes,President,,OTHER,Gloria La Riva,0
 Winn,Provisional Votes,President,,OTHER,Jerry White,0
 Winn,Provisional Votes,President,,OTHER,Alyson Kennedy,0
 Winn,Provisional Votes,President,,OTHER,Chris Keniston,0
-,Total Votes,U.S. Senate,,NOPTY,Beryl Billiot,19352
-,Total Votes,U.S. Senate,,REP,Charles Boustany,298008
-,Total Votes,U.S. Senate,,DEM,Foster Campbell,337833
-,Total Votes,U.S. Senate,,REP,"""Joseph"" Cao",21019
-,Total Votes,U.S. Senate,,LBT,Thomas P. Clements,11370
-,Total Votes,U.S. Senate,,REP,"Donald ""Crawdaddy"" Crawford",25523
-,Total Votes,U.S. Senate,,REP,David Duke,58606
-,Total Votes,U.S. Senate,,DEM,Derrick Edwards,51774
-,Total Votes,U.S. Senate,,DEM,Caroline Fayard,240917
-,Total Votes,U.S. Senate,,REP,John Fleming,204026
-,Total Votes,U.S. Senate,,LBT,Le Roy Gillam,4067
-,Total Votes,U.S. Senate,,NOPTY,Troy Hebert,9503
-,Total Votes,U.S. Senate,,REP,John Kennedy,482591
-,Total Votes,U.S. Senate,,DEM,Gary Landrieu,45587
-,Total Votes,U.S. Senate,,OTHER,"William Robert ""Bob"" Lang, Jr.",1424
-,Total Votes,U.S. Senate,,REP,"""Rob"" Maness",90856
-,Total Votes,U.S. Senate,,NOPTY,Kaitlin Marone,4108
-,Total Votes,U.S. Senate,,REP,Charles Marsala,3684
-,Total Votes,U.S. Senate,,DEM,"MV ""Vinny"" Mendoza",4927
-,Total Votes,U.S. Senate,,REP,Abhay Patel,1576
-,Total Votes,U.S. Senate,,DEM,Joshua Pellerin,7395
-,Total Votes,U.S. Senate,,OTHER,"Gregory Taylor, Jr.",1151
-,Total Votes,U.S. Senate,,NOPTY,Arden Wells,1483
-,Total Votes,U.S. Senate,,DEM,Peter Williams,6855
 Acadia,01 01,U.S. Senate,,NOPTY,Beryl Billiot,12
 Acadia,01 01,U.S. Senate,,REP,Charles Boustany,367
 Acadia,01 01,U.S. Senate,,DEM,Foster Campbell,36
@@ -149220,13 +149183,6 @@ Winn,Provisional Votes,U.S. Senate,,DEM,Joshua Pellerin,0
 Winn,Provisional Votes,U.S. Senate,,OTHER,"Gregory Taylor, Jr.",0
 Winn,Provisional Votes,U.S. Senate,,NOPTY,Arden Wells,0
 Winn,Provisional Votes,U.S. Senate,,DEM,Peter Williams,0
-,Total Votes,U.S. House,1,GRN,Eliot Barron,6717
-,Total Votes,U.S. House,1,DEM,Lee Ann Dugas,41840
-,Total Votes,U.S. House,1,DEM,Danil Ezekiel Faust,12708
-,Total Votes,U.S. House,1,LBT,Howard Kearney,9405
-,Total Votes,U.S. House,1,REP,Steve Scalise,243645
-,Total Votes,U.S. House,1,DEM,"Joseph ""Joe"" Swider",9237
-,Total Votes,U.S. House,1,NOPTY,Chuemai Yang,3236
 Jefferson,00 001,U.S. House,1,GRN,Eliot Barron,15
 Jefferson,00 001,U.S. House,1,DEM,Lee Ann Dugas,53
 Jefferson,00 001,U.S. House,1,DEM,Danil Ezekiel Faust,14
@@ -153126,9 +153082,6 @@ Terrebonne,Provisional Votes,U.S. House,1,LBT,Howard Kearney,0
 Terrebonne,Provisional Votes,U.S. House,1,REP,Steve Scalise,0
 Terrebonne,Provisional Votes,U.S. House,1,DEM,"Joseph ""Joe"" Swider",0
 Terrebonne,Provisional Votes,U.S. House,1,NOPTY,Chuemai Yang,0
-,Total Votes,U.S. House,2,DEM,Kenneth Cutno,28855
-,Total Votes,U.S. House,2,DEM,"Melvin L. ""Kip"" Holden",57125
-,Total Votes,U.S. House,2,DEM,Cedric Richmond,198289
 Ascension,00 30,U.S. House,2,DEM,Kenneth Cutno,85
 Ascension,00 30,U.S. House,2,DEM,"Melvin L. ""Kip"" Holden",103
 Ascension,00 30,U.S. House,2,DEM,Cedric Richmond,96
@@ -155157,18 +155110,6 @@ West Baton Rouge,Early Voting,U.S. House,2,DEM,Cedric Richmond,813
 West Baton Rouge,Provisional Votes,U.S. House,2,DEM,Kenneth Cutno,0
 West Baton Rouge,Provisional Votes,U.S. House,2,DEM,"Melvin L. ""Kip"" Holden",0
 West Baton Rouge,Provisional Votes,U.S. House,2,DEM,Cedric Richmond,0
-,Total Votes,U.S. House,3,REP,Scott A. Angelle,91532
-,Total Votes,U.S. House,3,REP,Bryan Barrilleaux,6223
-,Total Votes,U.S. House,3,REP,"""Greg"" Ellison",24882
-,Total Votes,U.S. House,3,REP,Brett Geymann,21607
-,Total Votes,U.S. House,3,DEM,"Jacob ""Dorian Phibian"" Hebert",28385
-,Total Votes,U.S. House,3,REP,Clay Higgins,84912
-,Total Votes,U.S. House,3,LBT,Guy McLendon,2937
-,Total Votes,U.S. House,3,DEM,Larry Rader,27830
-,Total Votes,U.S. House,3,REP,"""Gus"" Rantz",25662
-,Total Votes,U.S. House,3,REP,Grover Joseph Rees,2457
-,Total Votes,U.S. House,3,NOPTY,"Kenny P. Scelfo, Sr.",2670
-,Total Votes,U.S. House,3,REP,Herman L. Vidrine,1357
 Acadia,01 01,U.S. House,3,REP,Scott A. Angelle,222
 Acadia,01 01,U.S. House,3,REP,Bryan Barrilleaux,15
 Acadia,01 01,U.S. House,3,REP,"""Greg"" Ellison",41
@@ -162213,14 +162154,6 @@ Vermilion,Provisional Votes,U.S. House,3,REP,"""Gus"" Rantz",0
 Vermilion,Provisional Votes,U.S. House,3,REP,Grover Joseph Rees,0
 Vermilion,Provisional Votes,U.S. House,3,NOPTY,"Kenny P. Scelfo, Sr.",0
 Vermilion,Provisional Votes,U.S. House,3,REP,Herman L. Vidrine,0
-,Total Votes,U.S. House,4,REP,"Ralph ""Trey"" Baucum",50412
-,Total Votes,U.S. House,4,REP,Elbert Guillory,21017
-,Total Votes,U.S. House,4,NOPTY,Mark David Halverson,3149
-,Total Votes,U.S. House,4,REP,Oliver Jenkins,44521
-,Total Votes,U.S. House,4,REP,"""Rick"" John",13220
-,Total Votes,U.S. House,4,REP,"""Mike"" Johnson",70580
-,Total Votes,U.S. House,4,DEM,Marshall Jones,80593
-,Total Votes,U.S. House,4,NOPTY,Kenneth J. Krefft,2493
 Allen,01 01,U.S. House,4,REP,"Ralph ""Trey"" Baucum",20
 Allen,01 01,U.S. House,4,REP,Elbert Guillory,27
 Allen,01 01,U.S. House,4,NOPTY,Mark David Halverson,3
@@ -168461,8 +168394,6 @@ Webster,Provisional Votes,U.S. House,4,REP,"""Rick"" John",0
 Webster,Provisional Votes,U.S. House,4,REP,"""Mike"" Johnson",0
 Webster,Provisional Votes,U.S. House,4,DEM,Marshall Jones,1
 Webster,Provisional Votes,U.S. House,4,NOPTY,Kenneth J. Krefft,0
-,Total Votes,U.S. House,5,REP,"Ralph Abraham, Jr.",208545
-,Total Votes,U.S. House,5,REP,Billy Burkette,47117
 Avoyelles,01 01,U.S. House,5,REP,"Ralph Abraham, Jr.",377
 Avoyelles,01 01,U.S. House,5,REP,Billy Burkette,85
 Avoyelles,01 02,U.S. House,5,REP,"Ralph Abraham, Jr.",362
@@ -170207,12 +170138,6 @@ Winn,Early Voting,U.S. House,5,REP,"Ralph Abraham, Jr.",1518
 Winn,Early Voting,U.S. House,5,REP,Billy Burkette,273
 Winn,Provisional Votes,U.S. House,5,REP,"Ralph Abraham, Jr.",2
 Winn,Provisional Votes,U.S. House,5,REP,Billy Burkette,0
-,Total Votes,U.S. House,6,REP,"Robert Lamar ""Bob"" Bell",33592
-,Total Votes,U.S. House,6,LBT,Richard M. Fontanesi,7603
-,Total Votes,U.S. House,6,OTHER,Devin Lance Graham,3218
-,Total Votes,U.S. House,6,REP,Garret Graves,207483
-,Total Votes,U.S. House,6,DEM,Richard Lieberman,49380
-,Total Votes,U.S. House,6,DEM,Jermaine Sampson,29822
 Ascension,00 01 A,U.S. House,6,REP,"Robert Lamar ""Bob"" Bell",58
 Ascension,00 01 A,U.S. House,6,LBT,Richard M. Fontanesi,9
 Ascension,00 01 A,U.S. House,6,OTHER,Devin Lance Graham,9
