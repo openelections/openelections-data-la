@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-,Total Votes,U.S. Senate,,DEM,Foster Campbell,347816
-,Total Votes,U.S. Senate,,REP,John Kennedy,536191
 Acadia,01 01,U.S. Senate,,DEM,Foster Campbell,53
 Acadia,01 01,U.S. Senate,,REP,John Kennedy,305
 Acadia,01 02A,U.S. Senate,,DEM,Foster Campbell,24
@@ -8065,8 +8063,6 @@ Winn,Early Voting,U.S. Senate,,DEM,Foster Campbell,134
 Winn,Early Voting,U.S. Senate,,REP,John Kennedy,471
 Winn,Provisional Votes,U.S. Senate,,DEM,Foster Campbell,0
 Winn,Provisional Votes,U.S. Senate,,REP,John Kennedy,0
-,Total Votes,U.S. House,3,REP,Scott A. Angelle,60762
-,Total Votes,U.S. House,3,REP,Clay Higgins,77671
 Acadia,01 01,U.S. House,3,REP,Scott A. Angelle,82
 Acadia,01 01,U.S. House,3,REP,Clay Higgins,278
 Acadia,01 02A,U.S. House,3,REP,Scott A. Angelle,35
@@ -9241,8 +9237,6 @@ Vermilion,Early Voting,U.S. House,3,REP,Scott A. Angelle,851
 Vermilion,Early Voting,U.S. House,3,REP,Clay Higgins,1654
 Vermilion,Provisional Votes,U.S. House,3,REP,Scott A. Angelle,0
 Vermilion,Provisional Votes,U.S. House,3,REP,Clay Higgins,0
-,Total Votes,U.S. House,4,REP,"""Mike"" Johnson",87370
-,Total Votes,U.S. House,4,DEM,Marshall Jones,46579
 Allen,01 01,U.S. House,4,REP,"""Mike"" Johnson",49
 Allen,01 01,U.S. House,4,DEM,Marshall Jones,23
 Allen,01 02,U.S. House,4,REP,"""Mike"" Johnson",51

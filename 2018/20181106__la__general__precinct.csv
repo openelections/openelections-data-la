@@ -1,13 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-,Total Votes,Secretary of State,,REP,Kyle Ardoin,298657
-,Total Votes,Secretary of State,,REP,Heather Cloud,71195
-,Total Votes,Secretary of State,,DEM,"""Gwen"" Collins-Greenup",289097
-,Total Votes,Secretary of State,,REP,A.G. Crowe,71495
-,Total Votes,Secretary of State,,REP,"""Rick"" Edmonds",164955
-,Total Votes,Secretary of State,,DEM,Renee Fontenot Free,239116
-,Total Votes,Secretary of State,,REP,Thomas J. Kennedy III,137050
-,Total Votes,Secretary of State,,NOPTY,"Matthew Paul ""Matt"" Moreau",21579
-,Total Votes,Secretary of State,,REP,Julie Stokes,163773
 Acadia,01 01,Secretary of State,,REP,Kyle Ardoin,249
 Acadia,01 01,Secretary of State,,REP,Heather Cloud,45
 Acadia,01 01,Secretary of State,,DEM,"""Gwen"" Collins-Greenup",18
@@ -35774,12 +35765,6 @@ Winn,Early Voting,Secretary of State,,DEM,Renee Fontenot Free,82
 Winn,Early Voting,Secretary of State,,REP,Thomas J. Kennedy III,140
 Winn,Early Voting,Secretary of State,,NOPTY,"Matthew Paul ""Matt"" Moreau",11
 Winn,Early Voting,Secretary of State,,REP,Julie Stokes,52
-,Total Votes,U.S. House,1,DEM,Lee Ann Dugas,18560
-,Total Votes,U.S. House,1,DEM,"""Jim"" Francis",8688
-,Total Votes,U.S. House,1,IND,"Frederick ""Ferd"" Jones",2443
-,Total Votes,U.S. House,1,LBT,Howard Kearney,2806
-,Total Votes,U.S. House,1,DEM,Tammy M. Savoie,44273
-,Total Votes,U.S. House,1,REP,Steve Scalise,192555
 Jefferson,00 001,U.S. House,1,DEM,Lee Ann Dugas,30
 Jefferson,00 001,U.S. House,1,DEM,"""Jim"" Francis",13
 Jefferson,00 001,U.S. House,1,IND,"Frederick ""Ferd"" Jones",3
@@ -39140,10 +39125,12 @@ Terrebonne,Early Voting,U.S. House,1,IND,"Frederick ""Ferd"" Jones",25
 Terrebonne,Early Voting,U.S. House,1,LBT,Howard Kearney,22
 Terrebonne,Early Voting,U.S. House,1,DEM,Tammy M. Savoie,409
 Terrebonne,Early Voting,U.S. House,1,REP,Steve Scalise,3182
-,Total Votes,U.S. House,2,IND,"Belden ""Noonie Man"" Batiste",17260
-,Total Votes,U.S. House,2,DEM,Cedric Richmond,190182
-,Total Votes,U.S. House,2,NOPTY,Shawndra Rodriguez,8075
-,Total Votes,U.S. House,2,NOPTY,Jesse Schmidt,20465
+Terrebonne,Provisional Votes,U.S. House,1,DEM,Lee Ann Dugas,0
+Terrebonne,Provisional Votes,U.S. House,1,DEM,"""Jim"" Francis",0
+Terrebonne,Provisional Votes,U.S. House,1,IND,"Frederick ""Ferd"" Jones",0
+Terrebonne,Provisional Votes,U.S. House,1,LBT,Howard Kearney,0
+Terrebonne,Provisional Votes,U.S. House,1,DEM,Tammy M. Savoie,0
+Terrebonne,Provisional Votes,U.S. House,1,REP,Steve Scalise,0
 Ascension,00 30,U.S. House,2,IND,"Belden ""Noonie Man"" Batiste",22
 Ascension,00 30,U.S. House,2,DEM,Cedric Richmond,151
 Ascension,00 30,U.S. House,2,NOPTY,Shawndra Rodriguez,14
@@ -41840,13 +41827,10 @@ West Baton Rouge,Early Voting,U.S. House,2,IND,"Belden ""Noonie Man"" Batiste",5
 West Baton Rouge,Early Voting,U.S. House,2,DEM,Cedric Richmond,543
 West Baton Rouge,Early Voting,U.S. House,2,NOPTY,Shawndra Rodriguez,42
 West Baton Rouge,Early Voting,U.S. House,2,NOPTY,Jesse Schmidt,169
-,Total Votes,U.S. House,3,DEM,"""Rob"" Anderson",13477
-,Total Votes,U.S. House,3,LBT,Aaron J. Andrus,2967
-,Total Votes,U.S. House,3,REP,"""Josh"" Guillory",31387
-,Total Votes,U.S. House,3,REP,Clay Higgins,136876
-,Total Votes,U.S. House,3,DEM,"Mildred ""Mimi"" Methvin",43729
-,Total Votes,U.S. House,3,DEM,Larry Rader,9692
-,Total Votes,U.S. House,3,DEM,Verone Thomas,7815
+West Baton Rouge,Provisional Votes,U.S. House,2,IND,"Belden ""Noonie Man"" Batiste",0
+West Baton Rouge,Provisional Votes,U.S. House,2,DEM,Cedric Richmond,0
+West Baton Rouge,Provisional Votes,U.S. House,2,NOPTY,Shawndra Rodriguez,0
+West Baton Rouge,Provisional Votes,U.S. House,2,NOPTY,Jesse Schmidt,0
 Acadia,01 01,U.S. House,3,DEM,"""Rob"" Anderson",17
 Acadia,01 01,U.S. House,3,LBT,Aaron J. Andrus,2
 Acadia,01 01,U.S. House,3,REP,"""Josh"" Guillory",91
@@ -45949,9 +45933,13 @@ Vermilion,Early Voting,U.S. House,3,REP,Clay Higgins,2406
 Vermilion,Early Voting,U.S. House,3,DEM,"Mildred ""Mimi"" Methvin",415
 Vermilion,Early Voting,U.S. House,3,DEM,Larry Rader,41
 Vermilion,Early Voting,U.S. House,3,DEM,Verone Thomas,28
-,Total Votes,U.S. House,4,NOPTY,Mark David Halverson,4612
-,Total Votes,U.S. House,4,REP,"""Mike"" Johnson",139326
-,Total Votes,U.S. House,4,DEM,Ryan Trundle,72934
+Vermilion,Provisional Votes,U.S. House,3,DEM,"""Rob"" Anderson",0
+Vermilion,Provisional Votes,U.S. House,3,LBT,Aaron J. Andrus,0
+Vermilion,Provisional Votes,U.S. House,3,REP,"""Josh"" Guillory",0
+Vermilion,Provisional Votes,U.S. House,3,REP,Clay Higgins,0
+Vermilion,Provisional Votes,U.S. House,3,DEM,"Mildred ""Mimi"" Methvin",0
+Vermilion,Provisional Votes,U.S. House,3,DEM,Larry Rader,0
+Vermilion,Provisional Votes,U.S. House,3,DEM,Verone Thomas,0
 Allen,01 01,U.S. House,4,NOPTY,Mark David Halverson,3
 Allen,01 01,U.S. House,4,REP,"""Mike"" Johnson",65
 Allen,01 01,U.S. House,4,DEM,Ryan Trundle,51
@@ -48289,10 +48277,9 @@ Webster,00 43,U.S. House,4,DEM,Ryan Trundle,114
 Webster,Early Voting,U.S. House,4,NOPTY,Mark David Halverson,63
 Webster,Early Voting,U.S. House,4,REP,"""Mike"" Johnson",1990
 Webster,Early Voting,U.S. House,4,DEM,Ryan Trundle,1142
-,Total Votes,U.S. House,5,REP,Ralph Abraham,149018
-,Total Votes,U.S. House,5,IND,Billy Burkette,4799
-,Total Votes,U.S. House,5,DEM,Jessee Carlton Fleenor,67118
-,Total Votes,U.S. House,5,LBT,Kyle Randol,3011
+Webster,Provisional Votes,U.S. House,4,NOPTY,Mark David Halverson,0
+Webster,Provisional Votes,U.S. House,4,REP,"""Mike"" Johnson",0
+Webster,Provisional Votes,U.S. House,4,DEM,Ryan Trundle,0
 Avoyelles,01 01,U.S. House,5,REP,Ralph Abraham,395
 Avoyelles,01 01,U.S. House,5,IND,Billy Burkette,9
 Avoyelles,01 01,U.S. House,5,DEM,Jessee Carlton Fleenor,29
@@ -51785,10 +51772,10 @@ Winn,Early Voting,U.S. House,5,REP,Ralph Abraham,680
 Winn,Early Voting,U.S. House,5,IND,Billy Burkette,14
 Winn,Early Voting,U.S. House,5,DEM,Jessee Carlton Fleenor,164
 Winn,Early Voting,U.S. House,5,LBT,Kyle Randol,8
-,Total Votes,U.S. House,6,DEM,Justin Dewitt,55089
-,Total Votes,U.S. House,6,IND,Devin Lance Graham,5256
-,Total Votes,U.S. House,6,REP,Garret Graves,186553
-,Total Votes,U.S. House,6,DEM,"""Andie"" Saizan",21627
+Winn,Provisional Votes,U.S. House,5,REP,Ralph Abraham,0
+Winn,Provisional Votes,U.S. House,5,IND,Billy Burkette,0
+Winn,Provisional Votes,U.S. House,5,DEM,Jessee Carlton Fleenor,0
+Winn,Provisional Votes,U.S. House,5,LBT,Kyle Randol,0
 Ascension,00 01 A,U.S. House,6,DEM,Justin Dewitt,59
 Ascension,00 01 A,U.S. House,6,IND,Devin Lance Graham,7
 Ascension,00 01 A,U.S. House,6,REP,Garret Graves,348
@@ -54157,528 +54144,522 @@ West Baton Rouge,Early Voting,U.S. House,6,DEM,Justin Dewitt,159
 West Baton Rouge,Early Voting,U.S. House,6,IND,Devin Lance Graham,15
 West Baton Rouge,Early Voting,U.S. House,6,REP,Garret Graves,829
 West Baton Rouge,Early Voting,U.S. House,6,DEM,"""Andie"" Saizan",71
-,Total Votes,State Senate,26,REP,Jerry Gaspard,159
-,Total Votes,State Senate,26,REP,"""Bob"" Hensgens",15
-,Total Votes,State Senate,26,DEM,Jean Menard,829
-Acadia,01 01,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 01,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 01,State Senate,26,DEM,Jean Menard,829
-Acadia,01 02A,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 02A,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 02A,State Senate,26,DEM,Jean Menard,829
-Acadia,01 02B,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 02B,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 02B,State Senate,26,DEM,Jean Menard,829
-Acadia,01 03A,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 03A,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 03A,State Senate,26,DEM,Jean Menard,829
-Acadia,01 03B,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 03B,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 03B,State Senate,26,DEM,Jean Menard,829
-Acadia,01 04A,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 04A,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 04A,State Senate,26,DEM,Jean Menard,829
-Acadia,01 04B,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 04B,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 04B,State Senate,26,DEM,Jean Menard,829
-Acadia,01 05A,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 05A,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 05A,State Senate,26,DEM,Jean Menard,829
-Acadia,01 05B,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 05B,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 05B,State Senate,26,DEM,Jean Menard,829
-Acadia,01 06,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 06,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 06,State Senate,26,DEM,Jean Menard,829
-Acadia,01 07,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 07,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 07,State Senate,26,DEM,Jean Menard,829
-Acadia,01 08,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 08,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 08,State Senate,26,DEM,Jean Menard,829
-Acadia,01 09,State Senate,26,REP,Jerry Gaspard,159
-Acadia,01 09,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,01 09,State Senate,26,DEM,Jean Menard,829
-Acadia,02 01,State Senate,26,REP,Jerry Gaspard,159
-Acadia,02 01,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,02 01,State Senate,26,DEM,Jean Menard,829
-Acadia,03 01,State Senate,26,REP,Jerry Gaspard,159
-Acadia,03 01,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,03 01,State Senate,26,DEM,Jean Menard,829
-Acadia,03 03A,State Senate,26,REP,Jerry Gaspard,159
-Acadia,03 03A,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,03 03A,State Senate,26,DEM,Jean Menard,829
-Acadia,03 03B,State Senate,26,REP,Jerry Gaspard,159
-Acadia,03 03B,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,03 03B,State Senate,26,DEM,Jean Menard,829
-Acadia,03 04,State Senate,26,REP,Jerry Gaspard,159
-Acadia,03 04,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,03 04,State Senate,26,DEM,Jean Menard,829
-Acadia,03 06,State Senate,26,REP,Jerry Gaspard,159
-Acadia,03 06,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,03 06,State Senate,26,DEM,Jean Menard,829
-Acadia,03 07,State Senate,26,REP,Jerry Gaspard,159
-Acadia,03 07,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,03 07,State Senate,26,DEM,Jean Menard,829
-Acadia,Early Voting,State Senate,26,REP,Jerry Gaspard,159
-Acadia,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",15
-Acadia,Early Voting,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 001,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 001,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 001,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 003,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 003,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 003,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 008,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 008,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 008,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 026,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 026,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 026,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 027,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 027,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 027,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 028,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 028,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 028,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 029 Y,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 029 Y,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 029 Y,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 029 Z,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 029 Z,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 029 Z,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 031,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 031,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 031,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 032,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 032,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 032,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 035,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 035,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 035,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 036,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 036,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 036,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 037,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 037,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 037,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 071,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 071,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 071,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 114,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 114,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 114,State Senate,26,DEM,Jean Menard,829
-Lafayette,00 119,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,00 119,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,00 119,State Senate,26,DEM,Jean Menard,829
-Lafayette,Early Voting,State Senate,26,REP,Jerry Gaspard,159
-Lafayette,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",15
-Lafayette,Early Voting,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 02,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 02,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 02,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 02A,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 02A,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 02A,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 03,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 03,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 03,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 05,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 05,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 05,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 05A,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 05A,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 05A,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 05B,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 05B,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 05B,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 07,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 07,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 07,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 08,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 08,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 08,State Senate,26,DEM,Jean Menard,829
-St. Landry,02 09,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,02 09,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,02 09,State Senate,26,DEM,Jean Menard,829
-St. Landry,Early Voting,State Senate,26,REP,Jerry Gaspard,159
-St. Landry,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",15
-St. Landry,Early Voting,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 01,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 01,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 01,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 02,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 02,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 02,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 05A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 05A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 05A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 06,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 06,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 06,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 07A-1,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 07A-1,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 07A-1,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 07B,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 07B,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 07B,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 08B,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 08B,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 08B,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 09,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 09,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 09,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 10A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 10A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 10A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 11,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 11,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 11,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 12,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 12,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 12,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 14,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 14,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 14,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 16,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 16,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 16,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 18,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 18,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 18,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 19A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 19A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 19A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 19A-1,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 19A-1,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 19A-1,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 19B,State Senate,26,REP,Jerry Gaspard,159
+West Baton Rouge,Provisional Votes,U.S. House,6,DEM,Justin Dewitt,0
+West Baton Rouge,Provisional Votes,U.S. House,6,IND,Devin Lance Graham,0
+West Baton Rouge,Provisional Votes,U.S. House,6,REP,Garret Graves,0
+West Baton Rouge,Provisional Votes,U.S. House,6,DEM,"""Andie"" Saizan",0
+Acadia,01 01,State Senate,26,REP,Jerry Gaspard,71
+Acadia,01 01,State Senate,26,REP,"""Bob"" Hensgens",440
+Acadia,01 01,State Senate,26,DEM,Jean Menard,60
+Acadia,01 02A,State Senate,26,REP,Jerry Gaspard,28
+Acadia,01 02A,State Senate,26,REP,"""Bob"" Hensgens",119
+Acadia,01 02A,State Senate,26,DEM,Jean Menard,60
+Acadia,01 02B,State Senate,26,REP,Jerry Gaspard,35
+Acadia,01 02B,State Senate,26,REP,"""Bob"" Hensgens",191
+Acadia,01 02B,State Senate,26,DEM,Jean Menard,41
+Acadia,01 03A,State Senate,26,REP,Jerry Gaspard,34
+Acadia,01 03A,State Senate,26,REP,"""Bob"" Hensgens",256
+Acadia,01 03A,State Senate,26,DEM,Jean Menard,39
+Acadia,01 03B,State Senate,26,REP,Jerry Gaspard,30
+Acadia,01 03B,State Senate,26,REP,"""Bob"" Hensgens",132
+Acadia,01 03B,State Senate,26,DEM,Jean Menard,77
+Acadia,01 04A,State Senate,26,REP,Jerry Gaspard,34
+Acadia,01 04A,State Senate,26,REP,"""Bob"" Hensgens",183
+Acadia,01 04A,State Senate,26,DEM,Jean Menard,24
+Acadia,01 04B,State Senate,26,REP,Jerry Gaspard,39
+Acadia,01 04B,State Senate,26,REP,"""Bob"" Hensgens",189
+Acadia,01 04B,State Senate,26,DEM,Jean Menard,51
+Acadia,01 05A,State Senate,26,REP,Jerry Gaspard,26
+Acadia,01 05A,State Senate,26,REP,"""Bob"" Hensgens",108
+Acadia,01 05A,State Senate,26,DEM,Jean Menard,38
+Acadia,01 05B,State Senate,26,REP,Jerry Gaspard,16
+Acadia,01 05B,State Senate,26,REP,"""Bob"" Hensgens",57
+Acadia,01 05B,State Senate,26,DEM,Jean Menard,99
+Acadia,01 06,State Senate,26,REP,Jerry Gaspard,16
+Acadia,01 06,State Senate,26,REP,"""Bob"" Hensgens",32
+Acadia,01 06,State Senate,26,DEM,Jean Menard,175
+Acadia,01 07,State Senate,26,REP,Jerry Gaspard,28
+Acadia,01 07,State Senate,26,REP,"""Bob"" Hensgens",51
+Acadia,01 07,State Senate,26,DEM,Jean Menard,200
+Acadia,01 08,State Senate,26,REP,Jerry Gaspard,53
+Acadia,01 08,State Senate,26,REP,"""Bob"" Hensgens",187
+Acadia,01 08,State Senate,26,DEM,Jean Menard,58
+Acadia,01 09,State Senate,26,REP,Jerry Gaspard,43
+Acadia,01 09,State Senate,26,REP,"""Bob"" Hensgens",228
+Acadia,01 09,State Senate,26,DEM,Jean Menard,24
+Acadia,02 01,State Senate,26,REP,Jerry Gaspard,87
+Acadia,02 01,State Senate,26,REP,"""Bob"" Hensgens",369
+Acadia,02 01,State Senate,26,DEM,Jean Menard,47
+Acadia,03 01,State Senate,26,REP,Jerry Gaspard,52
+Acadia,03 01,State Senate,26,REP,"""Bob"" Hensgens",313
+Acadia,03 01,State Senate,26,DEM,Jean Menard,105
+Acadia,03 03A,State Senate,26,REP,Jerry Gaspard,62
+Acadia,03 03A,State Senate,26,REP,"""Bob"" Hensgens",390
+Acadia,03 03A,State Senate,26,DEM,Jean Menard,89
+Acadia,03 03B,State Senate,26,REP,Jerry Gaspard,29
+Acadia,03 03B,State Senate,26,REP,"""Bob"" Hensgens",163
+Acadia,03 03B,State Senate,26,DEM,Jean Menard,53
+Acadia,03 04,State Senate,26,REP,Jerry Gaspard,11
+Acadia,03 04,State Senate,26,REP,"""Bob"" Hensgens",53
+Acadia,03 04,State Senate,26,DEM,Jean Menard,206
+Acadia,03 06,State Senate,26,REP,Jerry Gaspard,17
+Acadia,03 06,State Senate,26,REP,"""Bob"" Hensgens",143
+Acadia,03 06,State Senate,26,DEM,Jean Menard,32
+Acadia,03 07,State Senate,26,REP,Jerry Gaspard,60
+Acadia,03 07,State Senate,26,REP,"""Bob"" Hensgens",347
+Acadia,03 07,State Senate,26,DEM,Jean Menard,55
+Acadia,Early Voting,State Senate,26,REP,Jerry Gaspard,149
+Acadia,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",809
+Acadia,Early Voting,State Senate,26,DEM,Jean Menard,294
+Lafayette,00 001,State Senate,26,REP,Jerry Gaspard,196
+Lafayette,00 001,State Senate,26,REP,"""Bob"" Hensgens",318
+Lafayette,00 001,State Senate,26,DEM,Jean Menard,197
+Lafayette,00 003,State Senate,26,REP,Jerry Gaspard,143
+Lafayette,00 003,State Senate,26,REP,"""Bob"" Hensgens",252
+Lafayette,00 003,State Senate,26,DEM,Jean Menard,120
+Lafayette,00 008,State Senate,26,REP,Jerry Gaspard,103
+Lafayette,00 008,State Senate,26,REP,"""Bob"" Hensgens",205
+Lafayette,00 008,State Senate,26,DEM,Jean Menard,258
+Lafayette,00 026,State Senate,26,REP,Jerry Gaspard,90
+Lafayette,00 026,State Senate,26,REP,"""Bob"" Hensgens",149
+Lafayette,00 026,State Senate,26,DEM,Jean Menard,162
+Lafayette,00 027,State Senate,26,REP,Jerry Gaspard,54
+Lafayette,00 027,State Senate,26,REP,"""Bob"" Hensgens",141
+Lafayette,00 027,State Senate,26,DEM,Jean Menard,99
+Lafayette,00 028,State Senate,26,REP,Jerry Gaspard,175
+Lafayette,00 028,State Senate,26,REP,"""Bob"" Hensgens",486
+Lafayette,00 028,State Senate,26,DEM,Jean Menard,143
+Lafayette,00 029 Y,State Senate,26,REP,Jerry Gaspard,181
+Lafayette,00 029 Y,State Senate,26,REP,"""Bob"" Hensgens",272
+Lafayette,00 029 Y,State Senate,26,DEM,Jean Menard,146
+Lafayette,00 029 Z,State Senate,26,REP,Jerry Gaspard,152
+Lafayette,00 029 Z,State Senate,26,REP,"""Bob"" Hensgens",289
+Lafayette,00 029 Z,State Senate,26,DEM,Jean Menard,129
+Lafayette,00 031,State Senate,26,REP,Jerry Gaspard,125
+Lafayette,00 031,State Senate,26,REP,"""Bob"" Hensgens",240
+Lafayette,00 031,State Senate,26,DEM,Jean Menard,173
+Lafayette,00 032,State Senate,26,REP,Jerry Gaspard,163
+Lafayette,00 032,State Senate,26,REP,"""Bob"" Hensgens",332
+Lafayette,00 032,State Senate,26,DEM,Jean Menard,218
+Lafayette,00 035,State Senate,26,REP,Jerry Gaspard,135
+Lafayette,00 035,State Senate,26,REP,"""Bob"" Hensgens",227
+Lafayette,00 035,State Senate,26,DEM,Jean Menard,105
+Lafayette,00 036,State Senate,26,REP,Jerry Gaspard,242
+Lafayette,00 036,State Senate,26,REP,"""Bob"" Hensgens",395
+Lafayette,00 036,State Senate,26,DEM,Jean Menard,233
+Lafayette,00 037,State Senate,26,REP,Jerry Gaspard,239
+Lafayette,00 037,State Senate,26,REP,"""Bob"" Hensgens",437
+Lafayette,00 037,State Senate,26,DEM,Jean Menard,186
+Lafayette,00 071,State Senate,26,REP,Jerry Gaspard,100
+Lafayette,00 071,State Senate,26,REP,"""Bob"" Hensgens",191
+Lafayette,00 071,State Senate,26,DEM,Jean Menard,122
+Lafayette,00 114,State Senate,26,REP,Jerry Gaspard,74
+Lafayette,00 114,State Senate,26,REP,"""Bob"" Hensgens",104
+Lafayette,00 114,State Senate,26,DEM,Jean Menard,32
+Lafayette,00 119,State Senate,26,REP,Jerry Gaspard,88
+Lafayette,00 119,State Senate,26,REP,"""Bob"" Hensgens",230
+Lafayette,00 119,State Senate,26,DEM,Jean Menard,56
+Lafayette,Early Voting,State Senate,26,REP,Jerry Gaspard,306
+Lafayette,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",517
+Lafayette,Early Voting,State Senate,26,DEM,Jean Menard,302
+St. Landry,02 02,State Senate,26,REP,Jerry Gaspard,70
+St. Landry,02 02,State Senate,26,REP,"""Bob"" Hensgens",231
+St. Landry,02 02,State Senate,26,DEM,Jean Menard,52
+St. Landry,02 02A,State Senate,26,REP,Jerry Gaspard,13
+St. Landry,02 02A,State Senate,26,REP,"""Bob"" Hensgens",34
+St. Landry,02 02A,State Senate,26,DEM,Jean Menard,59
+St. Landry,02 03,State Senate,26,REP,Jerry Gaspard,85
+St. Landry,02 03,State Senate,26,REP,"""Bob"" Hensgens",233
+St. Landry,02 03,State Senate,26,DEM,Jean Menard,76
+St. Landry,02 05,State Senate,26,REP,Jerry Gaspard,46
+St. Landry,02 05,State Senate,26,REP,"""Bob"" Hensgens",99
+St. Landry,02 05,State Senate,26,DEM,Jean Menard,56
+St. Landry,02 05A,State Senate,26,REP,Jerry Gaspard,42
+St. Landry,02 05A,State Senate,26,REP,"""Bob"" Hensgens",104
+St. Landry,02 05A,State Senate,26,DEM,Jean Menard,53
+St. Landry,02 05B,State Senate,26,REP,Jerry Gaspard,63
+St. Landry,02 05B,State Senate,26,REP,"""Bob"" Hensgens",87
+St. Landry,02 05B,State Senate,26,DEM,Jean Menard,26
+St. Landry,02 07,State Senate,26,REP,Jerry Gaspard,27
+St. Landry,02 07,State Senate,26,REP,"""Bob"" Hensgens",36
+St. Landry,02 07,State Senate,26,DEM,Jean Menard,15
+St. Landry,02 08,State Senate,26,REP,Jerry Gaspard,24
+St. Landry,02 08,State Senate,26,REP,"""Bob"" Hensgens",118
+St. Landry,02 08,State Senate,26,DEM,Jean Menard,25
+St. Landry,02 09,State Senate,26,REP,Jerry Gaspard,32
+St. Landry,02 09,State Senate,26,REP,"""Bob"" Hensgens",87
+St. Landry,02 09,State Senate,26,DEM,Jean Menard,67
+St. Landry,Early Voting,State Senate,26,REP,Jerry Gaspard,48
+St. Landry,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",100
+St. Landry,Early Voting,State Senate,26,DEM,Jean Menard,38
+Vermilion,00 01,State Senate,26,REP,Jerry Gaspard,50
+Vermilion,00 01,State Senate,26,REP,"""Bob"" Hensgens",425
+Vermilion,00 01,State Senate,26,DEM,Jean Menard,31
+Vermilion,00 02,State Senate,26,REP,Jerry Gaspard,55
+Vermilion,00 02,State Senate,26,REP,"""Bob"" Hensgens",279
+Vermilion,00 02,State Senate,26,DEM,Jean Menard,49
+Vermilion,00 05A,State Senate,26,REP,Jerry Gaspard,36
+Vermilion,00 05A,State Senate,26,REP,"""Bob"" Hensgens",140
+Vermilion,00 05A,State Senate,26,DEM,Jean Menard,10
+Vermilion,00 06,State Senate,26,REP,Jerry Gaspard,52
+Vermilion,00 06,State Senate,26,REP,"""Bob"" Hensgens",230
+Vermilion,00 06,State Senate,26,DEM,Jean Menard,32
+Vermilion,00 07A-1,State Senate,26,REP,Jerry Gaspard,11
+Vermilion,00 07A-1,State Senate,26,REP,"""Bob"" Hensgens",43
+Vermilion,00 07A-1,State Senate,26,DEM,Jean Menard,0
+Vermilion,00 07B,State Senate,26,REP,Jerry Gaspard,77
+Vermilion,00 07B,State Senate,26,REP,"""Bob"" Hensgens",227
+Vermilion,00 07B,State Senate,26,DEM,Jean Menard,32
+Vermilion,00 08B,State Senate,26,REP,Jerry Gaspard,40
+Vermilion,00 08B,State Senate,26,REP,"""Bob"" Hensgens",97
+Vermilion,00 08B,State Senate,26,DEM,Jean Menard,9
+Vermilion,00 09,State Senate,26,REP,Jerry Gaspard,52
+Vermilion,00 09,State Senate,26,REP,"""Bob"" Hensgens",218
+Vermilion,00 09,State Senate,26,DEM,Jean Menard,59
+Vermilion,00 10A,State Senate,26,REP,Jerry Gaspard,36
+Vermilion,00 10A,State Senate,26,REP,"""Bob"" Hensgens",197
+Vermilion,00 10A,State Senate,26,DEM,Jean Menard,45
+Vermilion,00 11,State Senate,26,REP,Jerry Gaspard,34
+Vermilion,00 11,State Senate,26,REP,"""Bob"" Hensgens",158
+Vermilion,00 11,State Senate,26,DEM,Jean Menard,46
+Vermilion,00 12,State Senate,26,REP,Jerry Gaspard,20
+Vermilion,00 12,State Senate,26,REP,"""Bob"" Hensgens",80
+Vermilion,00 12,State Senate,26,DEM,Jean Menard,130
+Vermilion,00 14,State Senate,26,REP,Jerry Gaspard,153
+Vermilion,00 14,State Senate,26,REP,"""Bob"" Hensgens",355
+Vermilion,00 14,State Senate,26,DEM,Jean Menard,52
+Vermilion,00 16,State Senate,26,REP,Jerry Gaspard,8
+Vermilion,00 16,State Senate,26,REP,"""Bob"" Hensgens",69
+Vermilion,00 16,State Senate,26,DEM,Jean Menard,6
+Vermilion,00 18,State Senate,26,REP,Jerry Gaspard,132
+Vermilion,00 18,State Senate,26,REP,"""Bob"" Hensgens",588
+Vermilion,00 18,State Senate,26,DEM,Jean Menard,81
+Vermilion,00 19A,State Senate,26,REP,Jerry Gaspard,103
+Vermilion,00 19A,State Senate,26,REP,"""Bob"" Hensgens",394
+Vermilion,00 19A,State Senate,26,DEM,Jean Menard,60
+Vermilion,00 19A-1,State Senate,26,REP,Jerry Gaspard,6
+Vermilion,00 19A-1,State Senate,26,REP,"""Bob"" Hensgens",85
+Vermilion,00 19A-1,State Senate,26,DEM,Jean Menard,30
+Vermilion,00 19B,State Senate,26,REP,Jerry Gaspard,3
 Vermilion,00 19B,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 19B,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 20A-2,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 20A-2,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 20A-2,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 20B-1,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 20B-1,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 20B-1,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 21,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 21,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 21,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 21A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 21A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 21A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 23,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 23,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 23,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 24,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 24,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 24,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 25,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 25,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 25,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 25A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 25A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 25A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 26,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 26,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 26,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 26A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 26A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 26A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 28,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 28,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 28,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 29,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 29,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 29,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 32B,State Senate,26,REP,Jerry Gaspard,159
+Vermilion,00 19B,State Senate,26,DEM,Jean Menard,2
+Vermilion,00 20A-2,State Senate,26,REP,Jerry Gaspard,17
+Vermilion,00 20A-2,State Senate,26,REP,"""Bob"" Hensgens",34
+Vermilion,00 20A-2,State Senate,26,DEM,Jean Menard,14
+Vermilion,00 20B-1,State Senate,26,REP,Jerry Gaspard,32
+Vermilion,00 20B-1,State Senate,26,REP,"""Bob"" Hensgens",113
+Vermilion,00 20B-1,State Senate,26,DEM,Jean Menard,7
+Vermilion,00 21,State Senate,26,REP,Jerry Gaspard,6
+Vermilion,00 21,State Senate,26,REP,"""Bob"" Hensgens",47
+Vermilion,00 21,State Senate,26,DEM,Jean Menard,4
+Vermilion,00 21A,State Senate,26,REP,Jerry Gaspard,14
+Vermilion,00 21A,State Senate,26,REP,"""Bob"" Hensgens",122
+Vermilion,00 21A,State Senate,26,DEM,Jean Menard,8
+Vermilion,00 23,State Senate,26,REP,Jerry Gaspard,51
+Vermilion,00 23,State Senate,26,REP,"""Bob"" Hensgens",274
+Vermilion,00 23,State Senate,26,DEM,Jean Menard,39
+Vermilion,00 24,State Senate,26,REP,Jerry Gaspard,61
+Vermilion,00 24,State Senate,26,REP,"""Bob"" Hensgens",206
+Vermilion,00 24,State Senate,26,DEM,Jean Menard,56
+Vermilion,00 25,State Senate,26,REP,Jerry Gaspard,169
+Vermilion,00 25,State Senate,26,REP,"""Bob"" Hensgens",447
+Vermilion,00 25,State Senate,26,DEM,Jean Menard,141
+Vermilion,00 25A,State Senate,26,REP,Jerry Gaspard,12
+Vermilion,00 25A,State Senate,26,REP,"""Bob"" Hensgens",91
+Vermilion,00 25A,State Senate,26,DEM,Jean Menard,12
+Vermilion,00 26,State Senate,26,REP,Jerry Gaspard,67
+Vermilion,00 26,State Senate,26,REP,"""Bob"" Hensgens",246
+Vermilion,00 26,State Senate,26,DEM,Jean Menard,40
+Vermilion,00 26A,State Senate,26,REP,Jerry Gaspard,44
+Vermilion,00 26A,State Senate,26,REP,"""Bob"" Hensgens",142
+Vermilion,00 26A,State Senate,26,DEM,Jean Menard,38
+Vermilion,00 28,State Senate,26,REP,Jerry Gaspard,39
+Vermilion,00 28,State Senate,26,REP,"""Bob"" Hensgens",272
+Vermilion,00 28,State Senate,26,DEM,Jean Menard,40
+Vermilion,00 29,State Senate,26,REP,Jerry Gaspard,28
+Vermilion,00 29,State Senate,26,REP,"""Bob"" Hensgens",189
+Vermilion,00 29,State Senate,26,DEM,Jean Menard,42
+Vermilion,00 32B,State Senate,26,REP,Jerry Gaspard,6
 Vermilion,00 32B,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 32B,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 34,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 34,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 34,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 34A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 34A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 34A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 35,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 35,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 35,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 36A-1,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 36A-1,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 36A-1,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 37,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 37,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 37,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 38,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 38,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 38,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 39,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 39,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 39,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 40,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 40,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 40,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 41,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 41,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 41,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 42A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 42A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 42A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 42B,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 42B,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 42B,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 44,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 44,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 44,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 45A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 45A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 45A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 46A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 46A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 46A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 46B-1,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 46B-1,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 46B-1,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 46B-2,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 46B-2,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 46B-2,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 46B-3,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 46B-3,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 46B-3,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 46B-4,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 46B-4,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 46B-4,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 49B-1,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 49B-1,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 49B-1,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 49B-2,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 49B-2,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 49B-2,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 50A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 50A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 50A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 51,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 51,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 51,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 53,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 53,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 53,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 57A,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 57A,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 57A,State Senate,26,DEM,Jean Menard,829
-Vermilion,00 57B,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,00 57B,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,00 57B,State Senate,26,DEM,Jean Menard,829
-Vermilion,Early Voting,State Senate,26,REP,Jerry Gaspard,159
-Vermilion,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",15
-Vermilion,Early Voting,State Senate,26,DEM,Jean Menard,829
-,Total Votes,State House,33,DEM,"""Les"" Farnum",159
-,Total Votes,State House,33,DEM,Teri A. Johnson,15
-,Total Votes,State House,33,REP,Stuart Moss,829
-Calcasieu,00 400,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 400,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 400,State House,33,REP,Stuart Moss,829
-Calcasieu,00 401,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 401,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 401,State House,33,REP,Stuart Moss,829
-Calcasieu,00 402,State House,33,DEM,"""Les"" Farnum",159
+Vermilion,00 32B,State Senate,26,DEM,Jean Menard,80
+Vermilion,00 34,State Senate,26,REP,Jerry Gaspard,21
+Vermilion,00 34,State Senate,26,REP,"""Bob"" Hensgens",125
+Vermilion,00 34,State Senate,26,DEM,Jean Menard,67
+Vermilion,00 34A,State Senate,26,REP,Jerry Gaspard,7
+Vermilion,00 34A,State Senate,26,REP,"""Bob"" Hensgens",19
+Vermilion,00 34A,State Senate,26,DEM,Jean Menard,52
+Vermilion,00 35,State Senate,26,REP,Jerry Gaspard,27
+Vermilion,00 35,State Senate,26,REP,"""Bob"" Hensgens",146
+Vermilion,00 35,State Senate,26,DEM,Jean Menard,70
+Vermilion,00 36A-1,State Senate,26,REP,Jerry Gaspard,4
+Vermilion,00 36A-1,State Senate,26,REP,"""Bob"" Hensgens",42
+Vermilion,00 36A-1,State Senate,26,DEM,Jean Menard,49
+Vermilion,00 37,State Senate,26,REP,Jerry Gaspard,17
+Vermilion,00 37,State Senate,26,REP,"""Bob"" Hensgens",44
+Vermilion,00 37,State Senate,26,DEM,Jean Menard,228
+Vermilion,00 38,State Senate,26,REP,Jerry Gaspard,10
+Vermilion,00 38,State Senate,26,REP,"""Bob"" Hensgens",21
+Vermilion,00 38,State Senate,26,DEM,Jean Menard,146
+Vermilion,00 39,State Senate,26,REP,Jerry Gaspard,24
+Vermilion,00 39,State Senate,26,REP,"""Bob"" Hensgens",47
+Vermilion,00 39,State Senate,26,DEM,Jean Menard,76
+Vermilion,00 40,State Senate,26,REP,Jerry Gaspard,48
+Vermilion,00 40,State Senate,26,REP,"""Bob"" Hensgens",316
+Vermilion,00 40,State Senate,26,DEM,Jean Menard,55
+Vermilion,00 41,State Senate,26,REP,Jerry Gaspard,8
+Vermilion,00 41,State Senate,26,REP,"""Bob"" Hensgens",29
+Vermilion,00 41,State Senate,26,DEM,Jean Menard,1
+Vermilion,00 42A,State Senate,26,REP,Jerry Gaspard,55
+Vermilion,00 42A,State Senate,26,REP,"""Bob"" Hensgens",192
+Vermilion,00 42A,State Senate,26,DEM,Jean Menard,52
+Vermilion,00 42B,State Senate,26,REP,Jerry Gaspard,0
+Vermilion,00 42B,State Senate,26,REP,"""Bob"" Hensgens",16
+Vermilion,00 42B,State Senate,26,DEM,Jean Menard,5
+Vermilion,00 44,State Senate,26,REP,Jerry Gaspard,60
+Vermilion,00 44,State Senate,26,REP,"""Bob"" Hensgens",198
+Vermilion,00 44,State Senate,26,DEM,Jean Menard,16
+Vermilion,00 45A,State Senate,26,REP,Jerry Gaspard,30
+Vermilion,00 45A,State Senate,26,REP,"""Bob"" Hensgens",143
+Vermilion,00 45A,State Senate,26,DEM,Jean Menard,27
+Vermilion,00 46A,State Senate,26,REP,Jerry Gaspard,24
+Vermilion,00 46A,State Senate,26,REP,"""Bob"" Hensgens",133
+Vermilion,00 46A,State Senate,26,DEM,Jean Menard,44
+Vermilion,00 46B-1,State Senate,26,REP,Jerry Gaspard,31
+Vermilion,00 46B-1,State Senate,26,REP,"""Bob"" Hensgens",106
+Vermilion,00 46B-1,State Senate,26,DEM,Jean Menard,89
+Vermilion,00 46B-2,State Senate,26,REP,Jerry Gaspard,10
+Vermilion,00 46B-2,State Senate,26,REP,"""Bob"" Hensgens",20
+Vermilion,00 46B-2,State Senate,26,DEM,Jean Menard,47
+Vermilion,00 46B-3,State Senate,26,REP,Jerry Gaspard,6
+Vermilion,00 46B-3,State Senate,26,REP,"""Bob"" Hensgens",59
+Vermilion,00 46B-3,State Senate,26,DEM,Jean Menard,16
+Vermilion,00 46B-4,State Senate,26,REP,Jerry Gaspard,41
+Vermilion,00 46B-4,State Senate,26,REP,"""Bob"" Hensgens",105
+Vermilion,00 46B-4,State Senate,26,DEM,Jean Menard,67
+Vermilion,00 49B-1,State Senate,26,REP,Jerry Gaspard,152
+Vermilion,00 49B-1,State Senate,26,REP,"""Bob"" Hensgens",535
+Vermilion,00 49B-1,State Senate,26,DEM,Jean Menard,66
+Vermilion,00 49B-2,State Senate,26,REP,Jerry Gaspard,22
+Vermilion,00 49B-2,State Senate,26,REP,"""Bob"" Hensgens",87
+Vermilion,00 49B-2,State Senate,26,DEM,Jean Menard,12
+Vermilion,00 50A,State Senate,26,REP,Jerry Gaspard,59
+Vermilion,00 50A,State Senate,26,REP,"""Bob"" Hensgens",261
+Vermilion,00 50A,State Senate,26,DEM,Jean Menard,52
+Vermilion,00 51,State Senate,26,REP,Jerry Gaspard,49
+Vermilion,00 51,State Senate,26,REP,"""Bob"" Hensgens",222
+Vermilion,00 51,State Senate,26,DEM,Jean Menard,71
+Vermilion,00 53,State Senate,26,REP,Jerry Gaspard,112
+Vermilion,00 53,State Senate,26,REP,"""Bob"" Hensgens",407
+Vermilion,00 53,State Senate,26,DEM,Jean Menard,100
+Vermilion,00 57A,State Senate,26,REP,Jerry Gaspard,89
+Vermilion,00 57A,State Senate,26,REP,"""Bob"" Hensgens",279
+Vermilion,00 57A,State Senate,26,DEM,Jean Menard,44
+Vermilion,00 57B,State Senate,26,REP,Jerry Gaspard,11
+Vermilion,00 57B,State Senate,26,REP,"""Bob"" Hensgens",57
+Vermilion,00 57B,State Senate,26,DEM,Jean Menard,7
+Vermilion,Early Voting,State Senate,26,REP,Jerry Gaspard,510
+Vermilion,Early Voting,State Senate,26,REP,"""Bob"" Hensgens",2280
+Vermilion,Early Voting,State Senate,26,DEM,Jean Menard,529
+Calcasieu,00 400,State House,33,DEM,"""Les"" Farnum",138
+Calcasieu,00 400,State House,33,DEM,Teri A. Johnson,28
+Calcasieu,00 400,State House,33,REP,Stuart Moss,232
+Calcasieu,00 401,State House,33,DEM,"""Les"" Farnum",123
+Calcasieu,00 401,State House,33,DEM,Teri A. Johnson,22
+Calcasieu,00 401,State House,33,REP,Stuart Moss,176
+Calcasieu,00 402,State House,33,DEM,"""Les"" Farnum",122
 Calcasieu,00 402,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 402,State House,33,REP,Stuart Moss,829
-Calcasieu,00 403,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 403,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 403,State House,33,REP,Stuart Moss,829
-Calcasieu,00 404,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 404,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 404,State House,33,REP,Stuart Moss,829
-Calcasieu,00 405,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 405,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 405,State House,33,REP,Stuart Moss,829
-Calcasieu,00 406,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 406,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 406,State House,33,REP,Stuart Moss,829
-Calcasieu,00 407,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 407,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 407,State House,33,REP,Stuart Moss,829
-Calcasieu,00 408,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 408,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 408,State House,33,REP,Stuart Moss,829
-Calcasieu,00 460E,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 460E,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 460E,State House,33,REP,Stuart Moss,829
-Calcasieu,00 460W,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 460W,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 460W,State House,33,REP,Stuart Moss,829
-Calcasieu,00 461,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 461,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 461,State House,33,REP,Stuart Moss,829
-Calcasieu,00 465,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 465,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 465,State House,33,REP,Stuart Moss,829
-Calcasieu,00 466E,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 466E,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 466E,State House,33,REP,Stuart Moss,829
-Calcasieu,00 466W,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 466W,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 466W,State House,33,REP,Stuart Moss,829
-Calcasieu,00 467,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 467,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 467,State House,33,REP,Stuart Moss,829
-Calcasieu,00 468,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 468,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 468,State House,33,REP,Stuart Moss,829
-Calcasieu,00 469,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 469,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 469,State House,33,REP,Stuart Moss,829
-Calcasieu,00 560,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 560,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 560,State House,33,REP,Stuart Moss,829
-Calcasieu,00 561,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 561,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 561,State House,33,REP,Stuart Moss,829
-Calcasieu,00 562,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 562,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 562,State House,33,REP,Stuart Moss,829
-Calcasieu,00 661,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 661,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 661,State House,33,REP,Stuart Moss,829
-Calcasieu,00 663,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 663,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 663,State House,33,REP,Stuart Moss,829
-Calcasieu,00 700,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 700,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 700,State House,33,REP,Stuart Moss,829
-Calcasieu,00 701,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 701,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 701,State House,33,REP,Stuart Moss,829
-Calcasieu,00 702,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 702,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 702,State House,33,REP,Stuart Moss,829
-Calcasieu,00 703,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 703,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 703,State House,33,REP,Stuart Moss,829
-Calcasieu,00 762,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,00 762,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,00 762,State House,33,REP,Stuart Moss,829
-Calcasieu,Early Voting,State House,33,DEM,"""Les"" Farnum",159
-Calcasieu,Early Voting,State House,33,DEM,Teri A. Johnson,15
-Calcasieu,Early Voting,State House,33,REP,Stuart Moss,829
-,Total Votes,State House,90,REP,Mary DuBuisson,159
-,Total Votes,State House,90,REP,Brian Glorioso,15
-,Total Votes,State House,90,DEM,Sean Morrison,829
-,Total Votes,State House,90,REP,John Raymond,71
-St. Tammany,00 802,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 802,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 802,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 802,State House,90,REP,John Raymond,71
-St. Tammany,00 803,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 803,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 803,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 803,State House,90,REP,John Raymond,71
-St. Tammany,00 815,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 815,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 815,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 815,State House,90,REP,John Raymond,71
-St. Tammany,00 902,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 902,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 902,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 902,State House,90,REP,John Raymond,71
-St. Tammany,00 903,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 903,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 903,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 903,State House,90,REP,John Raymond,71
-St. Tammany,00 904,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 904,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 904,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 904,State House,90,REP,John Raymond,71
-St. Tammany,00 906,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 906,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 906,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 906,State House,90,REP,John Raymond,71
-St. Tammany,00 907,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 907,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 907,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 907,State House,90,REP,John Raymond,71
-St. Tammany,00 910,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 910,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 910,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 910,State House,90,REP,John Raymond,71
-St. Tammany,00 911,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 911,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 911,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 911,State House,90,REP,John Raymond,71
-St. Tammany,00 912,State House,90,REP,Mary DuBuisson,159
+Calcasieu,00 402,State House,33,REP,Stuart Moss,127
+Calcasieu,00 403,State House,33,DEM,"""Les"" Farnum",178
+Calcasieu,00 403,State House,33,DEM,Teri A. Johnson,54
+Calcasieu,00 403,State House,33,REP,Stuart Moss,195
+Calcasieu,00 404,State House,33,DEM,"""Les"" Farnum",291
+Calcasieu,00 404,State House,33,DEM,Teri A. Johnson,59
+Calcasieu,00 404,State House,33,REP,Stuart Moss,323
+Calcasieu,00 405,State House,33,DEM,"""Les"" Farnum",399
+Calcasieu,00 405,State House,33,DEM,Teri A. Johnson,51
+Calcasieu,00 405,State House,33,REP,Stuart Moss,389
+Calcasieu,00 406,State House,33,DEM,"""Les"" Farnum",151
+Calcasieu,00 406,State House,33,DEM,Teri A. Johnson,45
+Calcasieu,00 406,State House,33,REP,Stuart Moss,209
+Calcasieu,00 407,State House,33,DEM,"""Les"" Farnum",187
+Calcasieu,00 407,State House,33,DEM,Teri A. Johnson,43
+Calcasieu,00 407,State House,33,REP,Stuart Moss,190
+Calcasieu,00 408,State House,33,DEM,"""Les"" Farnum",189
+Calcasieu,00 408,State House,33,DEM,Teri A. Johnson,35
+Calcasieu,00 408,State House,33,REP,Stuart Moss,237
+Calcasieu,00 460E,State House,33,DEM,"""Les"" Farnum",30
+Calcasieu,00 460E,State House,33,DEM,Teri A. Johnson,11
+Calcasieu,00 460E,State House,33,REP,Stuart Moss,146
+Calcasieu,00 460W,State House,33,DEM,"""Les"" Farnum",139
+Calcasieu,00 460W,State House,33,DEM,Teri A. Johnson,17
+Calcasieu,00 460W,State House,33,REP,Stuart Moss,236
+Calcasieu,00 461,State House,33,DEM,"""Les"" Farnum",114
+Calcasieu,00 461,State House,33,DEM,Teri A. Johnson,42
+Calcasieu,00 461,State House,33,REP,Stuart Moss,194
+Calcasieu,00 465,State House,33,DEM,"""Les"" Farnum",73
+Calcasieu,00 465,State House,33,DEM,Teri A. Johnson,9
+Calcasieu,00 465,State House,33,REP,Stuart Moss,152
+Calcasieu,00 466E,State House,33,DEM,"""Les"" Farnum",200
+Calcasieu,00 466E,State House,33,DEM,Teri A. Johnson,35
+Calcasieu,00 466E,State House,33,REP,Stuart Moss,335
+Calcasieu,00 466W,State House,33,DEM,"""Les"" Farnum",311
+Calcasieu,00 466W,State House,33,DEM,Teri A. Johnson,33
+Calcasieu,00 466W,State House,33,REP,Stuart Moss,355
+Calcasieu,00 467,State House,33,DEM,"""Les"" Farnum",175
+Calcasieu,00 467,State House,33,DEM,Teri A. Johnson,43
+Calcasieu,00 467,State House,33,REP,Stuart Moss,293
+Calcasieu,00 468,State House,33,DEM,"""Les"" Farnum",149
+Calcasieu,00 468,State House,33,DEM,Teri A. Johnson,19
+Calcasieu,00 468,State House,33,REP,Stuart Moss,287
+Calcasieu,00 469,State House,33,DEM,"""Les"" Farnum",138
+Calcasieu,00 469,State House,33,DEM,Teri A. Johnson,14
+Calcasieu,00 469,State House,33,REP,Stuart Moss,218
+Calcasieu,00 560,State House,33,DEM,"""Les"" Farnum",42
+Calcasieu,00 560,State House,33,DEM,Teri A. Johnson,14
+Calcasieu,00 560,State House,33,REP,Stuart Moss,192
+Calcasieu,00 561,State House,33,DEM,"""Les"" Farnum",50
+Calcasieu,00 561,State House,33,DEM,Teri A. Johnson,10
+Calcasieu,00 561,State House,33,REP,Stuart Moss,159
+Calcasieu,00 562,State House,33,DEM,"""Les"" Farnum",27
+Calcasieu,00 562,State House,33,DEM,Teri A. Johnson,7
+Calcasieu,00 562,State House,33,REP,Stuart Moss,94
+Calcasieu,00 661,State House,33,DEM,"""Les"" Farnum",41
+Calcasieu,00 661,State House,33,DEM,Teri A. Johnson,26
+Calcasieu,00 661,State House,33,REP,Stuart Moss,173
+Calcasieu,00 663,State House,33,DEM,"""Les"" Farnum",29
+Calcasieu,00 663,State House,33,DEM,Teri A. Johnson,5
+Calcasieu,00 663,State House,33,REP,Stuart Moss,97
+Calcasieu,00 700,State House,33,DEM,"""Les"" Farnum",59
+Calcasieu,00 700,State House,33,DEM,Teri A. Johnson,16
+Calcasieu,00 700,State House,33,REP,Stuart Moss,125
+Calcasieu,00 701,State House,33,DEM,"""Les"" Farnum",71
+Calcasieu,00 701,State House,33,DEM,Teri A. Johnson,36
+Calcasieu,00 701,State House,33,REP,Stuart Moss,19
+Calcasieu,00 702,State House,33,DEM,"""Les"" Farnum",73
+Calcasieu,00 702,State House,33,DEM,Teri A. Johnson,11
+Calcasieu,00 702,State House,33,REP,Stuart Moss,134
+Calcasieu,00 703,State House,33,DEM,"""Les"" Farnum",50
+Calcasieu,00 703,State House,33,DEM,Teri A. Johnson,18
+Calcasieu,00 703,State House,33,REP,Stuart Moss,98
+Calcasieu,00 762,State House,33,DEM,"""Les"" Farnum",50
+Calcasieu,00 762,State House,33,DEM,Teri A. Johnson,9
+Calcasieu,00 762,State House,33,REP,Stuart Moss,98
+Calcasieu,Early Voting,State House,33,DEM,"""Les"" Farnum",1284
+Calcasieu,Early Voting,State House,33,DEM,Teri A. Johnson,185
+Calcasieu,Early Voting,State House,33,REP,Stuart Moss,1312
+St. Tammany,00 802,State House,90,REP,Mary DuBuisson,182
+St. Tammany,00 802,State House,90,REP,Brian Glorioso,133
+St. Tammany,00 802,State House,90,DEM,Sean Morrison,188
+St. Tammany,00 802,State House,90,REP,John Raymond,156
+St. Tammany,00 803,State House,90,REP,Mary DuBuisson,173
+St. Tammany,00 803,State House,90,REP,Brian Glorioso,130
+St. Tammany,00 803,State House,90,DEM,Sean Morrison,157
+St. Tammany,00 803,State House,90,REP,John Raymond,161
+St. Tammany,00 815,State House,90,REP,Mary DuBuisson,91
+St. Tammany,00 815,State House,90,REP,Brian Glorioso,52
+St. Tammany,00 815,State House,90,DEM,Sean Morrison,42
+St. Tammany,00 815,State House,90,REP,John Raymond,56
+St. Tammany,00 902,State House,90,REP,Mary DuBuisson,53
+St. Tammany,00 902,State House,90,REP,Brian Glorioso,27
+St. Tammany,00 902,State House,90,DEM,Sean Morrison,61
+St. Tammany,00 902,State House,90,REP,John Raymond,34
+St. Tammany,00 903,State House,90,REP,Mary DuBuisson,181
+St. Tammany,00 903,State House,90,REP,Brian Glorioso,116
+St. Tammany,00 903,State House,90,DEM,Sean Morrison,73
+St. Tammany,00 903,State House,90,REP,John Raymond,182
+St. Tammany,00 904,State House,90,REP,Mary DuBuisson,109
+St. Tammany,00 904,State House,90,REP,Brian Glorioso,60
+St. Tammany,00 904,State House,90,DEM,Sean Morrison,297
+St. Tammany,00 904,State House,90,REP,John Raymond,89
+St. Tammany,00 906,State House,90,REP,Mary DuBuisson,76
+St. Tammany,00 906,State House,90,REP,Brian Glorioso,58
+St. Tammany,00 906,State House,90,DEM,Sean Morrison,107
+St. Tammany,00 906,State House,90,REP,John Raymond,54
+St. Tammany,00 907,State House,90,REP,Mary DuBuisson,45
+St. Tammany,00 907,State House,90,REP,Brian Glorioso,18
+St. Tammany,00 907,State House,90,DEM,Sean Morrison,64
+St. Tammany,00 907,State House,90,REP,John Raymond,24
+St. Tammany,00 910,State House,90,REP,Mary DuBuisson,226
+St. Tammany,00 910,State House,90,REP,Brian Glorioso,121
+St. Tammany,00 910,State House,90,DEM,Sean Morrison,94
+St. Tammany,00 910,State House,90,REP,John Raymond,179
+St. Tammany,00 911,State House,90,REP,Mary DuBuisson,188
+St. Tammany,00 911,State House,90,REP,Brian Glorioso,105
+St. Tammany,00 911,State House,90,DEM,Sean Morrison,72
+St. Tammany,00 911,State House,90,REP,John Raymond,121
+St. Tammany,00 912,State House,90,REP,Mary DuBuisson,22
 St. Tammany,00 912,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 912,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 912,State House,90,REP,John Raymond,71
-St. Tammany,00 914,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 914,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 914,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 914,State House,90,REP,John Raymond,71
-St. Tammany,00 916,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 916,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 916,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 916,State House,90,REP,John Raymond,71
-St. Tammany,00 921,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 921,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 921,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 921,State House,90,REP,John Raymond,71
-St. Tammany,00 P01,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 P01,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 P01,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 P01,State House,90,REP,John Raymond,71
-St. Tammany,00 S01,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S01,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S01,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S01,State House,90,REP,John Raymond,71
-St. Tammany,00 S02,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S02,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S02,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S02,State House,90,REP,John Raymond,71
-St. Tammany,00 S03,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S03,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S03,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S03,State House,90,REP,John Raymond,71
-St. Tammany,00 S04,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S04,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S04,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S04,State House,90,REP,John Raymond,71
-St. Tammany,00 S05,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S05,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S05,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S05,State House,90,REP,John Raymond,71
-St. Tammany,00 S06,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S06,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S06,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S06,State House,90,REP,John Raymond,71
-St. Tammany,00 S07,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S07,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S07,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S07,State House,90,REP,John Raymond,71
-St. Tammany,00 S08,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S08,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S08,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S08,State House,90,REP,John Raymond,71
-St. Tammany,00 S09,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S09,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S09,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S09,State House,90,REP,John Raymond,71
-St. Tammany,00 S13,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S13,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S13,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S13,State House,90,REP,John Raymond,71
-St. Tammany,00 S15,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S15,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S15,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S15,State House,90,REP,John Raymond,71
-St. Tammany,00 S18,State House,90,REP,Mary DuBuisson,159
-St. Tammany,00 S18,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S18,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S18,State House,90,REP,John Raymond,71
-St. Tammany,00 S19,State House,90,REP,Mary DuBuisson,159
+St. Tammany,00 912,State House,90,DEM,Sean Morrison,64
+St. Tammany,00 912,State House,90,REP,John Raymond,16
+St. Tammany,00 914,State House,90,REP,Mary DuBuisson,53
+St. Tammany,00 914,State House,90,REP,Brian Glorioso,24
+St. Tammany,00 914,State House,90,DEM,Sean Morrison,152
+St. Tammany,00 914,State House,90,REP,John Raymond,43
+St. Tammany,00 916,State House,90,REP,Mary DuBuisson,47
+St. Tammany,00 916,State House,90,REP,Brian Glorioso,19
+St. Tammany,00 916,State House,90,DEM,Sean Morrison,36
+St. Tammany,00 916,State House,90,REP,John Raymond,41
+St. Tammany,00 921,State House,90,REP,Mary DuBuisson,83
+St. Tammany,00 921,State House,90,REP,Brian Glorioso,103
+St. Tammany,00 921,State House,90,DEM,Sean Morrison,79
+St. Tammany,00 921,State House,90,REP,John Raymond,89
+St. Tammany,00 P01,State House,90,REP,Mary DuBuisson,190
+St. Tammany,00 P01,State House,90,REP,Brian Glorioso,185
+St. Tammany,00 P01,State House,90,DEM,Sean Morrison,63
+St. Tammany,00 P01,State House,90,REP,John Raymond,304
+St. Tammany,00 S01,State House,90,REP,Mary DuBuisson,186
+St. Tammany,00 S01,State House,90,REP,Brian Glorioso,159
+St. Tammany,00 S01,State House,90,DEM,Sean Morrison,99
+St. Tammany,00 S01,State House,90,REP,John Raymond,81
+St. Tammany,00 S02,State House,90,REP,Mary DuBuisson,82
+St. Tammany,00 S02,State House,90,REP,Brian Glorioso,63
+St. Tammany,00 S02,State House,90,DEM,Sean Morrison,51
+St. Tammany,00 S02,State House,90,REP,John Raymond,59
+St. Tammany,00 S03,State House,90,REP,Mary DuBuisson,141
+St. Tammany,00 S03,State House,90,REP,Brian Glorioso,93
+St. Tammany,00 S03,State House,90,DEM,Sean Morrison,66
+St. Tammany,00 S03,State House,90,REP,John Raymond,97
+St. Tammany,00 S04,State House,90,REP,Mary DuBuisson,106
+St. Tammany,00 S04,State House,90,REP,Brian Glorioso,96
+St. Tammany,00 S04,State House,90,DEM,Sean Morrison,43
+St. Tammany,00 S04,State House,90,REP,John Raymond,80
+St. Tammany,00 S05,State House,90,REP,Mary DuBuisson,196
+St. Tammany,00 S05,State House,90,REP,Brian Glorioso,157
+St. Tammany,00 S05,State House,90,DEM,Sean Morrison,112
+St. Tammany,00 S05,State House,90,REP,John Raymond,142
+St. Tammany,00 S06,State House,90,REP,Mary DuBuisson,130
+St. Tammany,00 S06,State House,90,REP,Brian Glorioso,77
+St. Tammany,00 S06,State House,90,DEM,Sean Morrison,170
+St. Tammany,00 S06,State House,90,REP,John Raymond,107
+St. Tammany,00 S07,State House,90,REP,Mary DuBuisson,57
+St. Tammany,00 S07,State House,90,REP,Brian Glorioso,19
+St. Tammany,00 S07,State House,90,DEM,Sean Morrison,156
+St. Tammany,00 S07,State House,90,REP,John Raymond,19
+St. Tammany,00 S08,State House,90,REP,Mary DuBuisson,151
+St. Tammany,00 S08,State House,90,REP,Brian Glorioso,80
+St. Tammany,00 S08,State House,90,DEM,Sean Morrison,109
+St. Tammany,00 S08,State House,90,REP,John Raymond,59
+St. Tammany,00 S09,State House,90,REP,Mary DuBuisson,107
+St. Tammany,00 S09,State House,90,REP,Brian Glorioso,79
+St. Tammany,00 S09,State House,90,DEM,Sean Morrison,47
+St. Tammany,00 S09,State House,90,REP,John Raymond,67
+St. Tammany,00 S13,State House,90,REP,Mary DuBuisson,57
+St. Tammany,00 S13,State House,90,REP,Brian Glorioso,45
+St. Tammany,00 S13,State House,90,DEM,Sean Morrison,40
+St. Tammany,00 S13,State House,90,REP,John Raymond,48
+St. Tammany,00 S15,State House,90,REP,Mary DuBuisson,86
+St. Tammany,00 S15,State House,90,REP,Brian Glorioso,52
+St. Tammany,00 S15,State House,90,DEM,Sean Morrison,95
+St. Tammany,00 S15,State House,90,REP,John Raymond,47
+St. Tammany,00 S18,State House,90,REP,Mary DuBuisson,72
+St. Tammany,00 S18,State House,90,REP,Brian Glorioso,62
+St. Tammany,00 S18,State House,90,DEM,Sean Morrison,46
+St. Tammany,00 S18,State House,90,REP,John Raymond,80
+St. Tammany,00 S19,State House,90,REP,Mary DuBuisson,27
 St. Tammany,00 S19,State House,90,REP,Brian Glorioso,15
-St. Tammany,00 S19,State House,90,DEM,Sean Morrison,829
-St. Tammany,00 S19,State House,90,REP,John Raymond,71
-St. Tammany,Early Voting,State House,90,REP,Mary DuBuisson,159
-St. Tammany,Early Voting,State House,90,REP,Brian Glorioso,15
-St. Tammany,Early Voting,State House,90,DEM,Sean Morrison,829
-St. Tammany,Early Voting,State House,90,REP,John Raymond,71
+St. Tammany,00 S19,State House,90,DEM,Sean Morrison,122
+St. Tammany,00 S19,State House,90,REP,John Raymond,23
+St. Tammany,Early Voting,State House,90,REP,Mary DuBuisson,1146
+St. Tammany,Early Voting,State House,90,REP,Brian Glorioso,749
+St. Tammany,Early Voting,State House,90,DEM,Sean Morrison,935
+St. Tammany,Early Voting,State House,90,REP,John Raymond,1185
